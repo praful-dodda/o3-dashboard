@@ -1,0 +1,2641 @@
+RegionSet,Region,Metric,Weighting,Year,Value,Ncells
+Global,"Global",AnnualMean,pop,1990,35.3819245766364,18173
+Global,"Global",AnnualMean,pop,1991,32.9547237539183,18173
+Global,"Global",AnnualMean,pop,1992,31.6586160418066,18173
+Global,"Global",AnnualMean,pop,1993,32.9040498137348,18173
+Global,"Global",AnnualMean,pop,1994,33.5025859212692,18173
+Global,"Global",AnnualMean,pop,1995,34.2336165640116,18173
+Global,"Global",AnnualMean,pop,1996,34.7158150733911,18173
+Global,"Global",AnnualMean,pop,1997,36.0956152766954,18173
+Global,"Global",AnnualMean,pop,1998,35.480080405563,18173
+Global,"Global",AnnualMean,pop,1999,35.8766508254789,18173
+Global,"Global",AnnualMean,pop,2000,33.7819977523638,18173
+Global,"Global",AnnualMean,pop,2001,34.0490421350216,18173
+Global,"Global",AnnualMean,pop,2002,36.0010063732842,18173
+Global,"Global",AnnualMean,pop,2003,37.2801764191589,18173
+Global,"Global",AnnualMean,pop,2004,35.9181823951731,18173
+Global,"Global",AnnualMean,pop,2005,35.3364720717079,18173
+Global,"Global",AnnualMean,pop,2006,35.9337573395306,18173
+Global,"Global",AnnualMean,pop,2007,36.6858729093182,18173
+Global,"Global",AnnualMean,pop,2008,37.6205218670223,18173
+Global,"Global",AnnualMean,pop,2009,36.9653764283062,18173
+Global,"Global",AnnualMean,pop,2010,36.1755363850289,18173
+Global,"Global",AnnualMean,pop,2011,36.2300776084682,18173
+Global,"Global",AnnualMean,pop,2012,37.492938401284,18173
+Global,"Global",AnnualMean,pop,2013,33.9771077877058,18173
+Global,"Global",AnnualMean,pop,2014,36.3129218352251,18173
+Global,"Global",AnnualMean,pop,2015,36.29389618331,18173
+Global,"Global",AnnualMean,pop,2016,35.0341462696295,18173
+Global,"Global",AnnualMean,pop,2017,38.8802586628515,18173
+Global,"Global",AnnualMean,pop,2018,39.3759477980653,18173
+Global,"Global",AnnualMean,pop,2019,39.1813392690009,18173
+Global,"Global",AnnualMean,pop,2020,38.0542015645849,18173
+Global,"Global",AnnualMean,pop,2021,38.8648189237944,18173
+Global,"Global",AnnualMean,pop,2022,41.1255859972753,18173
+Global,"Global",OSDMA8,pop,1990,38.7444830181077,18173
+Global,"Global",OSDMA8,pop,1991,38.7440010254927,18173
+Global,"Global",OSDMA8,pop,1992,38.0628174096524,18173
+Global,"Global",OSDMA8,pop,1993,39.2290427618932,18173
+Global,"Global",OSDMA8,pop,1994,39.4825172753338,18173
+Global,"Global",OSDMA8,pop,1995,40.091788251708,18173
+Global,"Global",OSDMA8,pop,1996,41.1184053652427,18173
+Global,"Global",OSDMA8,pop,1997,41.9149211001884,18173
+Global,"Global",OSDMA8,pop,1998,41.7081231976209,18173
+Global,"Global",OSDMA8,pop,1999,42.5865791475684,18173
+Global,"Global",OSDMA8,pop,2000,40.2233133993092,18173
+Global,"Global",OSDMA8,pop,2001,40.3577725858145,18173
+Global,"Global",OSDMA8,pop,2002,41.5917420121825,18173
+Global,"Global",OSDMA8,pop,2003,44.3889635692613,18173
+Global,"Global",OSDMA8,pop,2004,41.6747511981485,18173
+Global,"Global",OSDMA8,pop,2005,41.1390579482614,18173
+Global,"Global",OSDMA8,pop,2006,42.0536698639187,18173
+Global,"Global",OSDMA8,pop,2007,42.7299078623565,18173
+Global,"Global",OSDMA8,pop,2008,43.776644104944,18173
+Global,"Global",OSDMA8,pop,2009,43.3338375994545,18173
+Global,"Global",OSDMA8,pop,2010,41.9366148241942,18173
+Global,"Global",OSDMA8,pop,2011,42.6632490298641,18173
+Global,"Global",OSDMA8,pop,2012,44.3326208399574,18173
+Global,"Global",OSDMA8,pop,2013,40.3324399255427,18173
+Global,"Global",OSDMA8,pop,2014,44.0364066609401,18173
+Global,"Global",OSDMA8,pop,2015,43.3405999378358,18173
+Global,"Global",OSDMA8,pop,2016,42.1097279831025,18173
+Global,"Global",OSDMA8,pop,2017,46.1030719011513,18173
+Global,"Global",OSDMA8,pop,2018,46.3781262275786,18173
+Global,"Global",OSDMA8,pop,2019,46.7051426252226,18173
+Global,"Global",OSDMA8,pop,2020,44.3451617242243,18173
+Global,"Global",OSDMA8,pop,2021,45.0574208019825,18173
+Global,"Global",OSDMA8,pop,2022,46.5118188802155,18173
+world,"Africa",AnnualMean,pop,1990,39.0221632367367,2888
+world,"Africa",AnnualMean,pop,1991,31.5419137823988,2888
+world,"Africa",AnnualMean,pop,1992,30.4481087753517,2888
+world,"Africa",AnnualMean,pop,1993,30.6778751907941,2888
+world,"Africa",AnnualMean,pop,1994,29.3865312005585,2888
+world,"Africa",AnnualMean,pop,1995,31.7383233819295,2888
+world,"Africa",AnnualMean,pop,1996,32.0861607453773,2888
+world,"Africa",AnnualMean,pop,1997,34.2586138998289,2888
+world,"Africa",AnnualMean,pop,1998,33.744579334962,2888
+world,"Africa",AnnualMean,pop,1999,32.8320517015895,2888
+world,"Africa",AnnualMean,pop,2000,33.5590681701776,2888
+world,"Africa",AnnualMean,pop,2001,32.5328070972567,2888
+world,"Africa",AnnualMean,pop,2002,33.3712220443187,2888
+world,"Africa",AnnualMean,pop,2003,36.1309916753991,2888
+world,"Africa",AnnualMean,pop,2004,31.9103629969657,2888
+world,"Africa",AnnualMean,pop,2005,34.1814699618507,2888
+world,"Africa",AnnualMean,pop,2006,32.1598624297334,2888
+world,"Africa",AnnualMean,pop,2007,33.795557799279,2888
+world,"Africa",AnnualMean,pop,2008,34.0075628916524,2888
+world,"Africa",AnnualMean,pop,2009,34.056091164583,2888
+world,"Africa",AnnualMean,pop,2010,34.686053087709,2888
+world,"Africa",AnnualMean,pop,2011,36.9315053391971,2888
+world,"Africa",AnnualMean,pop,2012,35.7964323774469,2888
+world,"Africa",AnnualMean,pop,2013,33.1092763206047,2888
+world,"Africa",AnnualMean,pop,2014,35.3504272112066,2888
+world,"Africa",AnnualMean,pop,2015,37.7694221620357,2888
+world,"Africa",AnnualMean,pop,2016,36.8087938806171,2888
+world,"Africa",AnnualMean,pop,2017,36.59965932109,2888
+world,"Africa",AnnualMean,pop,2018,35.7613178205257,2888
+world,"Africa",AnnualMean,pop,2019,36.0939381149647,2888
+world,"Africa",AnnualMean,pop,2020,34.7021453159544,2888
+world,"Africa",AnnualMean,pop,2021,36.2563854039903,2888
+world,"Africa",AnnualMean,pop,2022,37.1294957569228,2888
+world,"Africa",OSDMA8,pop,1990,40.4331096884163,2888
+world,"Africa",OSDMA8,pop,1991,37.2023928958626,2888
+world,"Africa",OSDMA8,pop,1992,36.9501658727449,2888
+world,"Africa",OSDMA8,pop,1993,38.080765540834,2888
+world,"Africa",OSDMA8,pop,1994,35.1098177262437,2888
+world,"Africa",OSDMA8,pop,1995,36.7545915521646,2888
+world,"Africa",OSDMA8,pop,1996,38.8982228828506,2888
+world,"Africa",OSDMA8,pop,1997,39.0392998291651,2888
+world,"Africa",OSDMA8,pop,1998,38.9228533587256,2888
+world,"Africa",OSDMA8,pop,1999,38.8569558740022,2888
+world,"Africa",OSDMA8,pop,2000,39.3162285197503,2888
+world,"Africa",OSDMA8,pop,2001,37.2023186826415,2888
+world,"Africa",OSDMA8,pop,2002,38.9106535932532,2888
+world,"Africa",OSDMA8,pop,2003,42.5170837075468,2888
+world,"Africa",OSDMA8,pop,2004,36.2916024660403,2888
+world,"Africa",OSDMA8,pop,2005,38.8451738292407,2888
+world,"Africa",OSDMA8,pop,2006,36.8241539152419,2888
+world,"Africa",OSDMA8,pop,2007,38.4440006057448,2888
+world,"Africa",OSDMA8,pop,2008,38.1025230629978,2888
+world,"Africa",OSDMA8,pop,2009,38.8952062643203,2888
+world,"Africa",OSDMA8,pop,2010,39.3993133571661,2888
+world,"Africa",OSDMA8,pop,2011,42.1607037906451,2888
+world,"Africa",OSDMA8,pop,2012,40.7391626726052,2888
+world,"Africa",OSDMA8,pop,2013,38.6827353539017,2888
+world,"Africa",OSDMA8,pop,2014,40.542093124345,2888
+world,"Africa",OSDMA8,pop,2015,42.8329592529168,2888
+world,"Africa",OSDMA8,pop,2016,41.7647805842391,2888
+world,"Africa",OSDMA8,pop,2017,41.2288150068314,2888
+world,"Africa",OSDMA8,pop,2018,40.4716370647459,2888
+world,"Africa",OSDMA8,pop,2019,41.369382449649,2888
+world,"Africa",OSDMA8,pop,2020,39.093780139176,2888
+world,"Africa",OSDMA8,pop,2021,41.0583495769454,2888
+world,"Africa",OSDMA8,pop,2022,38.69545537788,2888
+world,"EastAsia",AnnualMean,pop,1990,34.3956460055001,1265
+world,"EastAsia",AnnualMean,pop,1991,32.4978351588146,1265
+world,"EastAsia",AnnualMean,pop,1992,31.925067732504,1265
+world,"EastAsia",AnnualMean,pop,1993,33.4491150252126,1265
+world,"EastAsia",AnnualMean,pop,1994,34.8153879069116,1265
+world,"EastAsia",AnnualMean,pop,1995,35.3463552213741,1265
+world,"EastAsia",AnnualMean,pop,1996,35.7601859249763,1265
+world,"EastAsia",AnnualMean,pop,1997,36.8598294262077,1265
+world,"EastAsia",AnnualMean,pop,1998,36.9587218253032,1265
+world,"EastAsia",AnnualMean,pop,1999,37.2684349450325,1265
+world,"EastAsia",AnnualMean,pop,2000,37.9180476870406,1265
+world,"EastAsia",AnnualMean,pop,2001,37.661968727181,1265
+world,"EastAsia",AnnualMean,pop,2002,37.993662736334,1265
+world,"EastAsia",AnnualMean,pop,2003,38.2164824589293,1265
+world,"EastAsia",AnnualMean,pop,2004,39.6450547021639,1265
+world,"EastAsia",AnnualMean,pop,2005,38.1240189628939,1265
+world,"EastAsia",AnnualMean,pop,2006,38.8190660202091,1265
+world,"EastAsia",AnnualMean,pop,2007,39.0972757224332,1265
+world,"EastAsia",AnnualMean,pop,2008,40.6078819910074,1265
+world,"EastAsia",AnnualMean,pop,2009,41.0964242932461,1265
+world,"EastAsia",AnnualMean,pop,2010,38.7254868960168,1265
+world,"EastAsia",AnnualMean,pop,2011,39.6132083539722,1265
+world,"EastAsia",AnnualMean,pop,2012,38.450228754931,1265
+world,"EastAsia",AnnualMean,pop,2013,37.8755171593324,1265
+world,"EastAsia",AnnualMean,pop,2014,39.229292322726,1265
+world,"EastAsia",AnnualMean,pop,2015,39.8030350979876,1265
+world,"EastAsia",AnnualMean,pop,2016,41.3968328699267,1265
+world,"EastAsia",AnnualMean,pop,2017,45.4842935847312,1265
+world,"EastAsia",AnnualMean,pop,2018,45.6532055824274,1265
+world,"EastAsia",AnnualMean,pop,2019,45.4140161072416,1265
+world,"EastAsia",AnnualMean,pop,2020,43.949291736384,1265
+world,"EastAsia",AnnualMean,pop,2021,44.5885285881279,1265
+world,"EastAsia",AnnualMean,pop,2022,47.1941441852294,1265
+world,"EastAsia",OSDMA8,pop,1990,37.3315128564628,1265
+world,"EastAsia",OSDMA8,pop,1991,37.4483972366291,1265
+world,"EastAsia",OSDMA8,pop,1992,38.0472381161219,1265
+world,"EastAsia",OSDMA8,pop,1993,38.9966943842143,1265
+world,"EastAsia",OSDMA8,pop,1994,41.2393542882833,1265
+world,"EastAsia",OSDMA8,pop,1995,41.3158838868331,1265
+world,"EastAsia",OSDMA8,pop,1996,42.0578945481615,1265
+world,"EastAsia",OSDMA8,pop,1997,43.4258886931392,1265
+world,"EastAsia",OSDMA8,pop,1998,43.3127723211783,1265
+world,"EastAsia",OSDMA8,pop,1999,44.3721977627217,1265
+world,"EastAsia",OSDMA8,pop,2000,44.9063638585135,1265
+world,"EastAsia",OSDMA8,pop,2001,44.4664218453354,1265
+world,"EastAsia",OSDMA8,pop,2002,43.7165963899586,1265
+world,"EastAsia",OSDMA8,pop,2003,44.5131896274858,1265
+world,"EastAsia",OSDMA8,pop,2004,46.0769738269762,1265
+world,"EastAsia",OSDMA8,pop,2005,45.1041374299475,1265
+world,"EastAsia",OSDMA8,pop,2006,46.6150831333912,1265
+world,"EastAsia",OSDMA8,pop,2007,46.6139322764343,1265
+world,"EastAsia",OSDMA8,pop,2008,48.4916918838788,1265
+world,"EastAsia",OSDMA8,pop,2009,48.6806177272472,1265
+world,"EastAsia",OSDMA8,pop,2010,45.4028303377881,1265
+world,"EastAsia",OSDMA8,pop,2011,47.6626201837603,1265
+world,"EastAsia",OSDMA8,pop,2012,47.24676309716,1265
+world,"EastAsia",OSDMA8,pop,2013,44.7582071693181,1265
+world,"EastAsia",OSDMA8,pop,2014,49.500271474292,1265
+world,"EastAsia",OSDMA8,pop,2015,49.988437668095,1265
+world,"EastAsia",OSDMA8,pop,2016,51.7795847991976,1265
+world,"EastAsia",OSDMA8,pop,2017,56.2487358963782,1265
+world,"EastAsia",OSDMA8,pop,2018,56.1982796436075,1265
+world,"EastAsia",OSDMA8,pop,2019,56.7034138306408,1265
+world,"EastAsia",OSDMA8,pop,2020,53.7845789266223,1265
+world,"EastAsia",OSDMA8,pop,2021,53.132251361762,1265
+world,"EastAsia",OSDMA8,pop,2022,57.1483996944943,1265
+world,"Europe",AnnualMean,pop,1990,35.5856545737761,1537
+world,"Europe",AnnualMean,pop,1991,33.240571538171,1537
+world,"Europe",AnnualMean,pop,1992,32.5866297116628,1537
+world,"Europe",AnnualMean,pop,1993,32.2228530632056,1537
+world,"Europe",AnnualMean,pop,1994,34.5896669288348,1537
+world,"Europe",AnnualMean,pop,1995,35.4390248647533,1537
+world,"Europe",AnnualMean,pop,1996,35.7585209831415,1537
+world,"Europe",AnnualMean,pop,1997,33.8504177010619,1537
+world,"Europe",AnnualMean,pop,1998,33.5042009379249,1537
+world,"Europe",AnnualMean,pop,1999,33.4092567957335,1537
+world,"Europe",AnnualMean,pop,2000,31.6828461757734,1537
+world,"Europe",AnnualMean,pop,2001,33.0979639811849,1537
+world,"Europe",AnnualMean,pop,2002,36.1471610552033,1537
+world,"Europe",AnnualMean,pop,2003,37.1239429940767,1537
+world,"Europe",AnnualMean,pop,2004,34.7006690550624,1537
+world,"Europe",AnnualMean,pop,2005,34.4841801184932,1537
+world,"Europe",AnnualMean,pop,2006,35.3987363352512,1537
+world,"Europe",AnnualMean,pop,2007,34.8935628065491,1537
+world,"Europe",AnnualMean,pop,2008,35.3811111661228,1537
+world,"Europe",AnnualMean,pop,2009,34.5736713627867,1537
+world,"Europe",AnnualMean,pop,2010,33.6846560618803,1537
+world,"Europe",AnnualMean,pop,2011,33.6959555678238,1537
+world,"Europe",AnnualMean,pop,2012,34.4649503136825,1537
+world,"Europe",AnnualMean,pop,2013,33.0337324186376,1537
+world,"Europe",AnnualMean,pop,2014,34.4216487691711,1537
+world,"Europe",AnnualMean,pop,2015,34.0351102750322,1537
+world,"Europe",AnnualMean,pop,2016,32.8243175224109,1537
+world,"Europe",AnnualMean,pop,2017,33.87206609059,1537
+world,"Europe",AnnualMean,pop,2018,34.8058902598579,1537
+world,"Europe",AnnualMean,pop,2019,34.3074215353973,1537
+world,"Europe",AnnualMean,pop,2020,33.4051790863364,1537
+world,"Europe",AnnualMean,pop,2021,33.5959295537531,1537
+world,"Europe",AnnualMean,pop,2022,35.3029384039097,1537
+world,"Europe",OSDMA8,pop,1990,45.3077288054842,1537
+world,"Europe",OSDMA8,pop,1991,43.2076206732529,1537
+world,"Europe",OSDMA8,pop,1992,42.9585966241031,1537
+world,"Europe",OSDMA8,pop,1993,41.7936697393241,1537
+world,"Europe",OSDMA8,pop,1994,44.3607688052281,1537
+world,"Europe",OSDMA8,pop,1995,44.75765873913,1537
+world,"Europe",OSDMA8,pop,1996,45.6774764636486,1537
+world,"Europe",OSDMA8,pop,1997,43.2426706366647,1537
+world,"Europe",OSDMA8,pop,1998,41.9808786175203,1537
+world,"Europe",OSDMA8,pop,1999,42.6457387815237,1537
+world,"Europe",OSDMA8,pop,2000,39.7865621747048,1537
+world,"Europe",OSDMA8,pop,2001,41.8479166443689,1537
+world,"Europe",OSDMA8,pop,2002,45.2364817137495,1537
+world,"Europe",OSDMA8,pop,2003,47.8428495567452,1537
+world,"Europe",OSDMA8,pop,2004,43.4633659334288,1537
+world,"Europe",OSDMA8,pop,2005,43.2159951104672,1537
+world,"Europe",OSDMA8,pop,2006,44.9465565328939,1537
+world,"Europe",OSDMA8,pop,2007,43.5217415200322,1537
+world,"Europe",OSDMA8,pop,2008,44.1220353376728,1537
+world,"Europe",OSDMA8,pop,2009,43.223016997942,1537
+world,"Europe",OSDMA8,pop,2010,41.9545262436101,1537
+world,"Europe",OSDMA8,pop,2011,41.5133328324403,1537
+world,"Europe",OSDMA8,pop,2012,42.4662764020646,1537
+world,"Europe",OSDMA8,pop,2013,41.0026035621546,1537
+world,"Europe",OSDMA8,pop,2014,42.5809830107265,1537
+world,"Europe",OSDMA8,pop,2015,42.1761196814185,1537
+world,"Europe",OSDMA8,pop,2016,40.6166903539766,1537
+world,"Europe",OSDMA8,pop,2017,41.0695179214652,1537
+world,"Europe",OSDMA8,pop,2018,43.1779257321638,1537
+world,"Europe",OSDMA8,pop,2019,42.0899653426269,1537
+world,"Europe",OSDMA8,pop,2020,40.6232379879776,1537
+world,"Europe",OSDMA8,pop,2021,40.3286670650484,1537
+world,"Europe",OSDMA8,pop,2022,42.7432450624275,1537
+world,"NorthAmerica",AnnualMean,pop,1990,40.0300757350111,3757
+world,"NorthAmerica",AnnualMean,pop,1991,37.3291280898053,3757
+world,"NorthAmerica",AnnualMean,pop,1992,35.1356173200782,3757
+world,"NorthAmerica",AnnualMean,pop,1993,36.5757668881325,3757
+world,"NorthAmerica",AnnualMean,pop,1994,37.880918210156,3757
+world,"NorthAmerica",AnnualMean,pop,1995,37.7546594101224,3757
+world,"NorthAmerica",AnnualMean,pop,1996,37.2167988588609,3757
+world,"NorthAmerica",AnnualMean,pop,1997,36.9487284446489,3757
+world,"NorthAmerica",AnnualMean,pop,1998,39.1565471899855,3757
+world,"NorthAmerica",AnnualMean,pop,1999,39.3172248228128,3757
+world,"NorthAmerica",AnnualMean,pop,2000,37.6522598370605,3757
+world,"NorthAmerica",AnnualMean,pop,2001,37.9993782884473,3757
+world,"NorthAmerica",AnnualMean,pop,2002,38.5949445989937,3757
+world,"NorthAmerica",AnnualMean,pop,2003,38.5958609653157,3757
+world,"NorthAmerica",AnnualMean,pop,2004,37.8552473270541,3757
+world,"NorthAmerica",AnnualMean,pop,2005,38.4115175823854,3757
+world,"NorthAmerica",AnnualMean,pop,2006,38.2914447083246,3757
+world,"NorthAmerica",AnnualMean,pop,2007,38.1121813707825,3757
+world,"NorthAmerica",AnnualMean,pop,2008,38.1451259051216,3757
+world,"NorthAmerica",AnnualMean,pop,2009,36.5100921667221,3757
+world,"NorthAmerica",AnnualMean,pop,2010,38.4079729470765,3757
+world,"NorthAmerica",AnnualMean,pop,2011,38.2300473446294,3757
+world,"NorthAmerica",AnnualMean,pop,2012,38.7553900758182,3757
+world,"NorthAmerica",AnnualMean,pop,2013,37.4271811883677,3757
+world,"NorthAmerica",AnnualMean,pop,2014,37.6654807302545,3757
+world,"NorthAmerica",AnnualMean,pop,2015,36.4093978311478,3757
+world,"NorthAmerica",AnnualMean,pop,2016,37.2689557302107,3757
+world,"NorthAmerica",AnnualMean,pop,2017,37.7392926592151,3757
+world,"NorthAmerica",AnnualMean,pop,2018,37.2878859590528,3757
+world,"NorthAmerica",AnnualMean,pop,2019,37.9597456762576,3757
+world,"NorthAmerica",AnnualMean,pop,2020,37.066761544144,3757
+world,"NorthAmerica",AnnualMean,pop,2021,38.1199574902541,3757
+world,"NorthAmerica",AnnualMean,pop,2022,38.1905088523544,3757
+world,"NorthAmerica",OSDMA8,pop,1990,46.8381689695056,3757
+world,"NorthAmerica",OSDMA8,pop,1991,44.7987839479094,3757
+world,"NorthAmerica",OSDMA8,pop,1992,42.3422039970363,3757
+world,"NorthAmerica",OSDMA8,pop,1993,44.1485044493995,3757
+world,"NorthAmerica",OSDMA8,pop,1994,45.6605562119792,3757
+world,"NorthAmerica",OSDMA8,pop,1995,46.1554715847975,3757
+world,"NorthAmerica",OSDMA8,pop,1996,45.1208656466786,3757
+world,"NorthAmerica",OSDMA8,pop,1997,44.3886950587576,3757
+world,"NorthAmerica",OSDMA8,pop,1998,48.6243154261021,3757
+world,"NorthAmerica",OSDMA8,pop,1999,46.5928064011946,3757
+world,"NorthAmerica",OSDMA8,pop,2000,44.9443341065597,3757
+world,"NorthAmerica",OSDMA8,pop,2001,45.2673188218259,3757
+world,"NorthAmerica",OSDMA8,pop,2002,46.5457737651715,3757
+world,"NorthAmerica",OSDMA8,pop,2003,45.737544912638,3757
+world,"NorthAmerica",OSDMA8,pop,2004,44.4349689117863,3757
+world,"NorthAmerica",OSDMA8,pop,2005,45.9860379451392,3757
+world,"NorthAmerica",OSDMA8,pop,2006,45.7622809373346,3757
+world,"NorthAmerica",OSDMA8,pop,2007,45.3147279159827,3757
+world,"NorthAmerica",OSDMA8,pop,2008,44.915016360217,3757
+world,"NorthAmerica",OSDMA8,pop,2009,42.8041080751442,3757
+world,"NorthAmerica",OSDMA8,pop,2010,44.1525483732162,3757
+world,"NorthAmerica",OSDMA8,pop,2011,44.492719742265,3757
+world,"NorthAmerica",OSDMA8,pop,2012,45.4136010619538,3757
+world,"NorthAmerica",OSDMA8,pop,2013,43.4648096899689,3757
+world,"NorthAmerica",OSDMA8,pop,2014,43.2520723723168,3757
+world,"NorthAmerica",OSDMA8,pop,2015,41.8329364780689,3757
+world,"NorthAmerica",OSDMA8,pop,2016,42.7300905654726,3757
+world,"NorthAmerica",OSDMA8,pop,2017,43.006606224079,3757
+world,"NorthAmerica",OSDMA8,pop,2018,43.4550914172585,3757
+world,"NorthAmerica",OSDMA8,pop,2019,43.0290889210632,3757
+world,"NorthAmerica",OSDMA8,pop,2020,41.8415812071389,3757
+world,"NorthAmerica",OSDMA8,pop,2021,42.9728469953655,3757
+world,"NorthAmerica",OSDMA8,pop,2022,42.2545409445924,3757
+world,"Oceania",AnnualMean,pop,1990,31.2964366282896,1260
+world,"Oceania",AnnualMean,pop,1991,23.3180196783205,1260
+world,"Oceania",AnnualMean,pop,1992,24.3009334895529,1260
+world,"Oceania",AnnualMean,pop,1993,25.5048304731893,1260
+world,"Oceania",AnnualMean,pop,1994,24.6713992384272,1260
+world,"Oceania",AnnualMean,pop,1995,23.3582354058618,1260
+world,"Oceania",AnnualMean,pop,1996,25.3266281014104,1260
+world,"Oceania",AnnualMean,pop,1997,28.4513831800724,1260
+world,"Oceania",AnnualMean,pop,1998,26.4180448807841,1260
+world,"Oceania",AnnualMean,pop,1999,24.366179490876,1260
+world,"Oceania",AnnualMean,pop,2000,26.6376138341296,1260
+world,"Oceania",AnnualMean,pop,2001,27.5673767870813,1260
+world,"Oceania",AnnualMean,pop,2002,30.4817934776958,1260
+world,"Oceania",AnnualMean,pop,2003,27.6270701986489,1260
+world,"Oceania",AnnualMean,pop,2004,29.1172363988429,1260
+world,"Oceania",AnnualMean,pop,2005,26.3234625577548,1260
+world,"Oceania",AnnualMean,pop,2006,26.8724732041563,1260
+world,"Oceania",AnnualMean,pop,2007,24.9871303931331,1260
+world,"Oceania",AnnualMean,pop,2008,23.4731613317004,1260
+world,"Oceania",AnnualMean,pop,2009,25.1657236098284,1260
+world,"Oceania",AnnualMean,pop,2010,24.2405425648224,1260
+world,"Oceania",AnnualMean,pop,2011,23.8879781182328,1260
+world,"Oceania",AnnualMean,pop,2012,25.6174535890531,1260
+world,"Oceania",AnnualMean,pop,2013,26.7915072520352,1260
+world,"Oceania",AnnualMean,pop,2014,25.4010558863968,1260
+world,"Oceania",AnnualMean,pop,2015,26.613843265284,1260
+world,"Oceania",AnnualMean,pop,2016,24.8954047122301,1260
+world,"Oceania",AnnualMean,pop,2017,26.1342603065128,1260
+world,"Oceania",AnnualMean,pop,2018,24.8109515084379,1260
+world,"Oceania",AnnualMean,pop,2019,29.2079262479601,1260
+world,"Oceania",AnnualMean,pop,2020,27.3762070353895,1260
+world,"Oceania",AnnualMean,pop,2021,27.6001812020526,1260
+world,"Oceania",AnnualMean,pop,2022,27.7134735931183,1260
+world,"Oceania",OSDMA8,pop,1990,31.8035742056102,1260
+world,"Oceania",OSDMA8,pop,1991,28.0136389703539,1260
+world,"Oceania",OSDMA8,pop,1992,28.420464366493,1260
+world,"Oceania",OSDMA8,pop,1993,29.6300389080761,1260
+world,"Oceania",OSDMA8,pop,1994,29.0934111463944,1260
+world,"Oceania",OSDMA8,pop,1995,25.7426077323136,1260
+world,"Oceania",OSDMA8,pop,1996,29.5956877700239,1260
+world,"Oceania",OSDMA8,pop,1997,32.9648723275885,1260
+world,"Oceania",OSDMA8,pop,1998,28.6358881939211,1260
+world,"Oceania",OSDMA8,pop,1999,27.5704191057746,1260
+world,"Oceania",OSDMA8,pop,2000,30.4047229515787,1260
+world,"Oceania",OSDMA8,pop,2001,31.3679954837963,1260
+world,"Oceania",OSDMA8,pop,2002,33.9122483029887,1260
+world,"Oceania",OSDMA8,pop,2003,30.4309224298086,1260
+world,"Oceania",OSDMA8,pop,2004,32.8381691061211,1260
+world,"Oceania",OSDMA8,pop,2005,29.4817132047508,1260
+world,"Oceania",OSDMA8,pop,2006,29.6917113310826,1260
+world,"Oceania",OSDMA8,pop,2007,27.462000165778,1260
+world,"Oceania",OSDMA8,pop,2008,26.6132392547353,1260
+world,"Oceania",OSDMA8,pop,2009,28.0226812411003,1260
+world,"Oceania",OSDMA8,pop,2010,26.7208036680606,1260
+world,"Oceania",OSDMA8,pop,2011,26.7036285481162,1260
+world,"Oceania",OSDMA8,pop,2012,28.3669439819831,1260
+world,"Oceania",OSDMA8,pop,2013,28.876420462467,1260
+world,"Oceania",OSDMA8,pop,2014,29.1550701110794,1260
+world,"Oceania",OSDMA8,pop,2015,29.5037378962865,1260
+world,"Oceania",OSDMA8,pop,2016,26.5895778033483,1260
+world,"Oceania",OSDMA8,pop,2017,28.2444820657478,1260
+world,"Oceania",OSDMA8,pop,2018,27.7467253906691,1260
+world,"Oceania",OSDMA8,pop,2019,33.0397568620351,1260
+world,"Oceania",OSDMA8,pop,2020,29.4611425832532,1260
+world,"Oceania",OSDMA8,pop,2021,31.794950122317,1260
+world,"Oceania",OSDMA8,pop,2022,28.2817171226463,1260
+world,"Russia",AnnualMean,pop,1990,33.252063246964,2896
+world,"Russia",AnnualMean,pop,1991,30.3643908014709,2896
+world,"Russia",AnnualMean,pop,1992,30.6769159985059,2896
+world,"Russia",AnnualMean,pop,1993,32.1669681720895,2896
+world,"Russia",AnnualMean,pop,1994,32.1341775521313,2896
+world,"Russia",AnnualMean,pop,1995,31.7602108485004,2896
+world,"Russia",AnnualMean,pop,1996,35.7091742471135,2896
+world,"Russia",AnnualMean,pop,1997,30.8684338400052,2896
+world,"Russia",AnnualMean,pop,1998,32.9455799531641,2896
+world,"Russia",AnnualMean,pop,1999,29.7409295247111,2896
+world,"Russia",AnnualMean,pop,2000,29.0870398938232,2896
+world,"Russia",AnnualMean,pop,2001,29.8938588658704,2896
+world,"Russia",AnnualMean,pop,2002,32.260223535006,2896
+world,"Russia",AnnualMean,pop,2003,33.1421685699402,2896
+world,"Russia",AnnualMean,pop,2004,33.1221317957054,2896
+world,"Russia",AnnualMean,pop,2005,33.8911692606761,2896
+world,"Russia",AnnualMean,pop,2006,33.6107193150643,2896
+world,"Russia",AnnualMean,pop,2007,32.5008147830691,2896
+world,"Russia",AnnualMean,pop,2008,33.713455459432,2896
+world,"Russia",AnnualMean,pop,2009,30.7233955223621,2896
+world,"Russia",AnnualMean,pop,2010,33.8929328845969,2896
+world,"Russia",AnnualMean,pop,2011,32.2227353901929,2896
+world,"Russia",AnnualMean,pop,2012,35.0215282078799,2896
+world,"Russia",AnnualMean,pop,2013,30.5832007777051,2896
+world,"Russia",AnnualMean,pop,2014,28.5661059451552,2896
+world,"Russia",AnnualMean,pop,2015,30.0197208572476,2896
+world,"Russia",AnnualMean,pop,2016,29.2973645555074,2896
+world,"Russia",AnnualMean,pop,2017,27.4130467173807,2896
+world,"Russia",AnnualMean,pop,2018,28.1813697453342,2896
+world,"Russia",AnnualMean,pop,2019,29.5304892575983,2896
+world,"Russia",AnnualMean,pop,2020,28.1799302813473,2896
+world,"Russia",AnnualMean,pop,2021,32.700572329725,2896
+world,"Russia",AnnualMean,pop,2022,39.0836445599044,2896
+world,"Russia",OSDMA8,pop,1990,34.1403853261973,2896
+world,"Russia",OSDMA8,pop,1991,37.6598148022329,2896
+world,"Russia",OSDMA8,pop,1992,37.4625615854491,2896
+world,"Russia",OSDMA8,pop,1993,38.9806070790204,2896
+world,"Russia",OSDMA8,pop,1994,38.5564746261339,2896
+world,"Russia",OSDMA8,pop,1995,37.4056054431226,2896
+world,"Russia",OSDMA8,pop,1996,44.1227841424103,2896
+world,"Russia",OSDMA8,pop,1997,36.8900762348401,2896
+world,"Russia",OSDMA8,pop,1998,39.7064741840882,2896
+world,"Russia",OSDMA8,pop,1999,36.0737680158498,2896
+world,"Russia",OSDMA8,pop,2000,35.0037968920099,2896
+world,"Russia",OSDMA8,pop,2001,36.2831481050028,2896
+world,"Russia",OSDMA8,pop,2002,37.8934661390834,2896
+world,"Russia",OSDMA8,pop,2003,40.1816641349065,2896
+world,"Russia",OSDMA8,pop,2004,40.429505373728,2896
+world,"Russia",OSDMA8,pop,2005,41.9076138172575,2896
+world,"Russia",OSDMA8,pop,2006,40.8591977490863,2896
+world,"Russia",OSDMA8,pop,2007,38.6403143680231,2896
+world,"Russia",OSDMA8,pop,2008,41.4316705390516,2896
+world,"Russia",OSDMA8,pop,2009,37.7151548029291,2896
+world,"Russia",OSDMA8,pop,2010,41.3067924811698,2896
+world,"Russia",OSDMA8,pop,2011,38.2570996793735,2896
+world,"Russia",OSDMA8,pop,2012,43.1799111004403,2896
+world,"Russia",OSDMA8,pop,2013,36.682062100471,2896
+world,"Russia",OSDMA8,pop,2014,35.1287187742759,2896
+world,"Russia",OSDMA8,pop,2015,35.4594581215051,2896
+world,"Russia",OSDMA8,pop,2016,35.7646709760004,2896
+world,"Russia",OSDMA8,pop,2017,33.2873155633718,2896
+world,"Russia",OSDMA8,pop,2018,33.4228271215427,2896
+world,"Russia",OSDMA8,pop,2019,35.5054535003612,2896
+world,"Russia",OSDMA8,pop,2020,33.9487749842822,2896
+world,"Russia",OSDMA8,pop,2021,39.7130273957081,2896
+world,"Russia",OSDMA8,pop,2022,43.3845200221603,2896
+world,"SouthAmerica",AnnualMean,pop,1990,24.6032674813323,1739
+world,"SouthAmerica",AnnualMean,pop,1991,28.5813102873306,1739
+world,"SouthAmerica",AnnualMean,pop,1992,27.7906779604785,1739
+world,"SouthAmerica",AnnualMean,pop,1993,29.6431602258258,1739
+world,"SouthAmerica",AnnualMean,pop,1994,29.1566423891314,1739
+world,"SouthAmerica",AnnualMean,pop,1995,30.0445026016679,1739
+world,"SouthAmerica",AnnualMean,pop,1996,31.8781162516433,1739
+world,"SouthAmerica",AnnualMean,pop,1997,32.2929086235052,1739
+world,"SouthAmerica",AnnualMean,pop,1998,28.7921896640471,1739
+world,"SouthAmerica",AnnualMean,pop,1999,28.8641506042323,1739
+world,"SouthAmerica",AnnualMean,pop,2000,27.330891570457,1739
+world,"SouthAmerica",AnnualMean,pop,2001,25.5629510046021,1739
+world,"SouthAmerica",AnnualMean,pop,2002,28.5695207079386,1739
+world,"SouthAmerica",AnnualMean,pop,2003,28.9448400156513,1739
+world,"SouthAmerica",AnnualMean,pop,2004,27.0214584971936,1739
+world,"SouthAmerica",AnnualMean,pop,2005,26.5825699154222,1739
+world,"SouthAmerica",AnnualMean,pop,2006,26.3625636874966,1739
+world,"SouthAmerica",AnnualMean,pop,2007,25.170012016422,1739
+world,"SouthAmerica",AnnualMean,pop,2008,26.8365174018704,1739
+world,"SouthAmerica",AnnualMean,pop,2009,26.011151745859,1739
+world,"SouthAmerica",AnnualMean,pop,2010,27.3698742522287,1739
+world,"SouthAmerica",AnnualMean,pop,2011,26.0728830777367,1739
+world,"SouthAmerica",AnnualMean,pop,2012,27.6000274833441,1739
+world,"SouthAmerica",AnnualMean,pop,2013,26.15760302845,1739
+world,"SouthAmerica",AnnualMean,pop,2014,27.4831556523716,1739
+world,"SouthAmerica",AnnualMean,pop,2015,26.7238630578993,1739
+world,"SouthAmerica",AnnualMean,pop,2016,25.7570328089582,1739
+world,"SouthAmerica",AnnualMean,pop,2017,26.4275630129803,1739
+world,"SouthAmerica",AnnualMean,pop,2018,27.8072750611564,1739
+world,"SouthAmerica",AnnualMean,pop,2019,28.9254294271304,1739
+world,"SouthAmerica",AnnualMean,pop,2020,28.2143201828833,1739
+world,"SouthAmerica",AnnualMean,pop,2021,26.5425866899495,1739
+world,"SouthAmerica",AnnualMean,pop,2022,25.5247798396602,1739
+world,"SouthAmerica",OSDMA8,pop,1990,26.7399369206435,1739
+world,"SouthAmerica",OSDMA8,pop,1991,31.2052146141293,1739
+world,"SouthAmerica",OSDMA8,pop,1992,31.0358835467152,1739
+world,"SouthAmerica",OSDMA8,pop,1993,32.4760095737678,1739
+world,"SouthAmerica",OSDMA8,pop,1994,32.1792627930672,1739
+world,"SouthAmerica",OSDMA8,pop,1995,32.7911909727327,1739
+world,"SouthAmerica",OSDMA8,pop,1996,33.8685292647129,1739
+world,"SouthAmerica",OSDMA8,pop,1997,34.8833897954851,1739
+world,"SouthAmerica",OSDMA8,pop,1998,32.0655302414324,1739
+world,"SouthAmerica",OSDMA8,pop,1999,31.4953434995479,1739
+world,"SouthAmerica",OSDMA8,pop,2000,31.6279031963694,1739
+world,"SouthAmerica",OSDMA8,pop,2001,28.196025830071,1739
+world,"SouthAmerica",OSDMA8,pop,2002,32.1158776810801,1739
+world,"SouthAmerica",OSDMA8,pop,2003,31.0247792767938,1739
+world,"SouthAmerica",OSDMA8,pop,2004,30.4875112677246,1739
+world,"SouthAmerica",OSDMA8,pop,2005,30.1200553998734,1739
+world,"SouthAmerica",OSDMA8,pop,2006,28.8193232266192,1739
+world,"SouthAmerica",OSDMA8,pop,2007,29.1947391478148,1739
+world,"SouthAmerica",OSDMA8,pop,2008,29.394110860398,1739
+world,"SouthAmerica",OSDMA8,pop,2009,28.4581478304112,1739
+world,"SouthAmerica",OSDMA8,pop,2010,30.5850241465147,1739
+world,"SouthAmerica",OSDMA8,pop,2011,29.2894721986177,1739
+world,"SouthAmerica",OSDMA8,pop,2012,30.9668651700778,1739
+world,"SouthAmerica",OSDMA8,pop,2013,30.2399630012509,1739
+world,"SouthAmerica",OSDMA8,pop,2014,31.2880304718107,1739
+world,"SouthAmerica",OSDMA8,pop,2015,28.9711800545914,1739
+world,"SouthAmerica",OSDMA8,pop,2016,28.5224173784622,1739
+world,"SouthAmerica",OSDMA8,pop,2017,29.917505827675,1739
+world,"SouthAmerica",OSDMA8,pop,2018,30.1068112422184,1739
+world,"SouthAmerica",OSDMA8,pop,2019,31.2605384449461,1739
+world,"SouthAmerica",OSDMA8,pop,2020,30.8582402310659,1739
+world,"SouthAmerica",OSDMA8,pop,2021,29.2673797643648,1739
+world,"SouthAmerica",OSDMA8,pop,2022,27.5255298921612,1739
+world,"SouthCentralAsia",AnnualMean,pop,1990,35.3971414479435,1470
+world,"SouthCentralAsia",AnnualMean,pop,1991,36.3497955890786,1470
+world,"SouthCentralAsia",AnnualMean,pop,1992,34.0319219434595,1470
+world,"SouthCentralAsia",AnnualMean,pop,1993,35.8652631855341,1470
+world,"SouthCentralAsia",AnnualMean,pop,1994,36.9272814371119,1470
+world,"SouthCentralAsia",AnnualMean,pop,1995,37.470913120046,1470
+world,"SouthCentralAsia",AnnualMean,pop,1996,37.7078302762221,1470
+world,"SouthCentralAsia",AnnualMean,pop,1997,40.0487069679618,1470
+world,"SouthCentralAsia",AnnualMean,pop,1998,39.1944926226954,1470
+world,"SouthCentralAsia",AnnualMean,pop,1999,41.6301297592924,1470
+world,"SouthCentralAsia",AnnualMean,pop,2000,33.7923346728529,1470
+world,"SouthCentralAsia",AnnualMean,pop,2001,35.0321759596387,1470
+world,"SouthCentralAsia",AnnualMean,pop,2002,38.1183193686071,1470
+world,"SouthCentralAsia",AnnualMean,pop,2003,41.0726783626646,1470
+world,"SouthCentralAsia",AnnualMean,pop,2004,38.5005564437777,1470
+world,"SouthCentralAsia",AnnualMean,pop,2005,37.4380466790268,1470
+world,"SouthCentralAsia",AnnualMean,pop,2006,39.9327705120117,1470
+world,"SouthCentralAsia",AnnualMean,pop,2007,42.5417541172817,1470
+world,"SouthCentralAsia",AnnualMean,pop,2008,44.4424845974674,1470
+world,"SouthCentralAsia",AnnualMean,pop,2009,42.1661637792164,1470
+world,"SouthCentralAsia",AnnualMean,pop,2010,40.2698114253378,1470
+world,"SouthCentralAsia",AnnualMean,pop,2011,38.8646665582345,1470
+world,"SouthCentralAsia",AnnualMean,pop,2012,43.6475052371883,1470
+world,"SouthCentralAsia",AnnualMean,pop,2013,34.7889063092836,1470
+world,"SouthCentralAsia",AnnualMean,pop,2014,40.004513977401,1470
+world,"SouthCentralAsia",AnnualMean,pop,2015,37.7759101629765,1470
+world,"SouthCentralAsia",AnnualMean,pop,2016,33.4896369518079,1470
+world,"SouthCentralAsia",AnnualMean,pop,2017,43.4257888260008,1470
+world,"SouthCentralAsia",AnnualMean,pop,2018,45.2882662066646,1470
+world,"SouthCentralAsia",AnnualMean,pop,2019,43.1431799288964,1470
+world,"SouthCentralAsia",AnnualMean,pop,2020,42.4086485618261,1470
+world,"SouthCentralAsia",AnnualMean,pop,2021,43.7564342332468,1470
+world,"SouthCentralAsia",AnnualMean,pop,2022,48.4046197201305,1470
+world,"SouthCentralAsia",OSDMA8,pop,1990,38.2784251495424,1470
+world,"SouthCentralAsia",OSDMA8,pop,1991,42.0424040562717,1470
+world,"SouthCentralAsia",OSDMA8,pop,1992,40.3378141965513,1470
+world,"SouthCentralAsia",OSDMA8,pop,1993,41.8064351987779,1470
+world,"SouthCentralAsia",OSDMA8,pop,1994,42.0573672117205,1470
+world,"SouthCentralAsia",OSDMA8,pop,1995,43.2841895348191,1470
+world,"SouthCentralAsia",OSDMA8,pop,1996,43.5547266464615,1470
+world,"SouthCentralAsia",OSDMA8,pop,1997,45.2220362605596,1470
+world,"SouthCentralAsia",OSDMA8,pop,1998,45.9218939190669,1470
+world,"SouthCentralAsia",OSDMA8,pop,1999,49.1223281192472,1470
+world,"SouthCentralAsia",OSDMA8,pop,2000,40.681523780469,1470
+world,"SouthCentralAsia",OSDMA8,pop,2001,42.3168290518872,1470
+world,"SouthCentralAsia",OSDMA8,pop,2002,42.843873905811,1470
+world,"SouthCentralAsia",OSDMA8,pop,2003,50.091675890967,1470
+world,"SouthCentralAsia",OSDMA8,pop,2004,44.3837020884732,1470
+world,"SouthCentralAsia",OSDMA8,pop,2005,42.5984250156022,1470
+world,"SouthCentralAsia",OSDMA8,pop,2006,45.7594689879728,1470
+world,"SouthCentralAsia",OSDMA8,pop,2007,48.2614019590048,1470
+world,"SouthCentralAsia",OSDMA8,pop,2008,50.838579416147,1470
+world,"SouthCentralAsia",OSDMA8,pop,2009,49.4346581066726,1470
+world,"SouthCentralAsia",OSDMA8,pop,2010,46.3509388575982,1470
+world,"SouthCentralAsia",OSDMA8,pop,2011,45.8700092066422,1470
+world,"SouthCentralAsia",OSDMA8,pop,2012,51.4176133689254,1470
+world,"SouthCentralAsia",OSDMA8,pop,2013,41.9796772836888,1470
+world,"SouthCentralAsia",OSDMA8,pop,2014,49.5067557489225,1470
+world,"SouthCentralAsia",OSDMA8,pop,2015,45.3988088396077,1470
+world,"SouthCentralAsia",OSDMA8,pop,2016,41.511419563773,1470
+world,"SouthCentralAsia",OSDMA8,pop,2017,52.1298047063245,1470
+world,"SouthCentralAsia",OSDMA8,pop,2018,52.6543589175256,1470
+world,"SouthCentralAsia",OSDMA8,pop,2019,51.6843610158717,1470
+world,"SouthCentralAsia",OSDMA8,pop,2020,48.6726772375301,1470
+world,"SouthCentralAsia",OSDMA8,pop,2021,50.240139788687,1470
+world,"SouthCentralAsia",OSDMA8,pop,2022,54.3309839488335,1470
+areacode,"CONUS",AnnualMean,pop,1990,40.6745579425728,1420
+areacode,"CONUS",AnnualMean,pop,1991,38.8403081721047,1420
+areacode,"CONUS",AnnualMean,pop,1992,36.7355131055817,1420
+areacode,"CONUS",AnnualMean,pop,1993,37.9333521860014,1420
+areacode,"CONUS",AnnualMean,pop,1994,39.4806544410632,1420
+areacode,"CONUS",AnnualMean,pop,1995,39.5748043828298,1420
+areacode,"CONUS",AnnualMean,pop,1996,38.8774009077957,1420
+areacode,"CONUS",AnnualMean,pop,1997,38.8683259758116,1420
+areacode,"CONUS",AnnualMean,pop,1998,40.5363466954713,1420
+areacode,"CONUS",AnnualMean,pop,1999,41.163068139571,1420
+areacode,"CONUS",AnnualMean,pop,2000,38.8798140409671,1420
+areacode,"CONUS",AnnualMean,pop,2001,39.9102740108838,1420
+areacode,"CONUS",AnnualMean,pop,2002,40.0251099822526,1420
+areacode,"CONUS",AnnualMean,pop,2003,39.5371281988491,1420
+areacode,"CONUS",AnnualMean,pop,2004,38.2801546726155,1420
+areacode,"CONUS",AnnualMean,pop,2005,39.6096459522659,1420
+areacode,"CONUS",AnnualMean,pop,2006,39.6852425295252,1420
+areacode,"CONUS",AnnualMean,pop,2007,39.9722029823549,1420
+areacode,"CONUS",AnnualMean,pop,2008,39.110825862844,1420
+areacode,"CONUS",AnnualMean,pop,2009,37.5398551283132,1420
+areacode,"CONUS",AnnualMean,pop,2010,39.7304604248937,1420
+areacode,"CONUS",AnnualMean,pop,2011,39.5383266843405,1420
+areacode,"CONUS",AnnualMean,pop,2012,39.8858226217552,1420
+areacode,"CONUS",AnnualMean,pop,2013,38.2123551365902,1420
+areacode,"CONUS",AnnualMean,pop,2014,38.3064491009228,1420
+areacode,"CONUS",AnnualMean,pop,2015,38.0649099261035,1420
+areacode,"CONUS",AnnualMean,pop,2016,39.0139150257595,1420
+areacode,"CONUS",AnnualMean,pop,2017,39.0542769075363,1420
+areacode,"CONUS",AnnualMean,pop,2018,38.1901299400552,1420
+areacode,"CONUS",AnnualMean,pop,2019,38.7132500511077,1420
+areacode,"CONUS",AnnualMean,pop,2020,37.8560358706197,1420
+areacode,"CONUS",AnnualMean,pop,2021,38.9493124552876,1420
+areacode,"CONUS",AnnualMean,pop,2022,39.4370791498752,1420
+areacode,"CONUS",OSDMA8,pop,1990,48.8048147374634,1420
+areacode,"CONUS",OSDMA8,pop,1991,48.1282815082814,1420
+areacode,"CONUS",OSDMA8,pop,1992,45.2354152081527,1420
+areacode,"CONUS",OSDMA8,pop,1993,46.9798923949321,1420
+areacode,"CONUS",OSDMA8,pop,1994,49.0756373374426,1420
+areacode,"CONUS",OSDMA8,pop,1995,49.5486307162579,1420
+areacode,"CONUS",OSDMA8,pop,1996,48.3714832138934,1420
+areacode,"CONUS",OSDMA8,pop,1997,47.9730074922486,1420
+areacode,"CONUS",OSDMA8,pop,1998,51.136757963911,1420
+areacode,"CONUS",OSDMA8,pop,1999,50.3119349942214,1420
+areacode,"CONUS",OSDMA8,pop,2000,47.4495456622821,1420
+areacode,"CONUS",OSDMA8,pop,2001,48.9858288261216,1420
+areacode,"CONUS",OSDMA8,pop,2002,49.7606026659424,1420
+areacode,"CONUS",OSDMA8,pop,2003,48.0448941138245,1420
+areacode,"CONUS",OSDMA8,pop,2004,46.0154364463899,1420
+areacode,"CONUS",OSDMA8,pop,2005,48.6169638099389,1420
+areacode,"CONUS",OSDMA8,pop,2006,48.2790941869889,1420
+areacode,"CONUS",OSDMA8,pop,2007,48.1650227923891,1420
+areacode,"CONUS",OSDMA8,pop,2008,47.02979626137,1420
+areacode,"CONUS",OSDMA8,pop,2009,44.3787876142378,1420
+areacode,"CONUS",OSDMA8,pop,2010,46.3259470404834,1420
+areacode,"CONUS",OSDMA8,pop,2011,46.5711090467305,1420
+areacode,"CONUS",OSDMA8,pop,2012,47.6838952842212,1420
+areacode,"CONUS",OSDMA8,pop,2013,44.5312007380804,1420
+areacode,"CONUS",OSDMA8,pop,2014,44.3408851017086,1420
+areacode,"CONUS",OSDMA8,pop,2015,44.2322900552398,1420
+areacode,"CONUS",OSDMA8,pop,2016,44.8871028969815,1420
+areacode,"CONUS",OSDMA8,pop,2017,44.77831951457,1420
+areacode,"CONUS",OSDMA8,pop,2018,45.3068302458255,1420
+areacode,"CONUS",OSDMA8,pop,2019,44.365632929605,1420
+areacode,"CONUS",OSDMA8,pop,2020,43.2329487054165,1420
+areacode,"CONUS",OSDMA8,pop,2021,44.3674514608449,1420
+areacode,"CONUS",OSDMA8,pop,2022,44.3521225799747,1420
+areacode,"Europe",AnnualMean,pop,1990,35.5856570914513,1543
+areacode,"Europe",AnnualMean,pop,1991,33.2405581067578,1543
+areacode,"Europe",AnnualMean,pop,1992,32.5866496825196,1543
+areacode,"Europe",AnnualMean,pop,1993,32.2228734999169,1543
+areacode,"Europe",AnnualMean,pop,1994,34.5895975419805,1543
+areacode,"Europe",AnnualMean,pop,1995,35.4389644783063,1543
+areacode,"Europe",AnnualMean,pop,1996,35.7584678828475,1543
+areacode,"Europe",AnnualMean,pop,1997,33.8503965209055,1543
+areacode,"Europe",AnnualMean,pop,1998,33.5041972027919,1543
+areacode,"Europe",AnnualMean,pop,1999,33.4092482754058,1543
+areacode,"Europe",AnnualMean,pop,2000,31.6828768334559,1543
+areacode,"Europe",AnnualMean,pop,2001,33.0979753329826,1543
+areacode,"Europe",AnnualMean,pop,2002,36.1471386196581,1543
+areacode,"Europe",AnnualMean,pop,2003,37.1239133026573,1543
+areacode,"Europe",AnnualMean,pop,2004,34.7006858094644,1543
+areacode,"Europe",AnnualMean,pop,2005,34.4841537978894,1543
+areacode,"Europe",AnnualMean,pop,2006,35.3987349737303,1543
+areacode,"Europe",AnnualMean,pop,2007,34.8935380173395,1543
+areacode,"Europe",AnnualMean,pop,2008,35.3810768777901,1543
+areacode,"Europe",AnnualMean,pop,2009,34.5736881973184,1543
+areacode,"Europe",AnnualMean,pop,2010,33.6846618547548,1543
+areacode,"Europe",AnnualMean,pop,2011,33.6959458906696,1543
+areacode,"Europe",AnnualMean,pop,2012,34.4649340452621,1543
+areacode,"Europe",AnnualMean,pop,2013,33.0337243254133,1543
+areacode,"Europe",AnnualMean,pop,2014,34.4216116969434,1543
+areacode,"Europe",AnnualMean,pop,2015,34.0350522362222,1543
+areacode,"Europe",AnnualMean,pop,2016,32.8242985266203,1543
+areacode,"Europe",AnnualMean,pop,2017,33.8720592426531,1543
+areacode,"Europe",AnnualMean,pop,2018,34.8058990906923,1543
+areacode,"Europe",AnnualMean,pop,2019,34.307441049098,1543
+areacode,"Europe",AnnualMean,pop,2020,33.4051739202052,1543
+areacode,"Europe",AnnualMean,pop,2021,33.5959434599202,1543
+areacode,"Europe",AnnualMean,pop,2022,35.302945333469,1543
+areacode,"Europe",OSDMA8,pop,1990,45.3076586565392,1543
+areacode,"Europe",OSDMA8,pop,1991,43.2075199357337,1543
+areacode,"Europe",OSDMA8,pop,1992,42.9585576170518,1543
+areacode,"Europe",OSDMA8,pop,1993,41.7936316930878,1543
+areacode,"Europe",OSDMA8,pop,1994,44.3606217122366,1543
+areacode,"Europe",OSDMA8,pop,1995,44.7575212927768,1543
+areacode,"Europe",OSDMA8,pop,1996,45.6773417733819,1543
+areacode,"Europe",OSDMA8,pop,1997,43.24258409574,1543
+areacode,"Europe",OSDMA8,pop,1998,41.980800316463,1543
+areacode,"Europe",OSDMA8,pop,1999,42.6456614331856,1543
+areacode,"Europe",OSDMA8,pop,2000,39.7865649085087,1543
+areacode,"Europe",OSDMA8,pop,2001,41.8478823968433,1543
+areacode,"Europe",OSDMA8,pop,2002,45.2364101132642,1543
+areacode,"Europe",OSDMA8,pop,2003,47.8427712107099,1543
+areacode,"Europe",OSDMA8,pop,2004,43.4633117462142,1543
+areacode,"Europe",OSDMA8,pop,2005,43.2159134089762,1543
+areacode,"Europe",OSDMA8,pop,2006,44.946499672176,1543
+areacode,"Europe",OSDMA8,pop,2007,43.5216793947909,1543
+areacode,"Europe",OSDMA8,pop,2008,44.1219525624267,1543
+areacode,"Europe",OSDMA8,pop,2009,43.2229805031364,1543
+areacode,"Europe",OSDMA8,pop,2010,41.9544753022372,1543
+areacode,"Europe",OSDMA8,pop,2011,41.5132911762521,1543
+areacode,"Europe",OSDMA8,pop,2012,42.4662014709879,1543
+areacode,"Europe",OSDMA8,pop,2013,41.002557309864,1543
+areacode,"Europe",OSDMA8,pop,2014,42.5808755145341,1543
+areacode,"Europe",OSDMA8,pop,2015,42.1760394496365,1543
+areacode,"Europe",OSDMA8,pop,2016,40.61661653901,1543
+areacode,"Europe",OSDMA8,pop,2017,41.0694727785001,1543
+areacode,"Europe",OSDMA8,pop,2018,43.1778885966606,1543
+areacode,"Europe",OSDMA8,pop,2019,42.089939301192,1543
+areacode,"Europe",OSDMA8,pop,2020,40.6231856794286,1543
+areacode,"Europe",OSDMA8,pop,2021,40.3286401968194,1543
+areacode,"Europe",OSDMA8,pop,2022,42.7431984052817,1543
+areacode,"EastAsia",AnnualMean,pop,1990,34.4161400601508,1396
+areacode,"EastAsia",AnnualMean,pop,1991,32.5602036510746,1396
+areacode,"EastAsia",AnnualMean,pop,1992,31.994470523036,1396
+areacode,"EastAsia",AnnualMean,pop,1993,33.5299300723074,1396
+areacode,"EastAsia",AnnualMean,pop,1994,34.9269329326099,1396
+areacode,"EastAsia",AnnualMean,pop,1995,35.4749253827544,1396
+areacode,"EastAsia",AnnualMean,pop,1996,35.8922462977736,1396
+areacode,"EastAsia",AnnualMean,pop,1997,36.9689121667668,1396
+areacode,"EastAsia",AnnualMean,pop,1998,37.0657465288579,1396
+areacode,"EastAsia",AnnualMean,pop,1999,37.3721877387602,1396
+areacode,"EastAsia",AnnualMean,pop,2000,38.0456283980747,1396
+areacode,"EastAsia",AnnualMean,pop,2001,37.768474559836,1396
+areacode,"EastAsia",AnnualMean,pop,2002,38.1080237797027,1396
+areacode,"EastAsia",AnnualMean,pop,2003,38.3625148730209,1396
+areacode,"EastAsia",AnnualMean,pop,2004,39.7276127263869,1396
+areacode,"EastAsia",AnnualMean,pop,2005,38.2708273954902,1396
+areacode,"EastAsia",AnnualMean,pop,2006,38.929977773405,1396
+areacode,"EastAsia",AnnualMean,pop,2007,39.2349766053922,1396
+areacode,"EastAsia",AnnualMean,pop,2008,40.8300016778023,1396
+areacode,"EastAsia",AnnualMean,pop,2009,41.231886999001,1396
+areacode,"EastAsia",AnnualMean,pop,2010,38.875465830594,1396
+areacode,"EastAsia",AnnualMean,pop,2011,39.7787522279697,1396
+areacode,"EastAsia",AnnualMean,pop,2012,38.5459809603022,1396
+areacode,"EastAsia",AnnualMean,pop,2013,38.0358894147613,1396
+areacode,"EastAsia",AnnualMean,pop,2014,39.4360163614463,1396
+areacode,"EastAsia",AnnualMean,pop,2015,39.9125547987904,1396
+areacode,"EastAsia",AnnualMean,pop,2016,41.5225787949538,1396
+areacode,"EastAsia",AnnualMean,pop,2017,45.6209444418654,1396
+areacode,"EastAsia",AnnualMean,pop,2018,45.8218583688417,1396
+areacode,"EastAsia",AnnualMean,pop,2019,45.5506810491486,1396
+areacode,"EastAsia",AnnualMean,pop,2020,44.095392643883,1396
+areacode,"EastAsia",AnnualMean,pop,2021,44.7362192449416,1396
+areacode,"EastAsia",AnnualMean,pop,2022,47.3545591315591,1396
+areacode,"EastAsia",OSDMA8,pop,1990,37.3806422337747,1396
+areacode,"EastAsia",OSDMA8,pop,1991,37.5158760393398,1396
+areacode,"EastAsia",OSDMA8,pop,1992,38.1217178080646,1396
+areacode,"EastAsia",OSDMA8,pop,1993,39.0905684636944,1396
+areacode,"EastAsia",OSDMA8,pop,1994,41.3609087247304,1396
+areacode,"EastAsia",OSDMA8,pop,1995,41.4391635328677,1396
+areacode,"EastAsia",OSDMA8,pop,1996,42.1960915762483,1396
+areacode,"EastAsia",OSDMA8,pop,1997,43.5539407549911,1396
+areacode,"EastAsia",OSDMA8,pop,1998,43.4228019470149,1396
+areacode,"EastAsia",OSDMA8,pop,1999,44.5039440241276,1396
+areacode,"EastAsia",OSDMA8,pop,2000,45.0894145205764,1396
+areacode,"EastAsia",OSDMA8,pop,2001,44.6317030374829,1396
+areacode,"EastAsia",OSDMA8,pop,2002,43.8928136015297,1396
+areacode,"EastAsia",OSDMA8,pop,2003,44.7039218350102,1396
+areacode,"EastAsia",OSDMA8,pop,2004,46.2284707596858,1396
+areacode,"EastAsia",OSDMA8,pop,2005,45.3164295038169,1396
+areacode,"EastAsia",OSDMA8,pop,2006,46.8111693757718,1396
+areacode,"EastAsia",OSDMA8,pop,2007,46.8000187478189,1396
+areacode,"EastAsia",OSDMA8,pop,2008,48.734309743761,1396
+areacode,"EastAsia",OSDMA8,pop,2009,48.8437185472161,1396
+areacode,"EastAsia",OSDMA8,pop,2010,45.5922095891008,1396
+areacode,"EastAsia",OSDMA8,pop,2011,47.8843296510232,1396
+areacode,"EastAsia",OSDMA8,pop,2012,47.3787548463953,1396
+areacode,"EastAsia",OSDMA8,pop,2013,44.9432158371088,1396
+areacode,"EastAsia",OSDMA8,pop,2014,49.7574410676223,1396
+areacode,"EastAsia",OSDMA8,pop,2015,50.1349495820293,1396
+areacode,"EastAsia",OSDMA8,pop,2016,51.9665125217972,1396
+areacode,"EastAsia",OSDMA8,pop,2017,56.4391763398873,1396
+areacode,"EastAsia",OSDMA8,pop,2018,56.4355634506139,1396
+areacode,"EastAsia",OSDMA8,pop,2019,56.9155555495748,1396
+areacode,"EastAsia",OSDMA8,pop,2020,53.9482344263611,1396
+areacode,"EastAsia",OSDMA8,pop,2021,53.3116794353241,1396
+areacode,"EastAsia",OSDMA8,pop,2022,57.4339782938285,1396
+GBD,"Asia Pacific, High Income",AnnualMean,pop,1990,34.9653163422558,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,1991,33.7079179149894,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,1992,34.623902603242,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,1993,35.7724804756997,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,1994,37.6324100146321,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,1995,36.980985529953,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,1996,38.0634417431124,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,1997,38.6785805451201,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,1998,38.431138611078,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,1999,38.7799126875432,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,2000,39.0414036309926,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,2001,37.6818978818529,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,2002,38.3625345072769,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,2003,38.0328065835081,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,2004,39.4636457179418,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,2005,39.903687485708,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,2006,38.9176854737383,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,2007,40.0973015228148,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,2008,40.9862570408167,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,2009,38.7310618146454,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,2010,37.0802911336774,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,2011,35.8354226500514,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,2012,36.9902057899231,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,2013,38.4152050477999,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,2014,38.9996236937716,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,2015,38.9492410530093,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,2016,38.719871288486,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,2017,40.0637404825564,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,2018,38.8616205719803,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,2019,41.0522162753537,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,2020,38.781555747224,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,2021,42.23529307331,357
+GBD,"Asia Pacific, High Income",AnnualMean,pop,2022,43.4430179179088,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,1990,41.1251942770307,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,1991,40.5898156027316,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,1992,42.481648028219,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,1993,43.3287987049581,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,1994,45.6380189669587,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,1995,43.6209102816118,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,1996,46.2923731238147,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,1997,46.1942912868845,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,1998,46.3094680679022,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,1999,46.8057234124084,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,2000,48.6745316029076,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,2001,45.7577793251923,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,2002,45.6236564588306,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,2003,46.1729207287351,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,2004,47.9946016823827,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,2005,48.7118352951971,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,2006,46.7069490685131,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,2007,48.8325536368585,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,2008,49.9708907300598,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,2009,46.8060239854471,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,2010,44.1186099816674,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,2011,42.6262326325028,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,2012,44.5515343770369,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,2013,46.1952086979681,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,2014,47.2458585580005,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,2015,46.6756365360911,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,2016,47.0640969721712,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,2017,47.7310807388288,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,2018,45.7192516269199,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,2019,49.1556333199978,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,2020,45.1366085455406,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,2021,48.1031219869678,357
+GBD,"Asia Pacific, High Income",OSDMA8,pop,2022,49.5115534861402,357
+GBD,"Asia, Central",AnnualMean,pop,1990,36.3139087660802,681
+GBD,"Asia, Central",AnnualMean,pop,1991,30.1233279429277,681
+GBD,"Asia, Central",AnnualMean,pop,1992,27.1780468604122,681
+GBD,"Asia, Central",AnnualMean,pop,1993,28.4075226577662,681
+GBD,"Asia, Central",AnnualMean,pop,1994,31.210071589817,681
+GBD,"Asia, Central",AnnualMean,pop,1995,32.834142038464,681
+GBD,"Asia, Central",AnnualMean,pop,1996,32.6212869994941,681
+GBD,"Asia, Central",AnnualMean,pop,1997,37.3352623355179,681
+GBD,"Asia, Central",AnnualMean,pop,1998,31.8541766602272,681
+GBD,"Asia, Central",AnnualMean,pop,1999,33.0642223259677,681
+GBD,"Asia, Central",AnnualMean,pop,2000,27.8984041178083,681
+GBD,"Asia, Central",AnnualMean,pop,2001,36.9689271076403,681
+GBD,"Asia, Central",AnnualMean,pop,2002,41.679597535678,681
+GBD,"Asia, Central",AnnualMean,pop,2003,43.3222325494503,681
+GBD,"Asia, Central",AnnualMean,pop,2004,40.7173727596964,681
+GBD,"Asia, Central",AnnualMean,pop,2005,37.1892181527082,681
+GBD,"Asia, Central",AnnualMean,pop,2006,41.492386513925,681
+GBD,"Asia, Central",AnnualMean,pop,2007,47.665180520608,681
+GBD,"Asia, Central",AnnualMean,pop,2008,48.5729518988183,681
+GBD,"Asia, Central",AnnualMean,pop,2009,38.4299847320733,681
+GBD,"Asia, Central",AnnualMean,pop,2010,36.5050765529373,681
+GBD,"Asia, Central",AnnualMean,pop,2011,34.2983985143315,681
+GBD,"Asia, Central",AnnualMean,pop,2012,37.1644376033168,681
+GBD,"Asia, Central",AnnualMean,pop,2013,24.1639900099865,681
+GBD,"Asia, Central",AnnualMean,pop,2014,29.253124617417,681
+GBD,"Asia, Central",AnnualMean,pop,2015,32.2808526627176,681
+GBD,"Asia, Central",AnnualMean,pop,2016,30.5008383361934,681
+GBD,"Asia, Central",AnnualMean,pop,2017,33.0330499252881,681
+GBD,"Asia, Central",AnnualMean,pop,2018,35.3776958876391,681
+GBD,"Asia, Central",AnnualMean,pop,2019,36.6722393745549,681
+GBD,"Asia, Central",AnnualMean,pop,2020,34.6632634919787,681
+GBD,"Asia, Central",AnnualMean,pop,2021,35.9039893029114,681
+GBD,"Asia, Central",AnnualMean,pop,2022,43.8314851396801,681
+GBD,"Asia, Central",OSDMA8,pop,1990,36.4968908553014,681
+GBD,"Asia, Central",OSDMA8,pop,1991,40.8632728530304,681
+GBD,"Asia, Central",OSDMA8,pop,1992,35.6369164967485,681
+GBD,"Asia, Central",OSDMA8,pop,1993,39.0638201122625,681
+GBD,"Asia, Central",OSDMA8,pop,1994,38.7846221650374,681
+GBD,"Asia, Central",OSDMA8,pop,1995,41.2920043076252,681
+GBD,"Asia, Central",OSDMA8,pop,1996,40.7816953566827,681
+GBD,"Asia, Central",OSDMA8,pop,1997,45.1768104541346,681
+GBD,"Asia, Central",OSDMA8,pop,1998,36.483161781666,681
+GBD,"Asia, Central",OSDMA8,pop,1999,41.1829749128439,681
+GBD,"Asia, Central",OSDMA8,pop,2000,35.5529337932356,681
+GBD,"Asia, Central",OSDMA8,pop,2001,45.4367245188056,681
+GBD,"Asia, Central",OSDMA8,pop,2002,50.3168463153794,681
+GBD,"Asia, Central",OSDMA8,pop,2003,54.9447002732916,681
+GBD,"Asia, Central",OSDMA8,pop,2004,50.4399050651231,681
+GBD,"Asia, Central",OSDMA8,pop,2005,42.8980505000554,681
+GBD,"Asia, Central",OSDMA8,pop,2006,48.2312611880115,681
+GBD,"Asia, Central",OSDMA8,pop,2007,54.3542073068279,681
+GBD,"Asia, Central",OSDMA8,pop,2008,56.0543657163125,681
+GBD,"Asia, Central",OSDMA8,pop,2009,44.7630632778572,681
+GBD,"Asia, Central",OSDMA8,pop,2010,44.704641479247,681
+GBD,"Asia, Central",OSDMA8,pop,2011,40.6065606349281,681
+GBD,"Asia, Central",OSDMA8,pop,2012,43.9995771295995,681
+GBD,"Asia, Central",OSDMA8,pop,2013,27.6378499450232,681
+GBD,"Asia, Central",OSDMA8,pop,2014,38.7400107133121,681
+GBD,"Asia, Central",OSDMA8,pop,2015,40.0722257056591,681
+GBD,"Asia, Central",OSDMA8,pop,2016,37.746314566104,681
+GBD,"Asia, Central",OSDMA8,pop,2017,42.016623799689,681
+GBD,"Asia, Central",OSDMA8,pop,2018,43.0861196620979,681
+GBD,"Asia, Central",OSDMA8,pop,2019,44.9205668865186,681
+GBD,"Asia, Central",OSDMA8,pop,2020,41.2832011546149,681
+GBD,"Asia, Central",OSDMA8,pop,2021,44.7735918182176,681
+GBD,"Asia, Central",OSDMA8,pop,2022,51.1970492834122,681
+GBD,"Asia, East",AnnualMean,pop,1990,34.3510793393126,1016
+GBD,"Asia, East",AnnualMean,pop,1991,32.4841577937518,1016
+GBD,"Asia, East",AnnualMean,pop,1992,31.6706370348602,1016
+GBD,"Asia, East",AnnualMean,pop,1993,33.2765246398263,1016
+GBD,"Asia, East",AnnualMean,pop,1994,34.6614235177906,1016
+GBD,"Asia, East",AnnualMean,pop,1995,35.3829161403896,1016
+GBD,"Asia, East",AnnualMean,pop,1996,35.7056733384814,1016
+GBD,"Asia, East",AnnualMean,pop,1997,36.8745405555493,1016
+GBD,"Asia, East",AnnualMean,pop,1998,36.9453440038406,1016
+GBD,"Asia, East",AnnualMean,pop,1999,37.2800247333782,1016
+GBD,"Asia, East",AnnualMean,pop,2000,38.0397905747896,1016
+GBD,"Asia, East",AnnualMean,pop,2001,37.9022645078452,1016
+GBD,"Asia, East",AnnualMean,pop,2002,38.1503603391677,1016
+GBD,"Asia, East",AnnualMean,pop,2003,38.5478191512597,1016
+GBD,"Asia, East",AnnualMean,pop,2004,39.83048006366,1016
+GBD,"Asia, East",AnnualMean,pop,2005,38.1977361019529,1016
+GBD,"Asia, East",AnnualMean,pop,2006,38.9404431383813,1016
+GBD,"Asia, East",AnnualMean,pop,2007,39.1773157066668,1016
+GBD,"Asia, East",AnnualMean,pop,2008,41.0203093904583,1016
+GBD,"Asia, East",AnnualMean,pop,2009,41.5591577277503,1016
+GBD,"Asia, East",AnnualMean,pop,2010,39.2720994944679,1016
+GBD,"Asia, East",AnnualMean,pop,2011,40.414741659726,1016
+GBD,"Asia, East",AnnualMean,pop,2012,38.9302307579718,1016
+GBD,"Asia, East",AnnualMean,pop,2013,38.1638940242584,1016
+GBD,"Asia, East",AnnualMean,pop,2014,39.4245764499258,1016
+GBD,"Asia, East",AnnualMean,pop,2015,40.0051689297157,1016
+GBD,"Asia, East",AnnualMean,pop,2016,41.7991162324166,1016
+GBD,"Asia, East",AnnualMean,pop,2017,46.3179119970791,1016
+GBD,"Asia, East",AnnualMean,pop,2018,46.678733351775,1016
+GBD,"Asia, East",AnnualMean,pop,2019,46.1594644640419,1016
+GBD,"Asia, East",AnnualMean,pop,2020,44.8683684874784,1016
+GBD,"Asia, East",AnnualMean,pop,2021,45.1371000382563,1016
+GBD,"Asia, East",AnnualMean,pop,2022,48.0476493621111,1016
+GBD,"Asia, East",OSDMA8,pop,1990,36.9464845635186,1016
+GBD,"Asia, East",OSDMA8,pop,1991,37.2531240777431,1016
+GBD,"Asia, East",OSDMA8,pop,1992,37.6433891040358,1016
+GBD,"Asia, East",OSDMA8,pop,1993,38.6351459259089,1016
+GBD,"Asia, East",OSDMA8,pop,1994,40.9555871829,1016
+GBD,"Asia, East",OSDMA8,pop,1995,41.3138505672947,1016
+GBD,"Asia, East",OSDMA8,pop,1996,41.8121928785474,1016
+GBD,"Asia, East",OSDMA8,pop,1997,43.3996098099385,1016
+GBD,"Asia, East",OSDMA8,pop,1998,43.073063239021,1016
+GBD,"Asia, East",OSDMA8,pop,1999,44.3454687978099,1016
+GBD,"Asia, East",OSDMA8,pop,2000,44.7816415046906,1016
+GBD,"Asia, East",OSDMA8,pop,2001,44.6898973791482,1016
+GBD,"Asia, East",OSDMA8,pop,2002,43.7598305996121,1016
+GBD,"Asia, East",OSDMA8,pop,2003,44.6887019596082,1016
+GBD,"Asia, East",OSDMA8,pop,2004,46.137158944708,1016
+GBD,"Asia, East",OSDMA8,pop,2005,45.0654579857223,1016
+GBD,"Asia, East",OSDMA8,pop,2006,46.8741332468906,1016
+GBD,"Asia, East",OSDMA8,pop,2007,46.6760966150654,1016
+GBD,"Asia, East",OSDMA8,pop,2008,48.7144307733937,1016
+GBD,"Asia, East",OSDMA8,pop,2009,49.1611441687506,1016
+GBD,"Asia, East",OSDMA8,pop,2010,45.9596307678804,1016
+GBD,"Asia, East",OSDMA8,pop,2011,48.7660022350918,1016
+GBD,"Asia, East",OSDMA8,pop,2012,48.0785496601821,1016
+GBD,"Asia, East",OSDMA8,pop,2013,44.9977093063836,1016
+GBD,"Asia, East",OSDMA8,pop,2014,50.129268968272,1016
+GBD,"Asia, East",OSDMA8,pop,2015,50.6805351263223,1016
+GBD,"Asia, East",OSDMA8,pop,2016,52.6808311826596,1016
+GBD,"Asia, East",OSDMA8,pop,2017,57.7195563730893,1016
+GBD,"Asia, East",OSDMA8,pop,2018,57.8730603762941,1016
+GBD,"Asia, East",OSDMA8,pop,2019,58.0179198777749,1016
+GBD,"Asia, East",OSDMA8,pop,2020,55.2693362039957,1016
+GBD,"Asia, East",OSDMA8,pop,2021,54.2425251358325,1016
+GBD,"Asia, East",OSDMA8,pop,2022,58.7990348255854,1016
+GBD,"Asia, South",AnnualMean,pop,1990,35.2473362476024,503
+GBD,"Asia, South",AnnualMean,pop,1991,36.8430076012912,503
+GBD,"Asia, South",AnnualMean,pop,1992,34.6659614528929,503
+GBD,"Asia, South",AnnualMean,pop,1993,36.5106123268828,503
+GBD,"Asia, South",AnnualMean,pop,1994,37.6897258407459,503
+GBD,"Asia, South",AnnualMean,pop,1995,37.958768652511,503
+GBD,"Asia, South",AnnualMean,pop,1996,38.244823538114,503
+GBD,"Asia, South",AnnualMean,pop,1997,40.4363278271883,503
+GBD,"Asia, South",AnnualMean,pop,1998,39.5973138809244,503
+GBD,"Asia, South",AnnualMean,pop,1999,42.0246424728891,503
+GBD,"Asia, South",AnnualMean,pop,2000,33.964094513619,503
+GBD,"Asia, South",AnnualMean,pop,2001,34.7301062944822,503
+GBD,"Asia, South",AnnualMean,pop,2002,37.8293976517371,503
+GBD,"Asia, South",AnnualMean,pop,2003,41.306898754952,503
+GBD,"Asia, South",AnnualMean,pop,2004,38.3026052701703,503
+GBD,"Asia, South",AnnualMean,pop,2005,37.4082627010284,503
+GBD,"Asia, South",AnnualMean,pop,2006,39.9798618003255,503
+GBD,"Asia, South",AnnualMean,pop,2007,42.4291570276192,503
+GBD,"Asia, South",AnnualMean,pop,2008,44.4669818828716,503
+GBD,"Asia, South",AnnualMean,pop,2009,42.511519982682,503
+GBD,"Asia, South",AnnualMean,pop,2010,40.6457334439002,503
+GBD,"Asia, South",AnnualMean,pop,2011,39.1854648642815,503
+GBD,"Asia, South",AnnualMean,pop,2012,44.2515577671481,503
+GBD,"Asia, South",AnnualMean,pop,2013,35.3020093037842,503
+GBD,"Asia, South",AnnualMean,pop,2014,40.9609900642434,503
+GBD,"Asia, South",AnnualMean,pop,2015,38.1351466509647,503
+GBD,"Asia, South",AnnualMean,pop,2016,33.4061165461233,503
+GBD,"Asia, South",AnnualMean,pop,2017,44.5702285921268,503
+GBD,"Asia, South",AnnualMean,pop,2018,46.6293003753846,503
+GBD,"Asia, South",AnnualMean,pop,2019,43.8152131645122,503
+GBD,"Asia, South",AnnualMean,pop,2020,43.3061639948915,503
+GBD,"Asia, South",AnnualMean,pop,2021,44.1816727133663,503
+GBD,"Asia, South",AnnualMean,pop,2022,49.4617136038202,503
+GBD,"Asia, South",OSDMA8,pop,1990,38.4875993879098,503
+GBD,"Asia, South",OSDMA8,pop,1991,42.0419562184463,503
+GBD,"Asia, South",OSDMA8,pop,1992,40.8339306642465,503
+GBD,"Asia, South",OSDMA8,pop,1993,41.8951533255975,503
+GBD,"Asia, South",OSDMA8,pop,1994,42.5976844861267,503
+GBD,"Asia, South",OSDMA8,pop,1995,43.4852589872912,503
+GBD,"Asia, South",OSDMA8,pop,1996,43.9460300212141,503
+GBD,"Asia, South",OSDMA8,pop,1997,45.3643935657066,503
+GBD,"Asia, South",OSDMA8,pop,1998,46.4801130038073,503
+GBD,"Asia, South",OSDMA8,pop,1999,49.5515824195142,503
+GBD,"Asia, South",OSDMA8,pop,2000,40.8816289261638,503
+GBD,"Asia, South",OSDMA8,pop,2001,41.9646291099336,503
+GBD,"Asia, South",OSDMA8,pop,2002,42.2310592794289,503
+GBD,"Asia, South",OSDMA8,pop,2003,50.3750844182785,503
+GBD,"Asia, South",OSDMA8,pop,2004,44.0161677127825,503
+GBD,"Asia, South",OSDMA8,pop,2005,42.5401663610563,503
+GBD,"Asia, South",OSDMA8,pop,2006,45.7464074449203,503
+GBD,"Asia, South",OSDMA8,pop,2007,48.1735686137961,503
+GBD,"Asia, South",OSDMA8,pop,2008,50.8665214056658,503
+GBD,"Asia, South",OSDMA8,pop,2009,50.0384285450292,503
+GBD,"Asia, South",OSDMA8,pop,2010,46.6199138084708,503
+GBD,"Asia, South",OSDMA8,pop,2011,46.1914834102818,503
+GBD,"Asia, South",OSDMA8,pop,2012,52.20316051574,503
+GBD,"Asia, South",OSDMA8,pop,2013,42.8867901782853,503
+GBD,"Asia, South",OSDMA8,pop,2014,50.4982343059089,503
+GBD,"Asia, South",OSDMA8,pop,2015,45.7599725953753,503
+GBD,"Asia, South",OSDMA8,pop,2016,41.3825822411663,503
+GBD,"Asia, South",OSDMA8,pop,2017,53.2521474930072,503
+GBD,"Asia, South",OSDMA8,pop,2018,53.6409648463029,503
+GBD,"Asia, South",OSDMA8,pop,2019,52.2005888217121,503
+GBD,"Asia, South",OSDMA8,pop,2020,49.3222766611856,503
+GBD,"Asia, South",OSDMA8,pop,2021,50.0795789122801,503
+GBD,"Asia, South",OSDMA8,pop,2022,55.3324364045169,503
+GBD,"Asia, Southeast",AnnualMean,pop,1990,33.4646434168162,717
+GBD,"Asia, Southeast",AnnualMean,pop,1991,25.3608958393102,717
+GBD,"Asia, Southeast",AnnualMean,pop,1992,24.6335351416419,717
+GBD,"Asia, Southeast",AnnualMean,pop,1993,26.6484147027821,717
+GBD,"Asia, Southeast",AnnualMean,pop,1994,25.4584946339185,717
+GBD,"Asia, Southeast",AnnualMean,pop,1995,24.442040401865,717
+GBD,"Asia, Southeast",AnnualMean,pop,1996,25.7773232662582,717
+GBD,"Asia, Southeast",AnnualMean,pop,1997,30.14649601008,717
+GBD,"Asia, Southeast",AnnualMean,pop,1998,27.5383451516343,717
+GBD,"Asia, Southeast",AnnualMean,pop,1999,26.0634652778283,717
+GBD,"Asia, Southeast",AnnualMean,pop,2000,28.022177346476,717
+GBD,"Asia, Southeast",AnnualMean,pop,2001,29.0040333770143,717
+GBD,"Asia, Southeast",AnnualMean,pop,2002,32.5303160085199,717
+GBD,"Asia, Southeast",AnnualMean,pop,2003,30.0034635725622,717
+GBD,"Asia, Southeast",AnnualMean,pop,2004,32.8806960923626,717
+GBD,"Asia, Southeast",AnnualMean,pop,2005,27.9271794752323,717
+GBD,"Asia, Southeast",AnnualMean,pop,2006,28.9643886879686,717
+GBD,"Asia, Southeast",AnnualMean,pop,2007,26.8176237756778,717
+GBD,"Asia, Southeast",AnnualMean,pop,2008,25.0959152747394,717
+GBD,"Asia, Southeast",AnnualMean,pop,2009,27.6570392377929,717
+GBD,"Asia, Southeast",AnnualMean,pop,2010,26.9420969369722,717
+GBD,"Asia, Southeast",AnnualMean,pop,2011,26.6410900700177,717
+GBD,"Asia, Southeast",AnnualMean,pop,2012,28.7373120711664,717
+GBD,"Asia, Southeast",AnnualMean,pop,2013,27.0221012892789,717
+GBD,"Asia, Southeast",AnnualMean,pop,2014,27.8096858101392,717
+GBD,"Asia, Southeast",AnnualMean,pop,2015,30.2294244128207,717
+GBD,"Asia, Southeast",AnnualMean,pop,2016,29.0776922785156,717
+GBD,"Asia, Southeast",AnnualMean,pop,2017,31.0713829285503,717
+GBD,"Asia, Southeast",AnnualMean,pop,2018,30.3383841915022,717
+GBD,"Asia, Southeast",AnnualMean,pop,2019,33.5543360707104,717
+GBD,"Asia, Southeast",AnnualMean,pop,2020,31.6212239293959,717
+GBD,"Asia, Southeast",AnnualMean,pop,2021,30.9712171893327,717
+GBD,"Asia, Southeast",AnnualMean,pop,2022,31.8143218196643,717
+GBD,"Asia, Southeast",OSDMA8,pop,1990,34.0313961961866,717
+GBD,"Asia, Southeast",OSDMA8,pop,1991,29.2911649665824,717
+GBD,"Asia, Southeast",OSDMA8,pop,1992,28.6145110054801,717
+GBD,"Asia, Southeast",OSDMA8,pop,1993,31.1356486598627,717
+GBD,"Asia, Southeast",OSDMA8,pop,1994,29.5478109411094,717
+GBD,"Asia, Southeast",OSDMA8,pop,1995,27.9010322915212,717
+GBD,"Asia, Southeast",OSDMA8,pop,1996,30.6594248750339,717
+GBD,"Asia, Southeast",OSDMA8,pop,1997,34.8394510165115,717
+GBD,"Asia, Southeast",OSDMA8,pop,1998,31.0176638699104,717
+GBD,"Asia, Southeast",OSDMA8,pop,1999,30.3864966212266,717
+GBD,"Asia, Southeast",OSDMA8,pop,2000,31.9417006429921,717
+GBD,"Asia, Southeast",OSDMA8,pop,2001,33.1386918673974,717
+GBD,"Asia, Southeast",OSDMA8,pop,2002,35.4425576901293,717
+GBD,"Asia, Southeast",OSDMA8,pop,2003,33.4059273752447,717
+GBD,"Asia, Southeast",OSDMA8,pop,2004,36.1494572317411,717
+GBD,"Asia, Southeast",OSDMA8,pop,2005,31.2949825523368,717
+GBD,"Asia, Southeast",OSDMA8,pop,2006,31.938257655103,717
+GBD,"Asia, Southeast",OSDMA8,pop,2007,30.3992308592742,717
+GBD,"Asia, Southeast",OSDMA8,pop,2008,29.6724335245427,717
+GBD,"Asia, Southeast",OSDMA8,pop,2009,31.5206209031811,717
+GBD,"Asia, Southeast",OSDMA8,pop,2010,30.2129465509678,717
+GBD,"Asia, Southeast",OSDMA8,pop,2011,30.6495099975976,717
+GBD,"Asia, Southeast",OSDMA8,pop,2012,32.810151842,717
+GBD,"Asia, Southeast",OSDMA8,pop,2013,31.344686290234,717
+GBD,"Asia, Southeast",OSDMA8,pop,2014,33.3768646086847,717
+GBD,"Asia, Southeast",OSDMA8,pop,2015,35.5899810114471,717
+GBD,"Asia, Southeast",OSDMA8,pop,2016,33.1670269961405,717
+GBD,"Asia, Southeast",OSDMA8,pop,2017,34.9936554324037,717
+GBD,"Asia, Southeast",OSDMA8,pop,2018,35.0819565337075,717
+GBD,"Asia, Southeast",OSDMA8,pop,2019,38.9197045094063,717
+GBD,"Asia, Southeast",OSDMA8,pop,2020,36.3845631187321,717
+GBD,"Asia, Southeast",OSDMA8,pop,2021,35.949871748163,717
+GBD,"Asia, Southeast",OSDMA8,pop,2022,32.8884860289493,717
+GBD,"Australasia",AnnualMean,pop,1990,26.162644116727,887
+GBD,"Australasia",AnnualMean,pop,1991,26.5836228580111,887
+GBD,"Australasia",AnnualMean,pop,1992,27.2762050311749,887
+GBD,"Australasia",AnnualMean,pop,1993,27.6365016436619,887
+GBD,"Australasia",AnnualMean,pop,1994,28.1926249259846,887
+GBD,"Australasia",AnnualMean,pop,1995,28.4523855848832,887
+GBD,"Australasia",AnnualMean,pop,1996,29.6341369313052,887
+GBD,"Australasia",AnnualMean,pop,1997,29.1862736417415,887
+GBD,"Australasia",AnnualMean,pop,1998,29.6567701474298,887
+GBD,"Australasia",AnnualMean,pop,1999,28.4076535658024,887
+GBD,"Australasia",AnnualMean,pop,2000,29.6965414113953,887
+GBD,"Australasia",AnnualMean,pop,2001,28.3190353333329,887
+GBD,"Australasia",AnnualMean,pop,2002,26.8495908025075,887
+GBD,"Australasia",AnnualMean,pop,2003,27.3830156661231,887
+GBD,"Australasia",AnnualMean,pop,2004,27.943832050636,887
+GBD,"Australasia",AnnualMean,pop,2005,30.5338096664901,887
+GBD,"Australasia",AnnualMean,pop,2006,28.5937160878683,887
+GBD,"Australasia",AnnualMean,pop,2007,28.4000157652434,887
+GBD,"Australasia",AnnualMean,pop,2008,27.2277390763674,887
+GBD,"Australasia",AnnualMean,pop,2009,29.7258118646088,887
+GBD,"Australasia",AnnualMean,pop,2010,28.387752640076,887
+GBD,"Australasia",AnnualMean,pop,2011,27.5035325200658,887
+GBD,"Australasia",AnnualMean,pop,2012,28.164377275624,887
+GBD,"Australasia",AnnualMean,pop,2013,30.582221357293,887
+GBD,"Australasia",AnnualMean,pop,2014,26.4018834767032,887
+GBD,"Australasia",AnnualMean,pop,2015,24.2444896823217,887
+GBD,"Australasia",AnnualMean,pop,2016,24.1585661231983,887
+GBD,"Australasia",AnnualMean,pop,2017,25.1693687768158,887
+GBD,"Australasia",AnnualMean,pop,2018,25.090146019043,887
+GBD,"Australasia",AnnualMean,pop,2019,25.7641773748781,887
+GBD,"Australasia",AnnualMean,pop,2020,24.4986173705704,887
+GBD,"Australasia",AnnualMean,pop,2021,25.7803264305058,887
+GBD,"Australasia",AnnualMean,pop,2022,24.3619610800782,887
+GBD,"Australasia",OSDMA8,pop,1990,28.582048154979,887
+GBD,"Australasia",OSDMA8,pop,1991,30.2900390523935,887
+GBD,"Australasia",OSDMA8,pop,1992,31.2211690928604,887
+GBD,"Australasia",OSDMA8,pop,1993,31.4251864122458,887
+GBD,"Australasia",OSDMA8,pop,1994,32.8941855205553,887
+GBD,"Australasia",OSDMA8,pop,1995,30.8118364701131,887
+GBD,"Australasia",OSDMA8,pop,1996,32.6390102599031,887
+GBD,"Australasia",OSDMA8,pop,1997,32.3570256128755,887
+GBD,"Australasia",OSDMA8,pop,1998,31.9445242476346,887
+GBD,"Australasia",OSDMA8,pop,1999,30.4378407438343,887
+GBD,"Australasia",OSDMA8,pop,2000,31.6376695201161,887
+GBD,"Australasia",OSDMA8,pop,2001,30.7595327152943,887
+GBD,"Australasia",OSDMA8,pop,2002,31.0523124233606,887
+GBD,"Australasia",OSDMA8,pop,2003,30.3249114212312,887
+GBD,"Australasia",OSDMA8,pop,2004,30.3440876959332,887
+GBD,"Australasia",OSDMA8,pop,2005,34.7615270850474,887
+GBD,"Australasia",OSDMA8,pop,2006,30.9148849595548,887
+GBD,"Australasia",OSDMA8,pop,2007,31.0566298617255,887
+GBD,"Australasia",OSDMA8,pop,2008,30.2705326740179,887
+GBD,"Australasia",OSDMA8,pop,2009,33.8231143204133,887
+GBD,"Australasia",OSDMA8,pop,2010,30.8957835321884,887
+GBD,"Australasia",OSDMA8,pop,2011,30.6692125502201,887
+GBD,"Australasia",OSDMA8,pop,2012,32.4207551206327,887
+GBD,"Australasia",OSDMA8,pop,2013,32.8953725611917,887
+GBD,"Australasia",OSDMA8,pop,2014,30.2313789536589,887
+GBD,"Australasia",OSDMA8,pop,2015,27.1174347592869,887
+GBD,"Australasia",OSDMA8,pop,2016,26.8044487206899,887
+GBD,"Australasia",OSDMA8,pop,2017,27.7255518178327,887
+GBD,"Australasia",OSDMA8,pop,2018,27.055678566327,887
+GBD,"Australasia",OSDMA8,pop,2019,28.4484731650806,887
+GBD,"Australasia",OSDMA8,pop,2020,26.594843403048,887
+GBD,"Australasia",OSDMA8,pop,2021,28.4074317323444,887
+GBD,"Australasia",OSDMA8,pop,2022,26.9602712099503,887
+GBD,"Caribbean",AnnualMean,pop,1990,33.2986579237754,119
+GBD,"Caribbean",AnnualMean,pop,1991,33.548923225837,119
+GBD,"Caribbean",AnnualMean,pop,1992,30.8706912986697,119
+GBD,"Caribbean",AnnualMean,pop,1993,33.0781720921454,119
+GBD,"Caribbean",AnnualMean,pop,1994,33.3335686994814,119
+GBD,"Caribbean",AnnualMean,pop,1995,34.4183774139715,119
+GBD,"Caribbean",AnnualMean,pop,1996,34.8103315123117,119
+GBD,"Caribbean",AnnualMean,pop,1997,34.4966403127517,119
+GBD,"Caribbean",AnnualMean,pop,1998,35.7992050269168,119
+GBD,"Caribbean",AnnualMean,pop,1999,35.1977000857679,119
+GBD,"Caribbean",AnnualMean,pop,2000,34.8823837920505,119
+GBD,"Caribbean",AnnualMean,pop,2001,31.604118018538,119
+GBD,"Caribbean",AnnualMean,pop,2002,33.8744567722593,119
+GBD,"Caribbean",AnnualMean,pop,2003,32.9199951565388,119
+GBD,"Caribbean",AnnualMean,pop,2004,31.4555800940156,119
+GBD,"Caribbean",AnnualMean,pop,2005,28.8095030994031,119
+GBD,"Caribbean",AnnualMean,pop,2006,29.639535502838,119
+GBD,"Caribbean",AnnualMean,pop,2007,29.0181754875657,119
+GBD,"Caribbean",AnnualMean,pop,2008,30.2435924985513,119
+GBD,"Caribbean",AnnualMean,pop,2009,27.9412999208448,119
+GBD,"Caribbean",AnnualMean,pop,2010,30.2014863970224,119
+GBD,"Caribbean",AnnualMean,pop,2011,28.7133484216129,119
+GBD,"Caribbean",AnnualMean,pop,2012,30.0628108837445,119
+GBD,"Caribbean",AnnualMean,pop,2013,32.1151473558472,119
+GBD,"Caribbean",AnnualMean,pop,2014,38.5892698490454,119
+GBD,"Caribbean",AnnualMean,pop,2015,29.8668615273595,119
+GBD,"Caribbean",AnnualMean,pop,2016,30.9896426026875,119
+GBD,"Caribbean",AnnualMean,pop,2017,30.8725640008494,119
+GBD,"Caribbean",AnnualMean,pop,2018,33.203054396695,119
+GBD,"Caribbean",AnnualMean,pop,2019,31.1182626881064,119
+GBD,"Caribbean",AnnualMean,pop,2020,29.2691480396779,119
+GBD,"Caribbean",AnnualMean,pop,2021,31.9644218099084,119
+GBD,"Caribbean",AnnualMean,pop,2022,29.299294738527,119
+GBD,"Caribbean",OSDMA8,pop,1990,35.9086534786724,119
+GBD,"Caribbean",OSDMA8,pop,1991,36.9401561114739,119
+GBD,"Caribbean",OSDMA8,pop,1992,35.966777357576,119
+GBD,"Caribbean",OSDMA8,pop,1993,37.1397914938902,119
+GBD,"Caribbean",OSDMA8,pop,1994,37.2235448748288,119
+GBD,"Caribbean",OSDMA8,pop,1995,38.9517039684889,119
+GBD,"Caribbean",OSDMA8,pop,1996,39.5637124532332,119
+GBD,"Caribbean",OSDMA8,pop,1997,38.3295321636027,119
+GBD,"Caribbean",OSDMA8,pop,1998,40.2580259902619,119
+GBD,"Caribbean",OSDMA8,pop,1999,38.3499431737146,119
+GBD,"Caribbean",OSDMA8,pop,2000,39.2349989232094,119
+GBD,"Caribbean",OSDMA8,pop,2001,34.4895606874601,119
+GBD,"Caribbean",OSDMA8,pop,2002,37.3266210968899,119
+GBD,"Caribbean",OSDMA8,pop,2003,36.9585544751465,119
+GBD,"Caribbean",OSDMA8,pop,2004,35.9563704648276,119
+GBD,"Caribbean",OSDMA8,pop,2005,32.3848289316097,119
+GBD,"Caribbean",OSDMA8,pop,2006,33.9770377418871,119
+GBD,"Caribbean",OSDMA8,pop,2007,32.7996240798342,119
+GBD,"Caribbean",OSDMA8,pop,2008,33.6177559026689,119
+GBD,"Caribbean",OSDMA8,pop,2009,31.8651351321069,119
+GBD,"Caribbean",OSDMA8,pop,2010,33.4526399240098,119
+GBD,"Caribbean",OSDMA8,pop,2011,32.4805886579736,119
+GBD,"Caribbean",OSDMA8,pop,2012,33.1569075293369,119
+GBD,"Caribbean",OSDMA8,pop,2013,36.444904533263,119
+GBD,"Caribbean",OSDMA8,pop,2014,42.2191356782371,119
+GBD,"Caribbean",OSDMA8,pop,2015,33.2947243930535,119
+GBD,"Caribbean",OSDMA8,pop,2016,34.2864728764545,119
+GBD,"Caribbean",OSDMA8,pop,2017,34.7568286939119,119
+GBD,"Caribbean",OSDMA8,pop,2018,36.1987302280213,119
+GBD,"Caribbean",OSDMA8,pop,2019,34.2384898260609,119
+GBD,"Caribbean",OSDMA8,pop,2020,33.0559284555985,119
+GBD,"Caribbean",OSDMA8,pop,2021,34.5160302719321,119
+GBD,"Caribbean",OSDMA8,pop,2022,31.4511776103376,119
+GBD,"Europe, Central",AnnualMean,pop,1990,39.18685606877,158
+GBD,"Europe, Central",AnnualMean,pop,1991,32.0034384700519,158
+GBD,"Europe, Central",AnnualMean,pop,1992,34.5978684590441,158
+GBD,"Europe, Central",AnnualMean,pop,1993,33.1932096168151,158
+GBD,"Europe, Central",AnnualMean,pop,1994,36.6426580199563,158
+GBD,"Europe, Central",AnnualMean,pop,1995,36.186968713253,158
+GBD,"Europe, Central",AnnualMean,pop,1996,35.3827045518542,158
+GBD,"Europe, Central",AnnualMean,pop,1997,34.4200770772802,158
+GBD,"Europe, Central",AnnualMean,pop,1998,32.9821601827628,158
+GBD,"Europe, Central",AnnualMean,pop,1999,32.1152247261157,158
+GBD,"Europe, Central",AnnualMean,pop,2000,32.221585442989,158
+GBD,"Europe, Central",AnnualMean,pop,2001,31.4555238193764,158
+GBD,"Europe, Central",AnnualMean,pop,2002,37.0116006743057,158
+GBD,"Europe, Central",AnnualMean,pop,2003,36.3033208462778,158
+GBD,"Europe, Central",AnnualMean,pop,2004,34.3135661244762,158
+GBD,"Europe, Central",AnnualMean,pop,2005,35.1857904572011,158
+GBD,"Europe, Central",AnnualMean,pop,2006,35.1855466985458,158
+GBD,"Europe, Central",AnnualMean,pop,2007,34.6141288060251,158
+GBD,"Europe, Central",AnnualMean,pop,2008,35.2311367031521,158
+GBD,"Europe, Central",AnnualMean,pop,2009,34.1033902779738,158
+GBD,"Europe, Central",AnnualMean,pop,2010,32.617774646869,158
+GBD,"Europe, Central",AnnualMean,pop,2011,33.2625956566303,158
+GBD,"Europe, Central",AnnualMean,pop,2012,34.0551869427835,158
+GBD,"Europe, Central",AnnualMean,pop,2013,32.7041760537304,158
+GBD,"Europe, Central",AnnualMean,pop,2014,29.6182974260512,158
+GBD,"Europe, Central",AnnualMean,pop,2015,32.2364412627249,158
+GBD,"Europe, Central",AnnualMean,pop,2016,30.6667991176979,158
+GBD,"Europe, Central",AnnualMean,pop,2017,32.8373915005837,158
+GBD,"Europe, Central",AnnualMean,pop,2018,35.211400318821,158
+GBD,"Europe, Central",AnnualMean,pop,2019,34.7515581378604,158
+GBD,"Europe, Central",AnnualMean,pop,2020,32.3041086457937,158
+GBD,"Europe, Central",AnnualMean,pop,2021,33.73656997819,158
+GBD,"Europe, Central",AnnualMean,pop,2022,36.0665643306099,158
+GBD,"Europe, Central",OSDMA8,pop,1990,50.7591810516769,158
+GBD,"Europe, Central",OSDMA8,pop,1991,42.557760431353,158
+GBD,"Europe, Central",OSDMA8,pop,1992,46.2466144168484,158
+GBD,"Europe, Central",OSDMA8,pop,1993,43.6981369813607,158
+GBD,"Europe, Central",OSDMA8,pop,1994,47.9835481584278,158
+GBD,"Europe, Central",OSDMA8,pop,1995,45.6512227560217,158
+GBD,"Europe, Central",OSDMA8,pop,1996,46.1762689213995,158
+GBD,"Europe, Central",OSDMA8,pop,1997,44.3731382492821,158
+GBD,"Europe, Central",OSDMA8,pop,1998,42.7759162722667,158
+GBD,"Europe, Central",OSDMA8,pop,1999,40.7160966407104,158
+GBD,"Europe, Central",OSDMA8,pop,2000,41.2133923592717,158
+GBD,"Europe, Central",OSDMA8,pop,2001,40.0571417562953,158
+GBD,"Europe, Central",OSDMA8,pop,2002,48.0375128430283,158
+GBD,"Europe, Central",OSDMA8,pop,2003,47.3297113337755,158
+GBD,"Europe, Central",OSDMA8,pop,2004,43.4751943490378,158
+GBD,"Europe, Central",OSDMA8,pop,2005,45.1835279359318,158
+GBD,"Europe, Central",OSDMA8,pop,2006,45.1192841357137,158
+GBD,"Europe, Central",OSDMA8,pop,2007,45.6808197442596,158
+GBD,"Europe, Central",OSDMA8,pop,2008,45.3668602247187,158
+GBD,"Europe, Central",OSDMA8,pop,2009,44.810155724049,158
+GBD,"Europe, Central",OSDMA8,pop,2010,41.0178132814676,158
+GBD,"Europe, Central",OSDMA8,pop,2011,42.3026716665381,158
+GBD,"Europe, Central",OSDMA8,pop,2012,43.6865061008004,158
+GBD,"Europe, Central",OSDMA8,pop,2013,41.9316160150983,158
+GBD,"Europe, Central",OSDMA8,pop,2014,37.8980828723624,158
+GBD,"Europe, Central",OSDMA8,pop,2015,41.6807621585163,158
+GBD,"Europe, Central",OSDMA8,pop,2016,39.4899390779776,158
+GBD,"Europe, Central",OSDMA8,pop,2017,40.9480043041918,158
+GBD,"Europe, Central",OSDMA8,pop,2018,44.8257488850777,158
+GBD,"Europe, Central",OSDMA8,pop,2019,43.4983025096228,158
+GBD,"Europe, Central",OSDMA8,pop,2020,40.9631698251073,158
+GBD,"Europe, Central",OSDMA8,pop,2021,42.180315820446,158
+GBD,"Europe, Central",OSDMA8,pop,2022,45.7419896622522,158
+GBD,"Europe, Eastern",AnnualMean,pop,1990,34.7601932214429,3259
+GBD,"Europe, Eastern",AnnualMean,pop,1991,30.0946197958848,3259
+GBD,"Europe, Eastern",AnnualMean,pop,1992,30.8091124127997,3259
+GBD,"Europe, Eastern",AnnualMean,pop,1993,30.8433000879352,3259
+GBD,"Europe, Eastern",AnnualMean,pop,1994,32.6794166612378,3259
+GBD,"Europe, Eastern",AnnualMean,pop,1995,33.1974181386347,3259
+GBD,"Europe, Eastern",AnnualMean,pop,1996,36.7099063127558,3259
+GBD,"Europe, Eastern",AnnualMean,pop,1997,31.4501609619579,3259
+GBD,"Europe, Eastern",AnnualMean,pop,1998,29.4436040652432,3259
+GBD,"Europe, Eastern",AnnualMean,pop,1999,27.3884814567699,3259
+GBD,"Europe, Eastern",AnnualMean,pop,2000,26.4465310314078,3259
+GBD,"Europe, Eastern",AnnualMean,pop,2001,26.6276747161157,3259
+GBD,"Europe, Eastern",AnnualMean,pop,2002,33.9862454181254,3259
+GBD,"Europe, Eastern",AnnualMean,pop,2003,31.8463226716054,3259
+GBD,"Europe, Eastern",AnnualMean,pop,2004,30.9330149816692,3259
+GBD,"Europe, Eastern",AnnualMean,pop,2005,32.2125605561387,3259
+GBD,"Europe, Eastern",AnnualMean,pop,2006,32.198181182225,3259
+GBD,"Europe, Eastern",AnnualMean,pop,2007,31.9512695357849,3259
+GBD,"Europe, Eastern",AnnualMean,pop,2008,32.5134988811455,3259
+GBD,"Europe, Eastern",AnnualMean,pop,2009,30.0978205381683,3259
+GBD,"Europe, Eastern",AnnualMean,pop,2010,31.9627102547292,3259
+GBD,"Europe, Eastern",AnnualMean,pop,2011,29.3268842105976,3259
+GBD,"Europe, Eastern",AnnualMean,pop,2012,33.211554352913,3259
+GBD,"Europe, Eastern",AnnualMean,pop,2013,28.4255171882818,3259
+GBD,"Europe, Eastern",AnnualMean,pop,2014,26.6121894189766,3259
+GBD,"Europe, Eastern",AnnualMean,pop,2015,30.232041185879,3259
+GBD,"Europe, Eastern",AnnualMean,pop,2016,28.8306653223261,3259
+GBD,"Europe, Eastern",AnnualMean,pop,2017,26.8428163170431,3259
+GBD,"Europe, Eastern",AnnualMean,pop,2018,28.272166789684,3259
+GBD,"Europe, Eastern",AnnualMean,pop,2019,28.933605461707,3259
+GBD,"Europe, Eastern",AnnualMean,pop,2020,27.6905908518549,3259
+GBD,"Europe, Eastern",AnnualMean,pop,2021,31.2949055937837,3259
+GBD,"Europe, Eastern",AnnualMean,pop,2022,35.4404111711084,3259
+GBD,"Europe, Eastern",OSDMA8,pop,1990,39.4606200492277,3259
+GBD,"Europe, Eastern",OSDMA8,pop,1991,38.5972758231397,3259
+GBD,"Europe, Eastern",OSDMA8,pop,1992,39.3918695488108,3259
+GBD,"Europe, Eastern",OSDMA8,pop,1993,38.6745948184272,3259
+GBD,"Europe, Eastern",OSDMA8,pop,1994,40.017476908163,3259
+GBD,"Europe, Eastern",OSDMA8,pop,1995,40.1016827548744,3259
+GBD,"Europe, Eastern",OSDMA8,pop,1996,46.3807880803552,3259
+GBD,"Europe, Eastern",OSDMA8,pop,1997,38.9384824286945,3259
+GBD,"Europe, Eastern",OSDMA8,pop,1998,36.4927521161782,3259
+GBD,"Europe, Eastern",OSDMA8,pop,1999,34.0334507816351,3259
+GBD,"Europe, Eastern",OSDMA8,pop,2000,32.4517496047627,3259
+GBD,"Europe, Eastern",OSDMA8,pop,2001,32.8976580116015,3259
+GBD,"Europe, Eastern",OSDMA8,pop,2002,41.5364551838616,3259
+GBD,"Europe, Eastern",OSDMA8,pop,2003,39.2398309588749,3259
+GBD,"Europe, Eastern",OSDMA8,pop,2004,38.2049286486622,3259
+GBD,"Europe, Eastern",OSDMA8,pop,2005,40.9538379300628,3259
+GBD,"Europe, Eastern",OSDMA8,pop,2006,40.1079274286165,3259
+GBD,"Europe, Eastern",OSDMA8,pop,2007,39.4051446381709,3259
+GBD,"Europe, Eastern",OSDMA8,pop,2008,40.7429470232676,3259
+GBD,"Europe, Eastern",OSDMA8,pop,2009,37.8917967427608,3259
+GBD,"Europe, Eastern",OSDMA8,pop,2010,39.5995351678404,3259
+GBD,"Europe, Eastern",OSDMA8,pop,2011,35.5335317263934,3259
+GBD,"Europe, Eastern",OSDMA8,pop,2012,41.4371546698309,3259
+GBD,"Europe, Eastern",OSDMA8,pop,2013,34.8172057780716,3259
+GBD,"Europe, Eastern",OSDMA8,pop,2014,32.7044293656869,3259
+GBD,"Europe, Eastern",OSDMA8,pop,2015,37.038940316735,3259
+GBD,"Europe, Eastern",OSDMA8,pop,2016,35.7894064471615,3259
+GBD,"Europe, Eastern",OSDMA8,pop,2017,32.3430701595735,3259
+GBD,"Europe, Eastern",OSDMA8,pop,2018,34.0142472598297,3259
+GBD,"Europe, Eastern",OSDMA8,pop,2019,35.1347063683566,3259
+GBD,"Europe, Eastern",OSDMA8,pop,2020,33.8903060743409,3259
+GBD,"Europe, Eastern",OSDMA8,pop,2021,38.167074687428,3259
+GBD,"Europe, Eastern",OSDMA8,pop,2022,40.6448946645659,3259
+GBD,"Europe, Western",AnnualMean,pop,1990,33.709450946444,964
+GBD,"Europe, Western",AnnualMean,pop,1991,33.9292377287168,964
+GBD,"Europe, Western",AnnualMean,pop,1992,32.7105103363118,964
+GBD,"Europe, Western",AnnualMean,pop,1993,32.1719258522609,964
+GBD,"Europe, Western",AnnualMean,pop,1994,34.4768185465467,964
+GBD,"Europe, Western",AnnualMean,pop,1995,34.9393766692848,964
+GBD,"Europe, Western",AnnualMean,pop,1996,34.9084982317661,964
+GBD,"Europe, Western",AnnualMean,pop,1997,33.3853332920435,964
+GBD,"Europe, Western",AnnualMean,pop,1998,34.1300793326727,964
+GBD,"Europe, Western",AnnualMean,pop,1999,33.9011043923567,964
+GBD,"Europe, Western",AnnualMean,pop,2000,32.5226539792006,964
+GBD,"Europe, Western",AnnualMean,pop,2001,32.7475446328445,964
+GBD,"Europe, Western",AnnualMean,pop,2002,33.6453093419185,964
+GBD,"Europe, Western",AnnualMean,pop,2003,36.966426666726,964
+GBD,"Europe, Western",AnnualMean,pop,2004,34.205178829699,964
+GBD,"Europe, Western",AnnualMean,pop,2005,34.0961040516155,964
+GBD,"Europe, Western",AnnualMean,pop,2006,34.701029041222,964
+GBD,"Europe, Western",AnnualMean,pop,2007,33.0781703046191,964
+GBD,"Europe, Western",AnnualMean,pop,2008,33.0079655674569,964
+GBD,"Europe, Western",AnnualMean,pop,2009,33.4908840765369,964
+GBD,"Europe, Western",AnnualMean,pop,2010,33.4713663182467,964
+GBD,"Europe, Western",AnnualMean,pop,2011,34.014881607068,964
+GBD,"Europe, Western",AnnualMean,pop,2012,33.5688063083925,964
+GBD,"Europe, Western",AnnualMean,pop,2013,33.7932644755894,964
+GBD,"Europe, Western",AnnualMean,pop,2014,38.2885719075079,964
+GBD,"Europe, Western",AnnualMean,pop,2015,34.5697311943007,964
+GBD,"Europe, Western",AnnualMean,pop,2016,33.2505347703443,964
+GBD,"Europe, Western",AnnualMean,pop,2017,34.6374520514806,964
+GBD,"Europe, Western",AnnualMean,pop,2018,36.1364136186277,964
+GBD,"Europe, Western",AnnualMean,pop,2019,35.5764820627761,964
+GBD,"Europe, Western",AnnualMean,pop,2020,35.4271864776537,964
+GBD,"Europe, Western",AnnualMean,pop,2021,35.1138299222317,964
+GBD,"Europe, Western",AnnualMean,pop,2022,37.0708131615786,964
+GBD,"Europe, Western",OSDMA8,pop,1990,43.5018293666347,964
+GBD,"Europe, Western",OSDMA8,pop,1991,43.379257730476,964
+GBD,"Europe, Western",OSDMA8,pop,1992,42.6622570139431,964
+GBD,"Europe, Western",OSDMA8,pop,1993,41.3748449484552,964
+GBD,"Europe, Western",OSDMA8,pop,1994,44.6021839006231,964
+GBD,"Europe, Western",OSDMA8,pop,1995,44.7279000877435,964
+GBD,"Europe, Western",OSDMA8,pop,1996,44.3981960588946,964
+GBD,"Europe, Western",OSDMA8,pop,1997,42.9546100625043,964
+GBD,"Europe, Western",OSDMA8,pop,1998,42.8897817633099,964
+GBD,"Europe, Western",OSDMA8,pop,1999,42.7262198120196,964
+GBD,"Europe, Western",OSDMA8,pop,2000,41.0599300940444,964
+GBD,"Europe, Western",OSDMA8,pop,2001,42.2002947844616,964
+GBD,"Europe, Western",OSDMA8,pop,2002,42.512137291653,964
+GBD,"Europe, Western",OSDMA8,pop,2003,48.3877242474046,964
+GBD,"Europe, Western",OSDMA8,pop,2004,43.1702524388534,964
+GBD,"Europe, Western",OSDMA8,pop,2005,42.9243049171865,964
+GBD,"Europe, Western",OSDMA8,pop,2006,44.9232400719226,964
+GBD,"Europe, Western",OSDMA8,pop,2007,41.6386396322019,964
+GBD,"Europe, Western",OSDMA8,pop,2008,42.1456499019057,964
+GBD,"Europe, Western",OSDMA8,pop,2009,42.2764851782461,964
+GBD,"Europe, Western",OSDMA8,pop,2010,42.0041084632578,964
+GBD,"Europe, Western",OSDMA8,pop,2011,42.5178534421201,964
+GBD,"Europe, Western",OSDMA8,pop,2012,41.6602204599612,964
+GBD,"Europe, Western",OSDMA8,pop,2013,42.4801161072219,964
+GBD,"Europe, Western",OSDMA8,pop,2014,47.2699326576948,964
+GBD,"Europe, Western",OSDMA8,pop,2015,42.889273930969,964
+GBD,"Europe, Western",OSDMA8,pop,2016,41.146825253224,964
+GBD,"Europe, Western",OSDMA8,pop,2017,42.0569188676982,964
+GBD,"Europe, Western",OSDMA8,pop,2018,45.0748293679869,964
+GBD,"Europe, Western",OSDMA8,pop,2019,43.6549945577994,964
+GBD,"Europe, Western",OSDMA8,pop,2020,42.9236096955499,964
+GBD,"Europe, Western",OSDMA8,pop,2021,41.6804598978718,964
+GBD,"Europe, Western",OSDMA8,pop,2022,44.8345306865531,964
+GBD,"Latin America, Andean",AnnualMean,pop,1990,27.6659435471623,242
+GBD,"Latin America, Andean",AnnualMean,pop,1991,27.3820392236208,242
+GBD,"Latin America, Andean",AnnualMean,pop,1992,26.2501708756858,242
+GBD,"Latin America, Andean",AnnualMean,pop,1993,27.4006154546461,242
+GBD,"Latin America, Andean",AnnualMean,pop,1994,27.0603940683896,242
+GBD,"Latin America, Andean",AnnualMean,pop,1995,27.9294943577804,242
+GBD,"Latin America, Andean",AnnualMean,pop,1996,30.2367903456952,242
+GBD,"Latin America, Andean",AnnualMean,pop,1997,29.6044239512816,242
+GBD,"Latin America, Andean",AnnualMean,pop,1998,29.7836816818846,242
+GBD,"Latin America, Andean",AnnualMean,pop,1999,28.3126890340469,242
+GBD,"Latin America, Andean",AnnualMean,pop,2000,25.5291775328576,242
+GBD,"Latin America, Andean",AnnualMean,pop,2001,21.0832533664616,242
+GBD,"Latin America, Andean",AnnualMean,pop,2002,26.4824521008089,242
+GBD,"Latin America, Andean",AnnualMean,pop,2003,26.2538194777847,242
+GBD,"Latin America, Andean",AnnualMean,pop,2004,26.0135012131952,242
+GBD,"Latin America, Andean",AnnualMean,pop,2005,26.7638632545514,242
+GBD,"Latin America, Andean",AnnualMean,pop,2006,25.2023236122615,242
+GBD,"Latin America, Andean",AnnualMean,pop,2007,24.3334974273626,242
+GBD,"Latin America, Andean",AnnualMean,pop,2008,24.185752606107,242
+GBD,"Latin America, Andean",AnnualMean,pop,2009,25.2352061458914,242
+GBD,"Latin America, Andean",AnnualMean,pop,2010,24.9648010547885,242
+GBD,"Latin America, Andean",AnnualMean,pop,2011,23.7087789677443,242
+GBD,"Latin America, Andean",AnnualMean,pop,2012,24.7805345792308,242
+GBD,"Latin America, Andean",AnnualMean,pop,2013,23.7629678778588,242
+GBD,"Latin America, Andean",AnnualMean,pop,2014,25.0446017216397,242
+GBD,"Latin America, Andean",AnnualMean,pop,2015,25.9822073203617,242
+GBD,"Latin America, Andean",AnnualMean,pop,2016,25.5858231457457,242
+GBD,"Latin America, Andean",AnnualMean,pop,2017,24.9509598917901,242
+GBD,"Latin America, Andean",AnnualMean,pop,2018,26.9839419069902,242
+GBD,"Latin America, Andean",AnnualMean,pop,2019,27.9704197888463,242
+GBD,"Latin America, Andean",AnnualMean,pop,2020,26.883920427746,242
+GBD,"Latin America, Andean",AnnualMean,pop,2021,24.2812487429211,242
+GBD,"Latin America, Andean",AnnualMean,pop,2022,23.2755088232048,242
+GBD,"Latin America, Andean",OSDMA8,pop,1990,27.7765587911763,242
+GBD,"Latin America, Andean",OSDMA8,pop,1991,31.5909204065978,242
+GBD,"Latin America, Andean",OSDMA8,pop,1992,30.6985905858244,242
+GBD,"Latin America, Andean",OSDMA8,pop,1993,31.3966829041653,242
+GBD,"Latin America, Andean",OSDMA8,pop,1994,31.3289015535266,242
+GBD,"Latin America, Andean",OSDMA8,pop,1995,30.9966170756914,242
+GBD,"Latin America, Andean",OSDMA8,pop,1996,33.2769282972352,242
+GBD,"Latin America, Andean",OSDMA8,pop,1997,32.4853273932361,242
+GBD,"Latin America, Andean",OSDMA8,pop,1998,33.0150446666335,242
+GBD,"Latin America, Andean",OSDMA8,pop,1999,30.8981472200067,242
+GBD,"Latin America, Andean",OSDMA8,pop,2000,28.7052298823025,242
+GBD,"Latin America, Andean",OSDMA8,pop,2001,25.1846110908523,242
+GBD,"Latin America, Andean",OSDMA8,pop,2002,30.1939678575064,242
+GBD,"Latin America, Andean",OSDMA8,pop,2003,28.8132585733847,242
+GBD,"Latin America, Andean",OSDMA8,pop,2004,30.0635868725722,242
+GBD,"Latin America, Andean",OSDMA8,pop,2005,30.7980296905786,242
+GBD,"Latin America, Andean",OSDMA8,pop,2006,27.8931589829248,242
+GBD,"Latin America, Andean",OSDMA8,pop,2007,27.6773334533461,242
+GBD,"Latin America, Andean",OSDMA8,pop,2008,26.1653224894365,242
+GBD,"Latin America, Andean",OSDMA8,pop,2009,27.3924493451097,242
+GBD,"Latin America, Andean",OSDMA8,pop,2010,28.437177809746,242
+GBD,"Latin America, Andean",OSDMA8,pop,2011,25.9122676675027,242
+GBD,"Latin America, Andean",OSDMA8,pop,2012,28.0678629821579,242
+GBD,"Latin America, Andean",OSDMA8,pop,2013,26.261770883726,242
+GBD,"Latin America, Andean",OSDMA8,pop,2014,29.6381105810271,242
+GBD,"Latin America, Andean",OSDMA8,pop,2015,28.4193751054065,242
+GBD,"Latin America, Andean",OSDMA8,pop,2016,27.9517624839191,242
+GBD,"Latin America, Andean",OSDMA8,pop,2017,28.2005712980157,242
+GBD,"Latin America, Andean",OSDMA8,pop,2018,29.0822149333868,242
+GBD,"Latin America, Andean",OSDMA8,pop,2019,31.0631519728189,242
+GBD,"Latin America, Andean",OSDMA8,pop,2020,29.1418936143922,242
+GBD,"Latin America, Andean",OSDMA8,pop,2021,27.5576599390889,242
+GBD,"Latin America, Andean",OSDMA8,pop,2022,25.8231481827764,242
+GBD,"Latin America, Central",AnnualMean,pop,1990,36.6367023884875,501
+GBD,"Latin America, Central",AnnualMean,pop,1991,32.4400822196364,501
+GBD,"Latin America, Central",AnnualMean,pop,1992,30.7763944630881,501
+GBD,"Latin America, Central",AnnualMean,pop,1993,32.3535867157412,501
+GBD,"Latin America, Central",AnnualMean,pop,1994,32.7089630405103,501
+GBD,"Latin America, Central",AnnualMean,pop,1995,32.5098337404104,501
+GBD,"Latin America, Central",AnnualMean,pop,1996,32.5301925650444,501
+GBD,"Latin America, Central",AnnualMean,pop,1997,32.1916277135737,501
+GBD,"Latin America, Central",AnnualMean,pop,1998,34.6145481372254,501
+GBD,"Latin America, Central",AnnualMean,pop,1999,33.7791997906431,501
+GBD,"Latin America, Central",AnnualMean,pop,2000,33.6490215449605,501
+GBD,"Latin America, Central",AnnualMean,pop,2001,30.8412891670009,501
+GBD,"Latin America, Central",AnnualMean,pop,2002,34.1547163505406,501
+GBD,"Latin America, Central",AnnualMean,pop,2003,34.2035828375049,501
+GBD,"Latin America, Central",AnnualMean,pop,2004,34.1043031509974,501
+GBD,"Latin America, Central",AnnualMean,pop,2005,32.734951505688,501
+GBD,"Latin America, Central",AnnualMean,pop,2006,32.3084504804042,501
+GBD,"Latin America, Central",AnnualMean,pop,2007,31.257548743098,501
+GBD,"Latin America, Central",AnnualMean,pop,2008,33.1824706818948,501
+GBD,"Latin America, Central",AnnualMean,pop,2009,31.5339949491553,501
+GBD,"Latin America, Central",AnnualMean,pop,2010,33.0216394043733,501
+GBD,"Latin America, Central",AnnualMean,pop,2011,32.3545269691885,501
+GBD,"Latin America, Central",AnnualMean,pop,2012,32.8559326530457,501
+GBD,"Latin America, Central",AnnualMean,pop,2013,32.2602337081402,501
+GBD,"Latin America, Central",AnnualMean,pop,2014,32.0374664395559,501
+GBD,"Latin America, Central",AnnualMean,pop,2015,29.9867493008082,501
+GBD,"Latin America, Central",AnnualMean,pop,2016,30.344815240904,501
+GBD,"Latin America, Central",AnnualMean,pop,2017,30.8473754990419,501
+GBD,"Latin America, Central",AnnualMean,pop,2018,31.6058895983766,501
+GBD,"Latin America, Central",AnnualMean,pop,2019,33.1728078330655,501
+GBD,"Latin America, Central",AnnualMean,pop,2020,32.7588769946764,501
+GBD,"Latin America, Central",AnnualMean,pop,2021,32.5886508442636,501
+GBD,"Latin America, Central",AnnualMean,pop,2022,32.7299245947648,501
+GBD,"Latin America, Central",OSDMA8,pop,1990,40.1713110299643,501
+GBD,"Latin America, Central",OSDMA8,pop,1991,35.4113801835122,501
+GBD,"Latin America, Central",OSDMA8,pop,1992,34.3732158375896,501
+GBD,"Latin America, Central",OSDMA8,pop,1993,36.4493029380143,501
+GBD,"Latin America, Central",OSDMA8,pop,1994,35.8991353545585,501
+GBD,"Latin America, Central",OSDMA8,pop,1995,36.6510281598554,501
+GBD,"Latin America, Central",OSDMA8,pop,1996,36.6528558605091,501
+GBD,"Latin America, Central",OSDMA8,pop,1997,35.2351335042145,501
+GBD,"Latin America, Central",OSDMA8,pop,1998,40.3682134992331,501
+GBD,"Latin America, Central",OSDMA8,pop,1999,36.4830907021544,501
+GBD,"Latin America, Central",OSDMA8,pop,2000,37.5503909528405,501
+GBD,"Latin America, Central",OSDMA8,pop,2001,34.2232874047037,501
+GBD,"Latin America, Central",OSDMA8,pop,2002,37.6302716616455,501
+GBD,"Latin America, Central",OSDMA8,pop,2003,38.0595229594956,501
+GBD,"Latin America, Central",OSDMA8,pop,2004,37.6191645265894,501
+GBD,"Latin America, Central",OSDMA8,pop,2005,36.738879551043,501
+GBD,"Latin America, Central",OSDMA8,pop,2006,36.3745364356522,501
+GBD,"Latin America, Central",OSDMA8,pop,2007,35.5455635318754,501
+GBD,"Latin America, Central",OSDMA8,pop,2008,36.5256272997141,501
+GBD,"Latin America, Central",OSDMA8,pop,2009,35.7160837919534,501
+GBD,"Latin America, Central",OSDMA8,pop,2010,36.2646718225868,501
+GBD,"Latin America, Central",OSDMA8,pop,2011,35.8902777984799,501
+GBD,"Latin America, Central",OSDMA8,pop,2012,36.4891968308778,501
+GBD,"Latin America, Central",OSDMA8,pop,2013,36.8332553756446,501
+GBD,"Latin America, Central",OSDMA8,pop,2014,36.23171849963,501
+GBD,"Latin America, Central",OSDMA8,pop,2015,33.2079121096895,501
+GBD,"Latin America, Central",OSDMA8,pop,2016,34.2343629351576,501
+GBD,"Latin America, Central",OSDMA8,pop,2017,34.422846295411,501
+GBD,"Latin America, Central",OSDMA8,pop,2018,35.109918650998,501
+GBD,"Latin America, Central",OSDMA8,pop,2019,36.4481011960196,501
+GBD,"Latin America, Central",OSDMA8,pop,2020,35.5878094298689,501
+GBD,"Latin America, Central",OSDMA8,pop,2021,35.6341101744333,501
+GBD,"Latin America, Central",OSDMA8,pop,2022,34.5763091636525,501
+GBD,"Latin America, Southern",AnnualMean,pop,1990,23.6476313012276,446
+GBD,"Latin America, Southern",AnnualMean,pop,1991,28.6114331212651,446
+GBD,"Latin America, Southern",AnnualMean,pop,1992,27.8334994939156,446
+GBD,"Latin America, Southern",AnnualMean,pop,1993,29.2650209322026,446
+GBD,"Latin America, Southern",AnnualMean,pop,1994,28.6937677842192,446
+GBD,"Latin America, Southern",AnnualMean,pop,1995,29.6531764514628,446
+GBD,"Latin America, Southern",AnnualMean,pop,1996,31.7210138560323,446
+GBD,"Latin America, Southern",AnnualMean,pop,1997,31.3874137528088,446
+GBD,"Latin America, Southern",AnnualMean,pop,1998,30.5468083761872,446
+GBD,"Latin America, Southern",AnnualMean,pop,1999,28.5273743720924,446
+GBD,"Latin America, Southern",AnnualMean,pop,2000,28.3771869422532,446
+GBD,"Latin America, Southern",AnnualMean,pop,2001,28.7878277438436,446
+GBD,"Latin America, Southern",AnnualMean,pop,2002,28.249864427542,446
+GBD,"Latin America, Southern",AnnualMean,pop,2003,30.0929084508008,446
+GBD,"Latin America, Southern",AnnualMean,pop,2004,27.4452134906869,446
+GBD,"Latin America, Southern",AnnualMean,pop,2005,28.4772200548446,446
+GBD,"Latin America, Southern",AnnualMean,pop,2006,28.654964833647,446
+GBD,"Latin America, Southern",AnnualMean,pop,2007,26.8014186347495,446
+GBD,"Latin America, Southern",AnnualMean,pop,2008,28.5446532237202,446
+GBD,"Latin America, Southern",AnnualMean,pop,2009,28.4736091352896,446
+GBD,"Latin America, Southern",AnnualMean,pop,2010,28.284834009615,446
+GBD,"Latin America, Southern",AnnualMean,pop,2011,27.4570377369066,446
+GBD,"Latin America, Southern",AnnualMean,pop,2012,27.9905541515406,446
+GBD,"Latin America, Southern",AnnualMean,pop,2013,25.9620268420337,446
+GBD,"Latin America, Southern",AnnualMean,pop,2014,26.8215860369978,446
+GBD,"Latin America, Southern",AnnualMean,pop,2015,25.7535171787548,446
+GBD,"Latin America, Southern",AnnualMean,pop,2016,23.7447865871339,446
+GBD,"Latin America, Southern",AnnualMean,pop,2017,26.111557322243,446
+GBD,"Latin America, Southern",AnnualMean,pop,2018,26.6006061157775,446
+GBD,"Latin America, Southern",AnnualMean,pop,2019,27.6909307958694,446
+GBD,"Latin America, Southern",AnnualMean,pop,2020,27.9796967946507,446
+GBD,"Latin America, Southern",AnnualMean,pop,2021,26.7941726369921,446
+GBD,"Latin America, Southern",AnnualMean,pop,2022,27.8446822271137,446
+GBD,"Latin America, Southern",OSDMA8,pop,1990,26.0898929930354,446
+GBD,"Latin America, Southern",OSDMA8,pop,1991,30.5266188343327,446
+GBD,"Latin America, Southern",OSDMA8,pop,1992,30.5512770666829,446
+GBD,"Latin America, Southern",OSDMA8,pop,1993,32.2573775889232,446
+GBD,"Latin America, Southern",OSDMA8,pop,1994,30.9947700119487,446
+GBD,"Latin America, Southern",OSDMA8,pop,1995,32.2482782765589,446
+GBD,"Latin America, Southern",OSDMA8,pop,1996,32.9868088194012,446
+GBD,"Latin America, Southern",OSDMA8,pop,1997,34.3400514135427,446
+GBD,"Latin America, Southern",OSDMA8,pop,1998,34.1136664825223,446
+GBD,"Latin America, Southern",OSDMA8,pop,1999,32.938586503592,446
+GBD,"Latin America, Southern",OSDMA8,pop,2000,35.0176597387079,446
+GBD,"Latin America, Southern",OSDMA8,pop,2001,31.1141437394613,446
+GBD,"Latin America, Southern",OSDMA8,pop,2002,32.9198187262227,446
+GBD,"Latin America, Southern",OSDMA8,pop,2003,31.9170115947711,446
+GBD,"Latin America, Southern",OSDMA8,pop,2004,31.1911183372311,446
+GBD,"Latin America, Southern",OSDMA8,pop,2005,32.8280824444702,446
+GBD,"Latin America, Southern",OSDMA8,pop,2006,31.5092689376792,446
+GBD,"Latin America, Southern",OSDMA8,pop,2007,32.6626176010853,446
+GBD,"Latin America, Southern",OSDMA8,pop,2008,33.5115443856026,446
+GBD,"Latin America, Southern",OSDMA8,pop,2009,31.1709965709535,446
+GBD,"Latin America, Southern",OSDMA8,pop,2010,32.5805908206766,446
+GBD,"Latin America, Southern",OSDMA8,pop,2011,31.8721981764385,446
+GBD,"Latin America, Southern",OSDMA8,pop,2012,31.8181457950908,446
+GBD,"Latin America, Southern",OSDMA8,pop,2013,31.7829587529783,446
+GBD,"Latin America, Southern",OSDMA8,pop,2014,30.8043918631303,446
+GBD,"Latin America, Southern",OSDMA8,pop,2015,28.0063830208494,446
+GBD,"Latin America, Southern",OSDMA8,pop,2016,27.7877166124985,446
+GBD,"Latin America, Southern",OSDMA8,pop,2017,30.3854189521247,446
+GBD,"Latin America, Southern",OSDMA8,pop,2018,29.5703738011297,446
+GBD,"Latin America, Southern",OSDMA8,pop,2019,30.669377776205,446
+GBD,"Latin America, Southern",OSDMA8,pop,2020,30.3211449176918,446
+GBD,"Latin America, Southern",OSDMA8,pop,2021,28.9075437869457,446
+GBD,"Latin America, Southern",OSDMA8,pop,2022,31.4298785428536,446
+GBD,"Latin America, Tropical",AnnualMean,pop,1990,23.1194445780538,791
+GBD,"Latin America, Tropical",AnnualMean,pop,1991,29.096081154616,791
+GBD,"Latin America, Tropical",AnnualMean,pop,1992,28.4109339134926,791
+GBD,"Latin America, Tropical",AnnualMean,pop,1993,30.7165790325848,791
+GBD,"Latin America, Tropical",AnnualMean,pop,1994,30.1891322092496,791
+GBD,"Latin America, Tropical",AnnualMean,pop,1995,31.3032247441554,791
+GBD,"Latin America, Tropical",AnnualMean,pop,1996,33.2875000486551,791
+GBD,"Latin America, Tropical",AnnualMean,pop,1997,33.9846871332891,791
+GBD,"Latin America, Tropical",AnnualMean,pop,1998,27.2726713107571,791
+GBD,"Latin America, Tropical",AnnualMean,pop,1999,28.974310250351,791
+GBD,"Latin America, Tropical",AnnualMean,pop,2000,26.6001312449442,791
+GBD,"Latin America, Tropical",AnnualMean,pop,2001,26.9426491561084,791
+GBD,"Latin America, Tropical",AnnualMean,pop,2002,28.8543514734972,791
+GBD,"Latin America, Tropical",AnnualMean,pop,2003,29.9059596458377,791
+GBD,"Latin America, Tropical",AnnualMean,pop,2004,27.9747712563768,791
+GBD,"Latin America, Tropical",AnnualMean,pop,2005,27.5023699651521,791
+GBD,"Latin America, Tropical",AnnualMean,pop,2006,27.2298091848621,791
+GBD,"Latin America, Tropical",AnnualMean,pop,2007,25.9465211471387,791
+GBD,"Latin America, Tropical",AnnualMean,pop,2008,27.6825013734417,791
+GBD,"Latin America, Tropical",AnnualMean,pop,2009,26.5711965640359,791
+GBD,"Latin America, Tropical",AnnualMean,pop,2010,28.5287949771861,791
+GBD,"Latin America, Tropical",AnnualMean,pop,2011,27.5158291372325,791
+GBD,"Latin America, Tropical",AnnualMean,pop,2012,30.0663804424791,791
+GBD,"Latin America, Tropical",AnnualMean,pop,2013,27.85956975229,791
+GBD,"Latin America, Tropical",AnnualMean,pop,2014,28.7732218974556,791
+GBD,"Latin America, Tropical",AnnualMean,pop,2015,28.5627718128314,791
+GBD,"Latin America, Tropical",AnnualMean,pop,2016,27.58804058704,791
+GBD,"Latin America, Tropical",AnnualMean,pop,2017,28.9964257824373,791
+GBD,"Latin America, Tropical",AnnualMean,pop,2018,29.7685494026313,791
+GBD,"Latin America, Tropical",AnnualMean,pop,2019,31.0897372872448,791
+GBD,"Latin America, Tropical",AnnualMean,pop,2020,30.1065700741237,791
+GBD,"Latin America, Tropical",AnnualMean,pop,2021,27.9456788116525,791
+GBD,"Latin America, Tropical",AnnualMean,pop,2022,26.2514746890661,791
+GBD,"Latin America, Tropical",OSDMA8,pop,1990,25.6001500716391,791
+GBD,"Latin America, Tropical",OSDMA8,pop,1991,31.6755264340696,791
+GBD,"Latin America, Tropical",OSDMA8,pop,1992,31.6460315578176,791
+GBD,"Latin America, Tropical",OSDMA8,pop,1993,32.9803143540147,791
+GBD,"Latin America, Tropical",OSDMA8,pop,1994,33.3870225896144,791
+GBD,"Latin America, Tropical",OSDMA8,pop,1995,34.1726314732664,791
+GBD,"Latin America, Tropical",OSDMA8,pop,1996,34.5331017457689,791
+GBD,"Latin America, Tropical",OSDMA8,pop,1997,36.5194846408688,791
+GBD,"Latin America, Tropical",OSDMA8,pop,1998,30.7565377563515,791
+GBD,"Latin America, Tropical",OSDMA8,pop,1999,31.1084859889741,791
+GBD,"Latin America, Tropical",OSDMA8,pop,2000,30.8792527244796,791
+GBD,"Latin America, Tropical",OSDMA8,pop,2001,28.7805029969741,791
+GBD,"Latin America, Tropical",OSDMA8,pop,2002,32.3251877238218,791
+GBD,"Latin America, Tropical",OSDMA8,pop,2003,31.2934461109364,791
+GBD,"Latin America, Tropical",OSDMA8,pop,2004,31.1102559806487,791
+GBD,"Latin America, Tropical",OSDMA8,pop,2005,30.6336419704781,791
+GBD,"Latin America, Tropical",OSDMA8,pop,2006,29.1911507246123,791
+GBD,"Latin America, Tropical",OSDMA8,pop,2007,29.9025649168687,791
+GBD,"Latin America, Tropical",OSDMA8,pop,2008,30.0222807417686,791
+GBD,"Latin America, Tropical",OSDMA8,pop,2009,28.8418682655995,791
+GBD,"Latin America, Tropical",OSDMA8,pop,2010,31.834259238808,791
+GBD,"Latin America, Tropical",OSDMA8,pop,2011,31.2396589734101,791
+GBD,"Latin America, Tropical",OSDMA8,pop,2012,33.4926267180806,791
+GBD,"Latin America, Tropical",OSDMA8,pop,2013,32.1830897400658,791
+GBD,"Latin America, Tropical",OSDMA8,pop,2014,32.2896387362465,791
+GBD,"Latin America, Tropical",OSDMA8,pop,2015,30.5972202090104,791
+GBD,"Latin America, Tropical",OSDMA8,pop,2016,30.1744798561114,791
+GBD,"Latin America, Tropical",OSDMA8,pop,2017,32.6343260199199,791
+GBD,"Latin America, Tropical",OSDMA8,pop,2018,31.8971499923256,791
+GBD,"Latin America, Tropical",OSDMA8,pop,2019,32.9743983494855,791
+GBD,"Latin America, Tropical",OSDMA8,pop,2020,33.0654146501657,791
+GBD,"Latin America, Tropical",OSDMA8,pop,2021,31.0965329501477,791
+GBD,"Latin America, Tropical",OSDMA8,pop,2022,27.9850533866503,791
+GBD,"North Africa / Middle East",AnnualMean,pop,1990,38.7158784477812,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,1991,37.9047235611392,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,1992,33.8757845011878,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,1993,36.5717821223138,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,1994,35.5621657032397,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,1995,39.5917462450337,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,1996,40.2172190774714,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,1997,40.8758617549041,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,1998,42.3008586246328,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,1999,44.2485694634516,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,2000,38.4111559442631,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,2001,41.9142750678379,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,2002,44.7936259496245,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,2003,43.9817056678332,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,2004,42.0154182760979,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,2005,42.0446942735976,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,2006,42.8540912184762,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,2007,46.1638625643393,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,2008,47.4835149656243,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,2009,45.0598327636611,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,2010,42.7522258369195,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,2011,42.3746349265144,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,2012,43.6029728382684,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,2013,38.5711756202394,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,2014,38.6170385090859,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,2015,40.6778311533605,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,2016,39.9556710246211,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,2017,40.2752024360449,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,2018,38.1573504403358,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,2019,39.4973958363973,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,2020,38.8841727991592,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,2021,41.3534123728353,1187
+GBD,"North Africa / Middle East",AnnualMean,pop,2022,37.301898335587,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,1990,43.8084480936139,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,1991,47.6195352757711,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,1992,43.0543440770287,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,1993,46.8580405524565,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,1994,43.0925757729309,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,1995,47.9996895378851,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,1996,48.3601845738831,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,1997,48.0605892866094,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,1998,49.2599526469693,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,1999,53.0179098423671,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,2000,45.8803907362931,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,2001,49.7752146755016,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,2002,52.6999817086559,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,2003,53.9837513193467,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,2004,49.4456986486886,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,2005,48.0745848996628,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,2006,49.9614198465897,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,2007,51.8527426301797,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,2008,52.6547584616163,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,2009,50.235238086218,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,2010,49.7565662108372,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,2011,48.6327767914455,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,2012,49.4904020063022,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,2013,43.9310043615262,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,2014,45.7721230738239,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,2015,46.9564332797137,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,2016,47.1005654647138,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,2017,47.3913176751577,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,2018,45.8360267067727,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,2019,47.631451554422,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,2020,45.3965873806761,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,2021,49.1644599352346,1187
+GBD,"North Africa / Middle East",OSDMA8,pop,2022,42.8881384662227,1187
+GBD,"North America, High Income",AnnualMean,pop,1990,40.0501223862636,3407
+GBD,"North America, High Income",AnnualMean,pop,1991,38.6443682636835,3407
+GBD,"North America, High Income",AnnualMean,pop,1992,36.5767593963382,3407
+GBD,"North America, High Income",AnnualMean,pop,1993,37.8609801986398,3407
+GBD,"North America, High Income",AnnualMean,pop,1994,39.3967680830675,3407
+GBD,"North America, High Income",AnnualMean,pop,1995,39.3448613375562,3407
+GBD,"North America, High Income",AnnualMean,pop,1996,38.7233207616525,3407
+GBD,"North America, High Income",AnnualMean,pop,1997,38.8033179143945,3407
+GBD,"North America, High Income",AnnualMean,pop,1998,40.3907933526945,3407
+GBD,"North America, High Income",AnnualMean,pop,1999,40.974502981583,3407
+GBD,"North America, High Income",AnnualMean,pop,2000,38.731444877545,3407
+GBD,"North America, High Income",AnnualMean,pop,2001,39.85544181863,3407
+GBD,"North America, High Income",AnnualMean,pop,2002,39.8109811257708,3407
+GBD,"North America, High Income",AnnualMean,pop,2003,39.4055026033485,3407
+GBD,"North America, High Income",AnnualMean,pop,2004,38.0899200138374,3407
+GBD,"North America, High Income",AnnualMean,pop,2005,39.4991894855827,3407
+GBD,"North America, High Income",AnnualMean,pop,2006,39.5618960826621,3407
+GBD,"North America, High Income",AnnualMean,pop,2007,39.8353564924942,3407
+GBD,"North America, High Income",AnnualMean,pop,2008,38.9907586900289,3407
+GBD,"North America, High Income",AnnualMean,pop,2009,37.3686096770164,3407
+GBD,"North America, High Income",AnnualMean,pop,2010,39.5710077731228,3407
+GBD,"North America, High Income",AnnualMean,pop,2011,39.3131470675997,3407
+GBD,"North America, High Income",AnnualMean,pop,2012,39.6836208046013,3407
+GBD,"North America, High Income",AnnualMean,pop,2013,38.0683682558541,3407
+GBD,"North America, High Income",AnnualMean,pop,2014,38.1243581156595,3407
+GBD,"North America, High Income",AnnualMean,pop,2015,37.9841210120413,3407
+GBD,"North America, High Income",AnnualMean,pop,2016,38.7902370100238,3407
+GBD,"North America, High Income",AnnualMean,pop,2017,38.7949525265097,3407
+GBD,"North America, High Income",AnnualMean,pop,2018,38.0440217121167,3407
+GBD,"North America, High Income",AnnualMean,pop,2019,38.4914744497069,3407
+GBD,"North America, High Income",AnnualMean,pop,2020,37.5480207380948,3407
+GBD,"North America, High Income",AnnualMean,pop,2021,38.7407843359992,3407
+GBD,"North America, High Income",AnnualMean,pop,2022,39.2265420409164,3407
+GBD,"North America, High Income",OSDMA8,pop,1990,48.3133841860459,3407
+GBD,"North America, High Income",OSDMA8,pop,1991,48.2360662772521,3407
+GBD,"North America, High Income",OSDMA8,pop,1992,45.319678135442,3407
+GBD,"North America, High Income",OSDMA8,pop,1993,47.1052547350588,3407
+GBD,"North America, High Income",OSDMA8,pop,1994,49.2774068628922,3407
+GBD,"North America, High Income",OSDMA8,pop,1995,49.4789335282878,3407
+GBD,"North America, High Income",OSDMA8,pop,1996,48.40712318002,3407
+GBD,"North America, High Income",OSDMA8,pop,1997,48.2405741799087,3407
+GBD,"North America, High Income",OSDMA8,pop,1998,51.1677038839668,3407
+GBD,"North America, High Income",OSDMA8,pop,1999,50.4901310956973,3407
+GBD,"North America, High Income",OSDMA8,pop,2000,47.5725364456285,3407
+GBD,"North America, High Income",OSDMA8,pop,2001,49.1841006857138,3407
+GBD,"North America, High Income",OSDMA8,pop,2002,49.8543784345942,3407
+GBD,"North America, High Income",OSDMA8,pop,2003,48.1311418309404,3407
+GBD,"North America, High Income",OSDMA8,pop,2004,46.0824136765109,3407
+GBD,"North America, High Income",OSDMA8,pop,2005,48.7795450606066,3407
+GBD,"North America, High Income",OSDMA8,pop,2006,48.4609510367949,3407
+GBD,"North America, High Income",OSDMA8,pop,2007,48.2113539925615,3407
+GBD,"North America, High Income",OSDMA8,pop,2008,47.0736910622303,3407
+GBD,"North America, High Income",OSDMA8,pop,2009,44.424979179216,3407
+GBD,"North America, High Income",OSDMA8,pop,2010,46.2989372589772,3407
+GBD,"North America, High Income",OSDMA8,pop,2011,46.5150963851871,3407
+GBD,"North America, High Income",OSDMA8,pop,2012,47.721698171827,3407
+GBD,"North America, High Income",OSDMA8,pop,2013,44.4108544127769,3407
+GBD,"North America, High Income",OSDMA8,pop,2014,44.3164827703941,3407
+GBD,"North America, High Income",OSDMA8,pop,2015,44.3407393771497,3407
+GBD,"North America, High Income",OSDMA8,pop,2016,44.7255737087723,3407
+GBD,"North America, High Income",OSDMA8,pop,2017,44.5990922806637,3407
+GBD,"North America, High Income",OSDMA8,pop,2018,45.3216860809595,3407
+GBD,"North America, High Income",OSDMA8,pop,2019,44.2615352166784,3407
+GBD,"North America, High Income",OSDMA8,pop,2020,43.0828337528839,3407
+GBD,"North America, High Income",OSDMA8,pop,2021,44.3009997012768,3407
+GBD,"North America, High Income",OSDMA8,pop,2022,44.2409314654989,3407
+GBD,"Oceania",AnnualMean,pop,1990,31.1346117174041,221
+GBD,"Oceania",AnnualMean,pop,1991,19.2034144746402,221
+GBD,"Oceania",AnnualMean,pop,1992,19.1182918627494,221
+GBD,"Oceania",AnnualMean,pop,1993,21.865082442467,221
+GBD,"Oceania",AnnualMean,pop,1994,19.2856411023527,221
+GBD,"Oceania",AnnualMean,pop,1995,18.1271405196533,221
+GBD,"Oceania",AnnualMean,pop,1996,20.3289212484879,221
+GBD,"Oceania",AnnualMean,pop,1997,24.1867956718403,221
+GBD,"Oceania",AnnualMean,pop,1998,19.0622119370715,221
+GBD,"Oceania",AnnualMean,pop,1999,18.2779604881618,221
+GBD,"Oceania",AnnualMean,pop,2000,20.5625042104622,221
+GBD,"Oceania",AnnualMean,pop,2001,18.6996985482265,221
+GBD,"Oceania",AnnualMean,pop,2002,21.4212597435774,221
+GBD,"Oceania",AnnualMean,pop,2003,18.645476134438,221
+GBD,"Oceania",AnnualMean,pop,2004,19.3801112833518,221
+GBD,"Oceania",AnnualMean,pop,2005,19.8387084625752,221
+GBD,"Oceania",AnnualMean,pop,2006,18.5521878558643,221
+GBD,"Oceania",AnnualMean,pop,2007,17.6648337521728,221
+GBD,"Oceania",AnnualMean,pop,2008,16.0976050136932,221
+GBD,"Oceania",AnnualMean,pop,2009,18.8131850943508,221
+GBD,"Oceania",AnnualMean,pop,2010,18.547027728942,221
+GBD,"Oceania",AnnualMean,pop,2011,16.5888921937199,221
+GBD,"Oceania",AnnualMean,pop,2012,18.5981603028856,221
+GBD,"Oceania",AnnualMean,pop,2013,20.80747343961,221
+GBD,"Oceania",AnnualMean,pop,2014,15.7983869457524,221
+GBD,"Oceania",AnnualMean,pop,2015,17.8520431994246,221
+GBD,"Oceania",AnnualMean,pop,2016,16.5452606390372,221
+GBD,"Oceania",AnnualMean,pop,2017,16.832567958988,221
+GBD,"Oceania",AnnualMean,pop,2018,18.4258351272329,221
+GBD,"Oceania",AnnualMean,pop,2019,19.3328112553701,221
+GBD,"Oceania",AnnualMean,pop,2020,17.8399505421794,221
+GBD,"Oceania",AnnualMean,pop,2021,18.1159335670057,221
+GBD,"Oceania",AnnualMean,pop,2022,35.6997382823503,221
+GBD,"Oceania",OSDMA8,pop,1990,31.23100265823,221
+GBD,"Oceania",OSDMA8,pop,1991,24.1811779465229,221
+GBD,"Oceania",OSDMA8,pop,1992,23.725451453387,221
+GBD,"Oceania",OSDMA8,pop,1993,26.9483907413701,221
+GBD,"Oceania",OSDMA8,pop,1994,23.2482579544349,221
+GBD,"Oceania",OSDMA8,pop,1995,20.3717444407618,221
+GBD,"Oceania",OSDMA8,pop,1996,25.295602341249,221
+GBD,"Oceania",OSDMA8,pop,1997,27.9431331683221,221
+GBD,"Oceania",OSDMA8,pop,1998,20.6636435741344,221
+GBD,"Oceania",OSDMA8,pop,1999,20.782962103977,221
+GBD,"Oceania",OSDMA8,pop,2000,22.6359147525531,221
+GBD,"Oceania",OSDMA8,pop,2001,21.953243216093,221
+GBD,"Oceania",OSDMA8,pop,2002,24.5127456870078,221
+GBD,"Oceania",OSDMA8,pop,2003,22.4788769230186,221
+GBD,"Oceania",OSDMA8,pop,2004,23.7625209044091,221
+GBD,"Oceania",OSDMA8,pop,2005,22.6332962735528,221
+GBD,"Oceania",OSDMA8,pop,2006,21.3264712562971,221
+GBD,"Oceania",OSDMA8,pop,2007,19.8053849741588,221
+GBD,"Oceania",OSDMA8,pop,2008,18.4287097234461,221
+GBD,"Oceania",OSDMA8,pop,2009,21.6591426057493,221
+GBD,"Oceania",OSDMA8,pop,2010,21.765725751232,221
+GBD,"Oceania",OSDMA8,pop,2011,18.8629492299347,221
+GBD,"Oceania",OSDMA8,pop,2012,20.4939764781933,221
+GBD,"Oceania",OSDMA8,pop,2013,23.1237172808188,221
+GBD,"Oceania",OSDMA8,pop,2014,21.5567668317398,221
+GBD,"Oceania",OSDMA8,pop,2015,20.1585286258514,221
+GBD,"Oceania",OSDMA8,pop,2016,18.220941953383,221
+GBD,"Oceania",OSDMA8,pop,2017,19.9276282102856,221
+GBD,"Oceania",OSDMA8,pop,2018,20.689977423648,221
+GBD,"Oceania",OSDMA8,pop,2019,21.9568849542037,221
+GBD,"Oceania",OSDMA8,pop,2020,21.023231425877,221
+GBD,"Oceania",OSDMA8,pop,2021,26.134728915458,221
+GBD,"Oceania",OSDMA8,pop,2022,35.7646984027282,221
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,1990,38.1952407271174,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,1991,31.6232526260663,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,1992,31.8948562805401,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,1993,31.0269590208531,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,1994,29.7940641496479,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,1995,32.8430376554199,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,1996,31.8431736605956,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,1997,33.0707219431912,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,1998,32.8794201786321,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,1999,30.4394257225567,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,2000,29.123306581331,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,2001,29.5209889575336,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,2002,30.6053638833386,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,2003,33.6981411048411,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,2004,24.5881444780909,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,2005,33.1748079334697,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,2006,29.5196429572949,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,2007,30.6185879873559,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,2008,29.1254860452715,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,2009,30.376778946959,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,2010,29.1218748928837,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,2011,36.7928434180164,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,2012,33.4040742452153,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,2013,29.7571202994728,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,2014,34.8643803955773,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,2015,35.9822228879343,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,2016,36.0144967929508,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,2017,34.903798918596,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,2018,36.9103929208824,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,2019,35.1503708488192,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,2020,32.6716442284881,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,2021,37.3303082435032,411
+GBD,"Sub-Saharan Africa, Central",AnnualMean,pop,2022,36.2676220589713,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,1990,38.8887974779322,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,1991,39.3393107379434,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,1992,40.814648353497,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,1993,40.350627353809,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,1994,37.7349699294001,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,1995,41.3649338713143,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,1996,41.2624184490178,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,1997,40.1459811332111,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,1998,42.3539865437835,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,1999,37.6221619680859,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,2000,38.9373160423236,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,2001,36.8147924805958,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,2002,39.5853077677699,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,2003,43.5310263051151,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,2004,28.9935502804364,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,2005,40.19418625245,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,2006,36.2694104033808,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,2007,37.6616070735753,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,2008,34.5570681715405,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,2009,36.7440099181821,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,2010,34.1893568091801,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,2011,45.8251767674541,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,2012,40.981226607689,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,2013,38.0984081029182,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,2014,42.8983935661577,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,2015,43.1063529322417,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,2016,43.3162732005695,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,2017,41.3152947679762,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,2018,42.3456254159296,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,2019,41.7962374329413,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,2020,38.1098964406817,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,2021,43.8606876181207,411
+GBD,"Sub-Saharan Africa, Central",OSDMA8,pop,2022,36.5543598708021,411
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,1990,38.0685059940781,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,1991,27.6679725098774,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,1992,27.0874459452435,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,1993,26.3824692035248,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,1994,26.1699958935652,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,1995,27.4537345566911,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,1996,28.4003238133837,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,1997,30.297769655252,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,1998,28.7069493505684,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,1999,26.4722481019967,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,2000,27.7055234977853,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,2001,28.0136252761253,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,2002,28.8274177222567,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,2003,32.9263900483201,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,2004,27.914438546998,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,2005,30.6436804644588,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,2006,27.524432364802,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,2007,29.5130762563833,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,2008,30.3518025024658,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,2009,30.6540833351892,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,2010,31.6283180324201,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,2011,34.892321465894,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,2012,32.5994971622169,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,2013,30.1987911520882,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,2014,34.0052673064995,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,2015,36.3807241867849,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,2016,35.5987530808111,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,2017,34.1089444917912,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,2018,33.7528302083378,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,2019,34.095593415246,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,2020,31.3333772427857,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,2021,32.5785763924399,811
+GBD,"Sub-Saharan Africa, East",AnnualMean,pop,2022,37.1143379825085,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,1990,38.4437334124786,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,1991,32.2843800450557,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,1992,33.167614705992,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,1993,34.82462519478,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,1994,31.5202380314545,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,1995,31.3955308805414,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,1996,33.7618587472337,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,1997,34.3143703640905,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,1998,33.1915610477009,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,1999,30.3730730510729,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,2000,32.9747437209595,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,2001,32.0160140504301,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,2002,33.4804877718596,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,2003,38.7141898761383,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,2004,32.2087641902076,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,2005,35.0903801984002,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,2006,31.4285502051808,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,2007,34.0977765395045,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,2008,33.9679485948052,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,2009,36.0994691332907,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,2010,36.2906578680025,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,2011,39.4775322025853,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,2012,36.485255943308,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,2013,35.6370900736772,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,2014,38.3327002245008,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,2015,41.0766925099594,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,2016,39.7482043489012,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,2017,38.0773482000275,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,2018,38.1527557846177,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,2019,38.5730658217063,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,2020,34.9184790174181,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,2021,37.407236045324,811
+GBD,"Sub-Saharan Africa, East",OSDMA8,pop,2022,38.2979115065931,811
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,1990,37.8499162712857,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,1991,28.345518390364,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,1992,29.7960214811921,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,1993,28.8318720197663,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,1994,27.6687389246253,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,1995,26.8836245275782,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,1996,27.134555148896,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,1997,30.8311993558125,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,1998,30.0868217608643,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,1999,29.729880746888,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,2000,31.7917469826596,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,2001,31.1844446720131,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,2002,32.9539319540678,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,2003,37.8362951844386,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,2004,33.5141283392263,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,2005,42.081484599357,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,2006,36.3532476701586,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,2007,35.0246948286813,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,2008,33.2937654994993,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,2009,31.0395768924371,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,2010,32.4931871358162,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,2011,33.4937037827108,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,2012,33.9147806685869,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,2013,35.1632297824207,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,2014,42.1462388367076,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,2015,42.6373995583331,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,2016,37.4623628779437,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,2017,36.1904473400514,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,2018,34.0252768781205,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,2019,36.6720592034675,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,2020,35.5092493936724,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,2021,41.777389965189,295
+GBD,"Sub-Saharan Africa, Southern",AnnualMean,pop,2022,30.083391217757,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,1990,37.9010188183829,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,1991,33.5556610117708,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,1992,36.7792983302662,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,1993,37.0452800009976,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,1994,32.8606490971324,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,1995,32.395071671662,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,1996,33.1081732290964,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,1997,35.1034663244054,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,1998,35.4354158178045,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,1999,34.5792296720984,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,2000,37.5944912551992,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,2001,37.1481624431327,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,2002,38.1721030295679,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,2003,42.4391078969534,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,2004,37.1599584426113,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,2005,47.8060218840625,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,2006,40.9525237290522,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,2007,39.0798762239733,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,2008,37.389151134192,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,2009,35.9200164927969,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,2010,34.8599771223037,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,2011,38.8200375684645,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,2012,37.9298477455445,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,2013,39.8396781478193,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,2014,46.3183375665685,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,2015,48.7014142114732,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,2016,41.0475243316802,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,2017,39.5446600623789,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,2018,38.0474196770561,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,2019,40.6263466249544,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,2020,39.1351739337206,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,2021,46.7242232179809,295
+GBD,"Sub-Saharan Africa, Southern",OSDMA8,pop,2022,30.4310483600549,295
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,1990,40.527113010491,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,1991,31.7225271177673,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,1992,31.0332698355036,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,1993,30.9102755787191,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,1994,29.3421444164028,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,1995,31.8160435891557,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,1996,31.2594172579133,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,1997,34.7405677745849,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,1998,33.9148510256899,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,1999,33.6532510137148,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,2000,36.762607096299,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,2001,32.7752901073155,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,2002,31.9608861205814,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,2003,34.8690125670691,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,2004,32.1609682166557,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,2005,31.2861650853575,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,2006,31.0357353164411,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,2007,32.0319498942828,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,2008,32.2729435044155,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,2009,32.5669389136873,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,2010,33.768732073415,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,2011,35.236317949772,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,2012,34.9098734463901,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,2013,32.4015367936814,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,2014,32.5192458353893,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,2015,35.9917344056302,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,2016,34.6793305966848,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,2017,36.1321646719025,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,2018,35.3505280670474,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,2019,35.4388146592485,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,2020,34.433508224455,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,2021,35.1833996834854,686
+GBD,"Sub-Saharan Africa, West",AnnualMean,pop,2022,38.1459837636301,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,1990,41.3209910510893,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,1991,36.0760205039215,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,1992,35.4063890479004,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,1993,35.1085842242493,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,1994,33.7738737278137,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,1995,34.9785376220739,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,1996,38.2662297415379,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,1997,38.8145020372252,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,1998,37.3729214113004,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,1999,40.994961854409,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,2000,40.9317039257229,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,2001,35.6658476885074,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,2002,36.4093471747049,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,2003,39.3511537236255,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,2004,35.512831104889,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,2005,34.7088988633728,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,2006,34.6375933514576,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,2007,35.8421805277699,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,2008,36.314097771018,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,2009,36.2805722803671,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,2010,37.6836705296255,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,2011,39.621779530759,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,2012,39.8138054704225,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,2013,37.4502520283229,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,2014,37.1609376216898,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,2015,40.2407600511748,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,2016,39.0230267605708,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,2017,39.9462151296505,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,2018,39.3330422997652,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,2019,40.2926452405758,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,2020,38.336002257175,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,2021,38.3145762446094,686
+GBD,"Sub-Saharan Africa, West",OSDMA8,pop,2022,38.6464445630095,686
+GBD,"Unknown",AnnualMean,pop,1990,28.4946172748155,514
+GBD,"Unknown",AnnualMean,pop,1991,28.9466617302547,514
+GBD,"Unknown",AnnualMean,pop,1992,27.3191605721441,514
+GBD,"Unknown",AnnualMean,pop,1993,29.5485736589972,514
+GBD,"Unknown",AnnualMean,pop,1994,29.3169883958404,514
+GBD,"Unknown",AnnualMean,pop,1995,30.053429782216,514
+GBD,"Unknown",AnnualMean,pop,1996,31.1712360352103,514
+GBD,"Unknown",AnnualMean,pop,1997,30.6338103812796,514
+GBD,"Unknown",AnnualMean,pop,1998,30.9150192843205,514
+GBD,"Unknown",AnnualMean,pop,1999,30.3558080005689,514
+GBD,"Unknown",AnnualMean,pop,2000,28.7637279498608,514
+GBD,"Unknown",AnnualMean,pop,2001,25.4549688420248,514
+GBD,"Unknown",AnnualMean,pop,2002,30.2760169413463,514
+GBD,"Unknown",AnnualMean,pop,2003,26.8630953457697,514
+GBD,"Unknown",AnnualMean,pop,2004,26.0262692875652,514
+GBD,"Unknown",AnnualMean,pop,2005,23.3941895408987,514
+GBD,"Unknown",AnnualMean,pop,2006,24.1316439170354,514
+GBD,"Unknown",AnnualMean,pop,2007,23.3911359333676,514
+GBD,"Unknown",AnnualMean,pop,2008,25.1768720212916,514
+GBD,"Unknown",AnnualMean,pop,2009,24.1425520843823,514
+GBD,"Unknown",AnnualMean,pop,2010,25.9707247987196,514
+GBD,"Unknown",AnnualMean,pop,2011,24.5613286585922,514
+GBD,"Unknown",AnnualMean,pop,2012,24.8096355702832,514
+GBD,"Unknown",AnnualMean,pop,2013,27.1059819284823,514
+GBD,"Unknown",AnnualMean,pop,2014,36.7061190883627,514
+GBD,"Unknown",AnnualMean,pop,2015,25.3908373860982,514
+GBD,"Unknown",AnnualMean,pop,2016,25.4024370629731,514
+GBD,"Unknown",AnnualMean,pop,2017,25.7080103621324,514
+GBD,"Unknown",AnnualMean,pop,2018,30.0427185162373,514
+GBD,"Unknown",AnnualMean,pop,2019,27.8655266024124,514
+GBD,"Unknown",AnnualMean,pop,2020,24.0086183009288,514
+GBD,"Unknown",AnnualMean,pop,2021,28.2648328672468,514
+GBD,"Unknown",AnnualMean,pop,2022,27.3404246531787,514
+GBD,"Unknown",OSDMA8,pop,1990,31.6902705338157,514
+GBD,"Unknown",OSDMA8,pop,1991,32.6069982234217,514
+GBD,"Unknown",OSDMA8,pop,1992,32.6983991136655,514
+GBD,"Unknown",OSDMA8,pop,1993,34.0629777240345,514
+GBD,"Unknown",OSDMA8,pop,1994,33.3007108017772,514
+GBD,"Unknown",OSDMA8,pop,1995,34.3698329401263,514
+GBD,"Unknown",OSDMA8,pop,1996,35.9934171951221,514
+GBD,"Unknown",OSDMA8,pop,1997,34.6633212621142,514
+GBD,"Unknown",OSDMA8,pop,1998,34.8673791163672,514
+GBD,"Unknown",OSDMA8,pop,1999,33.2827405301897,514
+GBD,"Unknown",OSDMA8,pop,2000,32.709940812241,514
+GBD,"Unknown",OSDMA8,pop,2001,30.1355007137674,514
+GBD,"Unknown",OSDMA8,pop,2002,33.8973258165282,514
+GBD,"Unknown",OSDMA8,pop,2003,30.7883460558226,514
+GBD,"Unknown",OSDMA8,pop,2004,30.065961807312,514
+GBD,"Unknown",OSDMA8,pop,2005,27.5310236237429,514
+GBD,"Unknown",OSDMA8,pop,2006,28.2192517198633,514
+GBD,"Unknown",OSDMA8,pop,2007,28.3212879273049,514
+GBD,"Unknown",OSDMA8,pop,2008,28.4975273238313,514
+GBD,"Unknown",OSDMA8,pop,2009,27.4082729841296,514
+GBD,"Unknown",OSDMA8,pop,2010,29.1056463933239,514
+GBD,"Unknown",OSDMA8,pop,2011,28.0809043283001,514
+GBD,"Unknown",OSDMA8,pop,2012,28.2119189436009,514
+GBD,"Unknown",OSDMA8,pop,2013,33.3535272519129,514
+GBD,"Unknown",OSDMA8,pop,2014,42.7357339327527,514
+GBD,"Unknown",OSDMA8,pop,2015,28.2332259340811,514
+GBD,"Unknown",OSDMA8,pop,2016,28.5013643146013,514
+GBD,"Unknown",OSDMA8,pop,2017,29.5278278689228,514
+GBD,"Unknown",OSDMA8,pop,2018,33.4558352776368,514
+GBD,"Unknown",OSDMA8,pop,2019,31.1686921372875,514
+GBD,"Unknown",OSDMA8,pop,2020,26.8956972217943,514
+GBD,"Unknown",OSDMA8,pop,2021,31.2617087330582,514
+GBD,"Unknown",OSDMA8,pop,2022,29.5316069177967,514
+WHO,"AFRO",AnnualMean,pop,1990,38.928157760903,2220
+WHO,"AFRO",AnnualMean,pop,1991,30.1995810137237,2220
+WHO,"AFRO",AnnualMean,pop,1992,29.8038686232807,2220
+WHO,"AFRO",AnnualMean,pop,1993,29.3199951326709,2220
+WHO,"AFRO",AnnualMean,pop,1994,28.2570239036415,2220
+WHO,"AFRO",AnnualMean,pop,1995,30.2660697569292,2220
+WHO,"AFRO",AnnualMean,pop,1996,30.2749943059949,2220
+WHO,"AFRO",AnnualMean,pop,1997,32.5984251289006,2220
+WHO,"AFRO",AnnualMean,pop,1998,31.5496554521649,2220
+WHO,"AFRO",AnnualMean,pop,1999,30.3345354876432,2220
+WHO,"AFRO",AnnualMean,pop,2000,32.0922095726889,2220
+WHO,"AFRO",AnnualMean,pop,2001,30.6617223500118,2220
+WHO,"AFRO",AnnualMean,pop,2002,30.7867096595396,2220
+WHO,"AFRO",AnnualMean,pop,2003,34.2564541035221,2220
+WHO,"AFRO",AnnualMean,pop,2004,29.8752860684595,2220
+WHO,"AFRO",AnnualMean,pop,2005,32.2949709004721,2220
+WHO,"AFRO",AnnualMean,pop,2006,30.1026625905926,2220
+WHO,"AFRO",AnnualMean,pop,2007,31.2106575318615,2220
+WHO,"AFRO",AnnualMean,pop,2008,31.3501826380226,2220
+WHO,"AFRO",AnnualMean,pop,2009,31.5367350507599,2220
+WHO,"AFRO",AnnualMean,pop,2010,32.2586234611192,2220
+WHO,"AFRO",AnnualMean,pop,2011,35.2005146009059,2220
+WHO,"AFRO",AnnualMean,pop,2012,33.8959688394438,2220
+WHO,"AFRO",AnnualMean,pop,2013,31.7280933407884,2220
+WHO,"AFRO",AnnualMean,pop,2014,34.4373149466616,2220
+WHO,"AFRO",AnnualMean,pop,2015,36.7667715202612,2220
+WHO,"AFRO",AnnualMean,pop,2016,35.4380125699104,2220
+WHO,"AFRO",AnnualMean,pop,2017,35.3107454191071,2220
+WHO,"AFRO",AnnualMean,pop,2018,35.1169384760212,2220
+WHO,"AFRO",AnnualMean,pop,2019,35.2167063959889,2220
+WHO,"AFRO",AnnualMean,pop,2020,33.1678056559939,2220
+WHO,"AFRO",AnnualMean,pop,2021,35.0110007017892,2220
+WHO,"AFRO",AnnualMean,pop,2022,37.0256016189608,2220
+WHO,"AFRO",OSDMA8,pop,1990,39.8686322246377,2220
+WHO,"AFRO",OSDMA8,pop,1991,35.2758691502316,2220
+WHO,"AFRO",OSDMA8,pop,1992,35.8268998736118,2220
+WHO,"AFRO",OSDMA8,pop,1993,36.2061250629822,2220
+WHO,"AFRO",OSDMA8,pop,1994,33.6378950070669,2220
+WHO,"AFRO",OSDMA8,pop,1995,34.6110470601914,2220
+WHO,"AFRO",OSDMA8,pop,1996,36.9486033224386,2220
+WHO,"AFRO",OSDMA8,pop,1997,37.0921879289968,2220
+WHO,"AFRO",OSDMA8,pop,1998,36.3776082678391,2220
+WHO,"AFRO",OSDMA8,pop,1999,36.1951750975466,2220
+WHO,"AFRO",OSDMA8,pop,2000,37.6272700218664,2220
+WHO,"AFRO",OSDMA8,pop,2001,34.9369398902033,2220
+WHO,"AFRO",OSDMA8,pop,2002,36.013414840447,2220
+WHO,"AFRO",OSDMA8,pop,2003,40.0671156464099,2220
+WHO,"AFRO",OSDMA8,pop,2004,33.7516447590422,2220
+WHO,"AFRO",OSDMA8,pop,2005,36.7631719639884,2220
+WHO,"AFRO",OSDMA8,pop,2006,34.3798894029363,2220
+WHO,"AFRO",OSDMA8,pop,2007,35.7576348228267,2220
+WHO,"AFRO",OSDMA8,pop,2008,35.4325732638172,2220
+WHO,"AFRO",OSDMA8,pop,2009,36.4179483668394,2220
+WHO,"AFRO",OSDMA8,pop,2010,36.5372017147334,2220
+WHO,"AFRO",OSDMA8,pop,2011,40.2545961021882,2220
+WHO,"AFRO",OSDMA8,pop,2012,38.6534706488452,2220
+WHO,"AFRO",OSDMA8,pop,2013,37.3274919409797,2220
+WHO,"AFRO",OSDMA8,pop,2014,39.4273437800501,2220
+WHO,"AFRO",OSDMA8,pop,2015,41.7874651314045,2220
+WHO,"AFRO",OSDMA8,pop,2016,40.0099379849889,2220
+WHO,"AFRO",OSDMA8,pop,2017,39.5671804832222,2220
+WHO,"AFRO",OSDMA8,pop,2018,39.4375524807566,2220
+WHO,"AFRO",OSDMA8,pop,2019,40.1015828956955,2220
+WHO,"AFRO",OSDMA8,pop,2020,37.0315219258895,2220
+WHO,"AFRO",OSDMA8,pop,2021,39.3923134106046,2220
+WHO,"AFRO",OSDMA8,pop,2022,37.820424756312,2220
+WHO,"AMRO",AnnualMean,pop,1990,33.3795934743072,5549
+WHO,"AMRO",AnnualMean,pop,1991,33.4322826482962,5549
+WHO,"AMRO",AnnualMean,pop,1992,31.8798552966836,5549
+WHO,"AMRO",AnnualMean,pop,1993,33.5054002127445,5549
+WHO,"AMRO",AnnualMean,pop,1994,33.9915135450858,5549
+WHO,"AMRO",AnnualMean,pop,1995,34.3184066640431,5549
+WHO,"AMRO",AnnualMean,pop,1996,34.8241560958115,5549
+WHO,"AMRO",AnnualMean,pop,1997,34.8422452265263,5549
+WHO,"AMRO",AnnualMean,pop,1998,34.6010341413858,5549
+WHO,"AMRO",AnnualMean,pop,1999,34.7145106041423,5549
+WHO,"AMRO",AnnualMean,pop,2000,33.1621647675577,5549
+WHO,"AMRO",AnnualMean,pop,2001,32.5341033401894,5549
+WHO,"AMRO",AnnualMean,pop,2002,34.1798133479919,5549
+WHO,"AMRO",AnnualMean,pop,2003,34.3174953480466,5549
+WHO,"AMRO",AnnualMean,pop,2004,33.1490593633537,5549
+WHO,"AMRO",AnnualMean,pop,2005,33.1922752220427,5549
+WHO,"AMRO",AnnualMean,pop,2006,33.0131801910905,5549
+WHO,"AMRO",AnnualMean,pop,2007,32.3632506072758,5549
+WHO,"AMRO",AnnualMean,pop,2008,33.0943377843301,5549
+WHO,"AMRO",AnnualMean,pop,2009,31.8084599930554,5549
+WHO,"AMRO",AnnualMean,pop,2010,33.4719105556674,5549
+WHO,"AMRO",AnnualMean,pop,2011,32.7940269364941,5549
+WHO,"AMRO",AnnualMean,pop,2012,33.7567275657189,5549
+WHO,"AMRO",AnnualMean,pop,2013,32.44751821897,5549
+WHO,"AMRO",AnnualMean,pop,2014,33.0525208855307,5549
+WHO,"AMRO",AnnualMean,pop,2015,32.0078559156017,5549
+WHO,"AMRO",AnnualMean,pop,2016,32.0706501530933,5549
+WHO,"AMRO",AnnualMean,pop,2017,32.6158542766711,5549
+WHO,"AMRO",AnnualMean,pop,2018,32.9836330989056,5549
+WHO,"AMRO",AnnualMean,pop,2019,33.8584717260473,5549
+WHO,"AMRO",AnnualMean,pop,2020,33.0543202753137,5549
+WHO,"AMRO",AnnualMean,pop,2021,32.8766333598627,5549
+WHO,"AMRO",AnnualMean,pop,2022,32.6014019411378,5549
+WHO,"AMRO",OSDMA8,pop,1990,38.0826219773898,5549
+WHO,"AMRO",OSDMA8,pop,1991,38.7272079830426,5549
+WHO,"AMRO",OSDMA8,pop,1992,37.3127334690721,5549
+WHO,"AMRO",OSDMA8,pop,1993,38.9788495308077,5549
+WHO,"AMRO",OSDMA8,pop,1994,39.6320805107478,5549
+WHO,"AMRO",OSDMA8,pop,1995,40.1997626336507,5549
+WHO,"AMRO",OSDMA8,pop,1996,40.1089985630619,5549
+WHO,"AMRO",OSDMA8,pop,1997,40.1005176690626,5549
+WHO,"AMRO",OSDMA8,pop,1998,41.3201217431263,5549
+WHO,"AMRO",OSDMA8,pop,1999,39.872953500613,5549
+WHO,"AMRO",OSDMA8,pop,2000,39.0778425199798,5549
+WHO,"AMRO",OSDMA8,pop,2001,37.6872181377838,5549
+WHO,"AMRO",OSDMA8,pop,2002,40.1114665182959,5549
+WHO,"AMRO",OSDMA8,pop,2003,39.1963514986987,5549
+WHO,"AMRO",OSDMA8,pop,2004,38.283687726338,5549
+WHO,"AMRO",OSDMA8,pop,2005,38.9142690822787,5549
+WHO,"AMRO",OSDMA8,pop,2006,38.217853192873,5549
+WHO,"AMRO",OSDMA8,pop,2007,38.0862727724573,5549
+WHO,"AMRO",OSDMA8,pop,2008,37.9547140930029,5549
+WHO,"AMRO",OSDMA8,pop,2009,36.3805886631946,5549
+WHO,"AMRO",OSDMA8,pop,2010,38.0659140095728,5549
+WHO,"AMRO",OSDMA8,pop,2011,37.6772458328888,5549
+WHO,"AMRO",OSDMA8,pop,2012,38.9025786074738,5549
+WHO,"AMRO",OSDMA8,pop,2013,37.5645616824828,5549
+WHO,"AMRO",OSDMA8,pop,2014,37.8148211444337,5549
+WHO,"AMRO",OSDMA8,pop,2015,35.9987348958192,5549
+WHO,"AMRO",OSDMA8,pop,2016,36.3068461467548,5549
+WHO,"AMRO",OSDMA8,pop,2017,37.0489491619754,5549
+WHO,"AMRO",OSDMA8,pop,2018,37.41271309337,5549
+WHO,"AMRO",OSDMA8,pop,2019,37.6995194090691,5549
+WHO,"AMRO",OSDMA8,pop,2020,36.8602616378198,5549
+WHO,"AMRO",OSDMA8,pop,2021,36.7793288814667,5549
+WHO,"AMRO",OSDMA8,pop,2022,35.7298312725843,5549
+WHO,"EMRO",AnnualMean,pop,1990,38.1980404852518,1258
+WHO,"EMRO",AnnualMean,pop,1991,38.9321053864852,1258
+WHO,"EMRO",AnnualMean,pop,1992,34.0695042859912,1258
+WHO,"EMRO",AnnualMean,pop,1993,37.017728646722,1258
+WHO,"EMRO",AnnualMean,pop,1994,35.1674794763018,1258
+WHO,"EMRO",AnnualMean,pop,1995,39.9631649342066,1258
+WHO,"EMRO",AnnualMean,pop,1996,39.3822428816198,1258
+WHO,"EMRO",AnnualMean,pop,1997,41.9298341055276,1258
+WHO,"EMRO",AnnualMean,pop,1998,42.7431270468834,1258
+WHO,"EMRO",AnnualMean,pop,1999,45.1989337617995,1258
+WHO,"EMRO",AnnualMean,pop,2000,38.5151675906066,1258
+WHO,"EMRO",AnnualMean,pop,2001,41.3505218869417,1258
+WHO,"EMRO",AnnualMean,pop,2002,44.3311810432042,1258
+WHO,"EMRO",AnnualMean,pop,2003,44.4329326640666,1258
+WHO,"EMRO",AnnualMean,pop,2004,42.5041759853855,1258
+WHO,"EMRO",AnnualMean,pop,2005,42.5683443170831,1258
+WHO,"EMRO",AnnualMean,pop,2006,43.5364087889727,1258
+WHO,"EMRO",AnnualMean,pop,2007,47.0963002110873,1258
+WHO,"EMRO",AnnualMean,pop,2008,48.4308079391697,1258
+WHO,"EMRO",AnnualMean,pop,2009,45.3268852478299,1258
+WHO,"EMRO",AnnualMean,pop,2010,44.3095966209805,1258
+WHO,"EMRO",AnnualMean,pop,2011,42.8178122878624,1258
+WHO,"EMRO",AnnualMean,pop,2012,44.9230368500727,1258
+WHO,"EMRO",AnnualMean,pop,2013,38.2919512255934,1258
+WHO,"EMRO",AnnualMean,pop,2014,40.6634463673713,1258
+WHO,"EMRO",AnnualMean,pop,2015,40.8305499463644,1258
+WHO,"EMRO",AnnualMean,pop,2016,38.1095715560239,1258
+WHO,"EMRO",AnnualMean,pop,2017,43.0389857681807,1258
+WHO,"EMRO",AnnualMean,pop,2018,41.4291073978717,1258
+WHO,"EMRO",AnnualMean,pop,2019,42.0229138863843,1258
+WHO,"EMRO",AnnualMean,pop,2020,41.2099569038927,1258
+WHO,"EMRO",AnnualMean,pop,2021,44.127274195555,1258
+WHO,"EMRO",AnnualMean,pop,2022,42.310252262815,1258
+WHO,"EMRO",OSDMA8,pop,1990,40.6476804279492,1258
+WHO,"EMRO",OSDMA8,pop,1991,46.5815597983447,1258
+WHO,"EMRO",OSDMA8,pop,1992,41.6398643933826,1258
+WHO,"EMRO",OSDMA8,pop,1993,46.0122379215243,1258
+WHO,"EMRO",OSDMA8,pop,1994,41.22947445479,1258
+WHO,"EMRO",OSDMA8,pop,1995,46.8827748110103,1258
+WHO,"EMRO",OSDMA8,pop,1996,46.028528457897,1258
+WHO,"EMRO",OSDMA8,pop,1997,47.3399634278755,1258
+WHO,"EMRO",OSDMA8,pop,1998,49.0775496951309,1258
+WHO,"EMRO",OSDMA8,pop,1999,52.2017959301118,1258
+WHO,"EMRO",OSDMA8,pop,2000,45.9544254332341,1258
+WHO,"EMRO",OSDMA8,pop,2001,48.5541932931613,1258
+WHO,"EMRO",OSDMA8,pop,2002,51.6798233561537,1258
+WHO,"EMRO",OSDMA8,pop,2003,53.7057390438559,1258
+WHO,"EMRO",OSDMA8,pop,2004,49.6029912282251,1258
+WHO,"EMRO",OSDMA8,pop,2005,47.788202397851,1258
+WHO,"EMRO",OSDMA8,pop,2006,49.8000039706293,1258
+WHO,"EMRO",OSDMA8,pop,2007,52.140168551651,1258
+WHO,"EMRO",OSDMA8,pop,2008,53.8440697969539,1258
+WHO,"EMRO",OSDMA8,pop,2009,50.1184520921626,1258
+WHO,"EMRO",OSDMA8,pop,2010,50.5292096651805,1258
+WHO,"EMRO",OSDMA8,pop,2011,48.6466755507105,1258
+WHO,"EMRO",OSDMA8,pop,2012,50.8756268170472,1258
+WHO,"EMRO",OSDMA8,pop,2013,43.3335668320347,1258
+WHO,"EMRO",OSDMA8,pop,2014,48.2634148923754,1258
+WHO,"EMRO",OSDMA8,pop,2015,47.045150759659,1258
+WHO,"EMRO",OSDMA8,pop,2016,45.736233903875,1258
+WHO,"EMRO",OSDMA8,pop,2017,50.5636099816175,1258
+WHO,"EMRO",OSDMA8,pop,2018,49.2747180219572,1258
+WHO,"EMRO",OSDMA8,pop,2019,50.4302444789757,1258
+WHO,"EMRO",OSDMA8,pop,2020,47.9669602620246,1258
+WHO,"EMRO",OSDMA8,pop,2021,52.0903995336322,1258
+WHO,"EMRO",OSDMA8,pop,2022,48.0664009468683,1258
+WHO,"EURO",AnnualMean,pop,1990,35.5243278880604,5316
+WHO,"EURO",AnnualMean,pop,1991,32.2459156144361,5316
+WHO,"EURO",AnnualMean,pop,1992,31.5502993495116,5316
+WHO,"EURO",AnnualMean,pop,1993,31.399545558169,5316
+WHO,"EURO",AnnualMean,pop,1994,33.9907180973766,5316
+WHO,"EURO",AnnualMean,pop,1995,34.4212742651732,5316
+WHO,"EURO",AnnualMean,pop,1996,35.0883849558481,5316
+WHO,"EURO",AnnualMean,pop,1997,33.5759452751488,5316
+WHO,"EURO",AnnualMean,pop,1998,32.5942366343346,5316
+WHO,"EURO",AnnualMean,pop,1999,32.4392107265051,5316
+WHO,"EURO",AnnualMean,pop,2000,30.0619929212229,5316
+WHO,"EURO",AnnualMean,pop,2001,32.2759873648345,5316
+WHO,"EURO",AnnualMean,pop,2002,35.9485582238609,5316
+WHO,"EURO",AnnualMean,pop,2003,36.8702081104337,5316
+WHO,"EURO",AnnualMean,pop,2004,34.7373607709501,5316
+WHO,"EURO",AnnualMean,pop,2005,34.2369032701428,5316
+WHO,"EURO",AnnualMean,pop,2006,35.5456159520697,5316
+WHO,"EURO",AnnualMean,pop,2007,35.7212005138376,5316
+WHO,"EURO",AnnualMean,pop,2008,36.1847613782009,5316
+WHO,"EURO",AnnualMean,pop,2009,34.2030639048982,5316
+WHO,"EURO",AnnualMean,pop,2010,33.5430711163702,5316
+WHO,"EURO",AnnualMean,pop,2011,33.0321553334944,5316
+WHO,"EURO",AnnualMean,pop,2012,34.3590415539756,5316
+WHO,"EURO",AnnualMean,pop,2013,31.3014293929511,5316
+WHO,"EURO",AnnualMean,pop,2014,32.8357372524049,5316
+WHO,"EURO",AnnualMean,pop,2015,33.0973555026689,5316
+WHO,"EURO",AnnualMean,pop,2016,31.6376563628805,5316
+WHO,"EURO",AnnualMean,pop,2017,32.2549380722246,5316
+WHO,"EURO",AnnualMean,pop,2018,33.5547231009175,5316
+WHO,"EURO",AnnualMean,pop,2019,33.5718607384757,5316
+WHO,"EURO",AnnualMean,pop,2020,32.5204901312143,5316
+WHO,"EURO",AnnualMean,pop,2021,33.5125264746126,5316
+WHO,"EURO",AnnualMean,pop,2022,36.3606557154263,5316
+WHO,"EURO",OSDMA8,pop,1990,43.4160425652829,5316
+WHO,"EURO",OSDMA8,pop,1991,42.0394699972417,5316
+WHO,"EURO",OSDMA8,pop,1992,41.1706515341042,5316
+WHO,"EURO",OSDMA8,pop,1993,40.8155863640672,5316
+WHO,"EURO",OSDMA8,pop,1994,43.1608369972806,5316
+WHO,"EURO",OSDMA8,pop,1995,43.3068009012837,5316
+WHO,"EURO",OSDMA8,pop,1996,44.6622336806291,5316
+WHO,"EURO",OSDMA8,pop,1997,42.629468401014,5316
+WHO,"EURO",OSDMA8,pop,1998,40.5826060655411,5316
+WHO,"EURO",OSDMA8,pop,1999,41.1703422439264,5316
+WHO,"EURO",OSDMA8,pop,2000,37.9460773357338,5316
+WHO,"EURO",OSDMA8,pop,2001,40.8178955080693,5316
+WHO,"EURO",OSDMA8,pop,2002,44.888538650016,5316
+WHO,"EURO",OSDMA8,pop,2003,47.3929980362914,5316
+WHO,"EURO",OSDMA8,pop,2004,43.6047139830615,5316
+WHO,"EURO",OSDMA8,pop,2005,42.7812715581047,5316
+WHO,"EURO",OSDMA8,pop,2006,44.7439973170082,5316
+WHO,"EURO",OSDMA8,pop,2007,44.1426766737055,5316
+WHO,"EURO",OSDMA8,pop,2008,44.9314018166238,5316
+WHO,"EURO",OSDMA8,pop,2009,42.6557163764205,5316
+WHO,"EURO",OSDMA8,pop,2010,41.890832610529,5316
+WHO,"EURO",OSDMA8,pop,2011,40.6978791415729,5316
+WHO,"EURO",OSDMA8,pop,2012,42.3718836874524,5316
+WHO,"EURO",OSDMA8,pop,2013,38.7331770829227,5316
+WHO,"EURO",OSDMA8,pop,2014,40.950506710265,5316
+WHO,"EURO",OSDMA8,pop,2015,41.1303740336512,5316
+WHO,"EURO",OSDMA8,pop,2016,39.3938259920032,5316
+WHO,"EURO",OSDMA8,pop,2017,39.5362229306804,5316
+WHO,"EURO",OSDMA8,pop,2018,41.6561355125505,5316
+WHO,"EURO",OSDMA8,pop,2019,41.38850857341,5316
+WHO,"EURO",OSDMA8,pop,2020,39.7102529625258,5316
+WHO,"EURO",OSDMA8,pop,2021,40.6501727282469,5316
+WHO,"EURO",OSDMA8,pop,2022,43.7455628785347,5316
+WHO,"SEARO",AnnualMean,pop,1990,34.5616080126143,880
+WHO,"SEARO",AnnualMean,pop,1991,33.902611238495,880
+WHO,"SEARO",AnnualMean,pop,1992,32.5527878997399,880
+WHO,"SEARO",AnnualMean,pop,1993,34.2458373941767,880
+WHO,"SEARO",AnnualMean,pop,1994,35.43241906161,880
+WHO,"SEARO",AnnualMean,pop,1995,34.6660232079232,880
+WHO,"SEARO",AnnualMean,pop,1996,35.6831162231439,880
+WHO,"SEARO",AnnualMean,pop,1997,38.0836423003658,880
+WHO,"SEARO",AnnualMean,pop,1998,36.8400272391699,880
+WHO,"SEARO",AnnualMean,pop,1999,38.0940226026254,880
+WHO,"SEARO",AnnualMean,pop,2000,32.4772871123221,880
+WHO,"SEARO",AnnualMean,pop,2001,32.6086748384292,880
+WHO,"SEARO",AnnualMean,pop,2002,35.8047185421207,880
+WHO,"SEARO",AnnualMean,pop,2003,38.3423978744108,880
+WHO,"SEARO",AnnualMean,pop,2004,36.2858075735433,880
+WHO,"SEARO",AnnualMean,pop,2005,34.7370763562391,880
+WHO,"SEARO",AnnualMean,pop,2006,36.828179030465,880
+WHO,"SEARO",AnnualMean,pop,2007,37.9959030644085,880
+WHO,"SEARO",AnnualMean,pop,2008,39.3508050008202,880
+WHO,"SEARO",AnnualMean,pop,2009,38.8004042005389,880
+WHO,"SEARO",AnnualMean,pop,2010,37.0342391527593,880
+WHO,"SEARO",AnnualMean,pop,2011,36.1379893588362,880
+WHO,"SEARO",AnnualMean,pop,2012,40.6821804536718,880
+WHO,"SEARO",AnnualMean,pop,2013,33.3855432536818,880
+WHO,"SEARO",AnnualMean,pop,2014,37.9494003045905,880
+WHO,"SEARO",AnnualMean,pop,2015,36.3871329515787,880
+WHO,"SEARO",AnnualMean,pop,2016,32.6076720962373,880
+WHO,"SEARO",AnnualMean,pop,2017,41.3621581186572,880
+WHO,"SEARO",AnnualMean,pop,2018,43.0399032669383,880
+WHO,"SEARO",AnnualMean,pop,2019,41.575107315641,880
+WHO,"SEARO",AnnualMean,pop,2020,40.8583670581939,880
+WHO,"SEARO",AnnualMean,pop,2021,41.1732812763308,880
+WHO,"SEARO",AnnualMean,pop,2022,44.9840087951588,880
+WHO,"SEARO",OSDMA8,pop,1990,37.4994263972307,880
+WHO,"SEARO",OSDMA8,pop,1991,38.9420916304091,880
+WHO,"SEARO",OSDMA8,pop,1992,38.4060766508392,880
+WHO,"SEARO",OSDMA8,pop,1993,39.2122203013002,880
+WHO,"SEARO",OSDMA8,pop,1994,40.3888912814538,880
+WHO,"SEARO",OSDMA8,pop,1995,39.8353654695461,880
+WHO,"SEARO",OSDMA8,pop,1996,41.3320330606973,880
+WHO,"SEARO",OSDMA8,pop,1997,43.2911878520715,880
+WHO,"SEARO",OSDMA8,pop,1998,43.1196200092735,880
+WHO,"SEARO",OSDMA8,pop,1999,45.1137757899775,880
+WHO,"SEARO",OSDMA8,pop,2000,38.6765319653135,880
+WHO,"SEARO",OSDMA8,pop,2001,39.2087615812533,880
+WHO,"SEARO",OSDMA8,pop,2002,39.5969899625564,880
+WHO,"SEARO",OSDMA8,pop,2003,46.1609904092339,880
+WHO,"SEARO",OSDMA8,pop,2004,41.3278681374316,880
+WHO,"SEARO",OSDMA8,pop,2005,39.6408782253813,880
+WHO,"SEARO",OSDMA8,pop,2006,42.1151637137493,880
+WHO,"SEARO",OSDMA8,pop,2007,43.4291554531785,880
+WHO,"SEARO",OSDMA8,pop,2008,45.2772617797039,880
+WHO,"SEARO",OSDMA8,pop,2009,45.9639243268158,880
+WHO,"SEARO",OSDMA8,pop,2010,42.4921352224671,880
+WHO,"SEARO",OSDMA8,pop,2011,42.8821856380244,880
+WHO,"SEARO",OSDMA8,pop,2012,48.1422190676057,880
+WHO,"SEARO",OSDMA8,pop,2013,40.5562212003507,880
+WHO,"SEARO",OSDMA8,pop,2014,46.7733103104862,880
+WHO,"SEARO",OSDMA8,pop,2015,43.6743339839884,880
+WHO,"SEARO",OSDMA8,pop,2016,39.646092732397,880
+WHO,"SEARO",OSDMA8,pop,2017,48.9844313014353,880
+WHO,"SEARO",OSDMA8,pop,2018,49.5037124555329,880
+WHO,"SEARO",OSDMA8,pop,2019,49.2393805532021,880
+WHO,"SEARO",OSDMA8,pop,2020,46.438962785593,880
+WHO,"SEARO",OSDMA8,pop,2021,46.5601798043278,880
+WHO,"SEARO",OSDMA8,pop,2022,49.6987429373197,880
+WHO,"WPRO",AnnualMean,pop,1990,34.1760914636423,2950
+WHO,"WPRO",AnnualMean,pop,1991,31.4103075638067,2950
+WHO,"WPRO",AnnualMean,pop,1992,30.8229367227962,2950
+WHO,"WPRO",AnnualMean,pop,1993,32.4244526203817,2950
+WHO,"WPRO",AnnualMean,pop,1994,33.3704431696364,2950
+WHO,"WPRO",AnnualMean,pop,1995,33.8037277124231,2950
+WHO,"WPRO",AnnualMean,pop,1996,34.2859769152045,2950
+WHO,"WPRO",AnnualMean,pop,1997,35.7323462541811,2950
+WHO,"WPRO",AnnualMean,pop,1998,35.4735446221922,2950
+WHO,"WPRO",AnnualMean,pop,1999,35.5471719379372,2950
+WHO,"WPRO",AnnualMean,pop,2000,36.4930160148662,2950
+WHO,"WPRO",AnnualMean,pop,2001,36.478716107121,2950
+WHO,"WPRO",AnnualMean,pop,2002,37.129658400946,2950
+WHO,"WPRO",AnnualMean,pop,2003,37.0433110467585,2950
+WHO,"WPRO",AnnualMean,pop,2004,38.6240361527799,2950
+WHO,"WPRO",AnnualMean,pop,2005,36.7224739980059,2950
+WHO,"WPRO",AnnualMean,pop,2006,37.2882804216596,2950
+WHO,"WPRO",AnnualMean,pop,2007,37.389501672633,2950
+WHO,"WPRO",AnnualMean,pop,2008,38.5252501181438,2950
+WHO,"WPRO",AnnualMean,pop,2009,39.1560646247271,2950
+WHO,"WPRO",AnnualMean,pop,2010,37.2283407849956,2950
+WHO,"WPRO",AnnualMean,pop,2011,37.8624987802463,2950
+WHO,"WPRO",AnnualMean,pop,2012,36.9602672987128,2950
+WHO,"WPRO",AnnualMean,pop,2013,36.4019916923911,2950
+WHO,"WPRO",AnnualMean,pop,2014,37.4755303195461,2950
+WHO,"WPRO",AnnualMean,pop,2015,38.0826268215261,2950
+WHO,"WPRO",AnnualMean,pop,2016,39.4441968803348,2950
+WHO,"WPRO",AnnualMean,pop,2017,43.319927641427,2950
+WHO,"WPRO",AnnualMean,pop,2018,43.4281952834683,2950
+WHO,"WPRO",AnnualMean,pop,2019,43.4352726354182,2950
+WHO,"WPRO",AnnualMean,pop,2020,42.0789433156282,2950
+WHO,"WPRO",AnnualMean,pop,2021,42.4844802645484,2950
+WHO,"WPRO",AnnualMean,pop,2022,45.8442936010575,2950
+WHO,"WPRO",OSDMA8,pop,1990,36.8270599240772,2950
+WHO,"WPRO",OSDMA8,pop,1991,36.0612461492526,2950
+WHO,"WPRO",OSDMA8,pop,1992,36.5790166629877,2950
+WHO,"WPRO",OSDMA8,pop,1993,37.850700719093,2950
+WHO,"WPRO",OSDMA8,pop,1994,39.399165074949,2950
+WHO,"WPRO",OSDMA8,pop,1995,39.403890659552,2950
+WHO,"WPRO",OSDMA8,pop,1996,40.3208444020584,2950
+WHO,"WPRO",OSDMA8,pop,1997,41.8638652654911,2950
+WHO,"WPRO",OSDMA8,pop,1998,41.3057965565142,2950
+WHO,"WPRO",OSDMA8,pop,1999,42.1776880011153,2950
+WHO,"WPRO",OSDMA8,pop,2000,42.9336957403493,2950
+WHO,"WPRO",OSDMA8,pop,2001,42.8711033375367,2950
+WHO,"WPRO",OSDMA8,pop,2002,42.3891978121278,2950
+WHO,"WPRO",OSDMA8,pop,2003,42.9151790062946,2950
+WHO,"WPRO",OSDMA8,pop,2004,44.5640716694073,2950
+WHO,"WPRO",OSDMA8,pop,2005,43.1864040574202,2950
+WHO,"WPRO",OSDMA8,pop,2006,44.3116414137206,2950
+WHO,"WPRO",OSDMA8,pop,2007,44.3429066317055,2950
+WHO,"WPRO",OSDMA8,pop,2008,45.8477791780085,2950
+WHO,"WPRO",OSDMA8,pop,2009,46.0934330593356,2950
+WHO,"WPRO",OSDMA8,pop,2010,43.3816461736449,2950
+WHO,"WPRO",OSDMA8,pop,2011,45.2281832552674,2950
+WHO,"WPRO",OSDMA8,pop,2012,45.0209273623716,2950
+WHO,"WPRO",OSDMA8,pop,2013,42.9691587978331,2950
+WHO,"WPRO",OSDMA8,pop,2014,47.0620915218272,2950
+WHO,"WPRO",OSDMA8,pop,2015,47.5207402683657,2950
+WHO,"WPRO",OSDMA8,pop,2016,48.9968290455771,2950
+WHO,"WPRO",OSDMA8,pop,2017,53.1886555543885,2950
+WHO,"WPRO",OSDMA8,pop,2018,53.0863913550921,2950
+WHO,"WPRO",OSDMA8,pop,2019,53.8431229137656,2950
+WHO,"WPRO",OSDMA8,pop,2020,51.2492356884784,2950
+WHO,"WPRO",OSDMA8,pop,2021,50.6931708793233,2950
+WHO,"WPRO",OSDMA8,pop,2022,54.6997866107419,2950

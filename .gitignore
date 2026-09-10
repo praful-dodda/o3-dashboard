@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/secrets.toml
+
+# data/ IS committed. Streamlit Community Cloud serves only what is in the
+# repo, so the app's inputs have to be tracked -- that is why the repo is
+# private with a viewer allowlist. Total is ~10 MB (grid_annual.parquet is
+# 7.4 MB), comfortably under GitHub's 50 MB per-file warning.
+data/*.nc
+data/*.mat

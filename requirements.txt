@@ -1,0 +1,9 @@
+# Verified against Python 3.14 / pandas 3.0.3 / streamlit 1.58.0 on 2026-08-31.
+streamlit>=1.49        # `width="stretch"`; use_container_width is removed
+pandas>=2.0
+numpy>=1.24
+plotly>=6.0
+pyarrow>=14.0
+statsmodels>=0.14
+scipy>=1.10
+kaleido>=1.0           # v0.2.1 does not work with plotly 6.x
